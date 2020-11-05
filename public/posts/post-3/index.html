@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="generator" content="Hugo 0.72.0" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="//fonts.googleapis.com/css?family=Open+Sans:400,800" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.4/styles/github.min.css">
+<link rel="stylesheet" href="/css/normalize.css">
+<link rel="stylesheet" href="/css/skeleton.css">
+<link rel="stylesheet" href="/css/custom.css">
+<title>Math Type Setting</title>
+</head>
+<body>
+
+<div class="container">
+  <header role="banner">
+  <h1 id="title">Math Type Setting</h1>
+  </header>
+
+  <main role="main">
+  <div>
+        <article id="content">
+           <p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.</p>
+<p>In this example we will be using <a href="https://katex.org/">KaTeX</a></p>
+<ul>
+<li>Create a partial under <code>/layouts/partials/math.html</code></li>
+<li>Within this partial reference the <a href="https://katex.org/docs/autorender.html">Auto-render Extension</a> or host these scripts locally.</li>
+<li>Include the partial in your templates like so:</li>
+</ul>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash"><span style="color:#f92672">{{</span> <span style="color:#66d9ef">if</span> or .Params.math .Site.Params.math <span style="color:#f92672">}}</span>
+<span style="color:#f92672">{{</span> partial <span style="color:#e6db74">&#34;math.html&#34;</span> . <span style="color:#f92672">}}</span>
+<span style="color:#f92672">{{</span> end <span style="color:#f92672">}}</span>
+</code></pre></div><ul>
+<li>To enable KaTex globally set the parameter <code>math</code> to <code>true</code> in a project&rsquo;s configuration</li>
+<li>To enable KaTex on a per page basis include the parameter <code>math: true</code> in content files</li>
+</ul>
+<p><strong>Note:</strong> Use the online reference of <a href="https://katex.org/docs/supported.html">Supported TeX Functions</a></p>
+
+
+
+<h3 id="examples">Examples</h3>
+
+<p>
+Inline math: \(\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…\)
+</p>
+
+<p>Block math:
+$$
+\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
+$$</p>
+
+        </article>
+  </div>
+<aside id="meta">
+    <div>
+    <section>
+      <span class="entry-meta"><time itemprop="datePublished" datetime="2018-03-18">March 18, 2018 | 120 Words</time></span>
+    </section>
+    
+    
+    <ul id="tags">
+      
+        <li> <a href="https://atelier-reticulum.netlify.app/tags/mathjax">MathJax</a> </li>
+      
+        <li> <a href="https://atelier-reticulum.netlify.app/tags/test">test</a> </li>
+      
+    </ul>
+    
+    </div>
+    <div>
+        
+          <a class="previous" href="https://atelier-reticulum.netlify.app/posts/post-2/"> Markdown Syntax Guide</a> |
+        
+        
+          <a class="next" href="https://atelier-reticulum.netlify.app/posts/post-4/"> 中文测试</a>
+        
+    </div>
+
+</aside>
+</main>
+
+
+	<footer role="contentinfo">
+		<div class="hr"></div>
+		<div class="footer-link">
+			<a href="/">Home</a> / <a href="mailto:test@test.com" target="_blank">Email</a> / <a href="https://cloudconfusing.com">Site</a>
+		</div>
+		<div class="copyright">Copyright &copy; 2019</div>
+	</footer>
+
+  </div>
+
+</body>
+</html>

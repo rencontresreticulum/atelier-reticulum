@@ -1,0 +1,29 @@
+baseurl: "https://atelier-reticulum.netlify.app/"
+languageCode: "fr-FR"
+title: "Atelier Reticulum"
+theme: "xmin"
+footnotereturnlinkcontents: "↩"
+
+permalinks:
+  posts: ":slug/"
+
+menu:
+  main:
+    - name: Index
+      url: ""
+      weight: 1
+    - name: La journée d’étude
+      url: "reticulum-3/"
+      weight: 2
+    - name: À propos
+      url: "a-propos/"
+      weight: 3
+
+params:
+  description: "Site-démo pour l’atelier Reticulum."
+  footer: "CC-BY Florian Harmand & Arthur Perret 2020 • [<mark>Contact</mark>](mailto:florian.harman@gmail.com,arthur.perret@u-bordeaux-montaigne.fr)"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
