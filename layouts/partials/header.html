@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ .Title }} | {{ .Site.Title }}</title>
     <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}" />
-    {{ partial "head_custom.html" . }}
+    <link rel="shortcut icon" href="img/reticulum.ico">
+    {{ partial "pagedjs-header.html" . }}
   </head>
 
   <body>
@@ -14,6 +15,7 @@
       {{ range .Site.Menus.main }}
       <li><a href="{{ .URL | relURL }}"><mark>{{ .Name }}</mark></a></li>
       {{ end }}
+      {{ partial "print-button.html" }}
     </ul>
     <hr/>
     </nav>

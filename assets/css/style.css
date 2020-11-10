@@ -35,6 +35,9 @@ mark {
   background-color: #fcd800;
 }
 .menu, .article-meta, footer { text-align: center; }
+button#print {
+	color:inherit;
+}
 .title {
 	font-weight: normal;
 	font-size: 2.3rem;

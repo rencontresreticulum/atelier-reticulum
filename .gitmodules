@@ -1,0 +1,3 @@
+[submodule "themes/pagedjs"]
+	path = themes/pagedjs
+	url = https://gitlab.pagedmedia.org/julientaq/pagedjs-hugo.git
