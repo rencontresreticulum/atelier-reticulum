@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Index on Atelier Reticulum</title>
+    <link>https://atelier-reticulum.netlify.app/</link>
+    <description>Recent content in Index on Atelier Reticulum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Mon, 08 Feb 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://atelier-reticulum.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reticulum 3 – Faire savoir et pouvoir faire</title>
+      <link>https://atelier-reticulum.netlify.app/reticulum-3-faire-savoir-et-pouvoir-faire/</link>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-reticulum.netlify.app/reticulum-3-faire-savoir-et-pouvoir-faire/</guid>
+      <description>Troisième édition de Reticulum, consacrée aux techniques de la réticularisation numérique et à leurs apports.</description>
+    </item>
+    
+    <item>
+      <title>Reticulum 2 – Architecture(s) de l&#39;information</title>
+      <link>https://atelier-reticulum.netlify.app/reticulum-2-architectures-de-linformation/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-reticulum.netlify.app/reticulum-2-architectures-de-linformation/</guid>
+      <description>La naissance de l&amp;rsquo;architecture de l&amp;rsquo;information en tant que champ est concomitante de l&amp;rsquo;ère de l&amp;rsquo;information engendrée par les techniques numériques. En d&amp;rsquo;autres mots, elle fait partie de ces approches permettant de lire et d&amp;rsquo;écrire le réseau, mais aussi de le rendre accessible et intelligible au plus grand nombre. C&amp;rsquo;est pourquoi l&amp;rsquo;architecture de l&amp;rsquo;information est au cœur de la deuxième édition de Reticulum.</description>
+    </item>
+    
+    <item>
+      <title>Reticulum 1 – Opérabilité du concept de dispositif</title>
+      <link>https://atelier-reticulum.netlify.app/reticulum-1-op%C3%A9rabilit%C3%A9-du-concept-de-dispositif/</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-reticulum.netlify.app/reticulum-1-op%C3%A9rabilit%C3%A9-du-concept-de-dispositif/</guid>
+      <description>C’est un mot qui peut se traduire par intersection, maillage ou réseau ; mais il peut également signifier un filet, voire un piège. Reticulum : une locution appropriée pour caractériser ce paradigme multiforme que notre époque a vu se renforcer – celui des réseaux. Un terme polysémique, qui souligne la nécessité d’un travail épistémologique partagé. C’est dans cet esprit que nous avons pensé ce cycle de rencontres entre SIC et design, dont la première édition s’intitule Opérabilité du concept de dispositif.</description>
+    </item>
+    
+    <item>
+      <title>Imprimer</title>
+      <link>https://atelier-reticulum.netlify.app/imprimer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-reticulum.netlify.app/imprimer/</guid>
+      <description>Reticulum 1 – Opérabilité du concept de dispositif C’est un mot qui peut se traduire par intersection, maillage ou réseau ; mais il peut également signifier un filet, voire un piège. Reticulum : une locution appropriée pour caractériser ce paradigme multiforme que notre époque a vu se renforcer – celui des réseaux. Un terme polysémique, qui souligne la nécessité d’un travail épistémologique partagé. C’est dans cet esprit que nous avons pensé ce cycle de rencontres entre SIC et design, dont la première édition s’intitule Opérabilité du concept de dispositif.</description>
+    </item>
+    
+    <item>
+      <title>À propos</title>
+      <link>https://atelier-reticulum.netlify.app/a-propos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://atelier-reticulum.netlify.app/a-propos/</guid>
+      <description>Co-organisées par Florian Harmand et Arthur Perret (Université Bordeaux Montaigne, laboratoire Mica), les rencontres Reticulum offrent un lieu et un temps pour interroger le paradigme réticulaire, plus que jamais prégnant à l’ère numérique. Réunissant des chercheurs et des praticiens, ces événements mettent en rapport des travaux de recherches et des projets professionnels ayant un lien intime avec le réseau et ses concepts afférents.
+Cette démarche se veut épistémologique, au sens où elle questionne la genèse et l’évolution de concepts cruciaux des SIC et du design à l’interface de la recherche et des pratiques professionnelles.</description>
+    </item>
+    
+  </channel>
+</rss>

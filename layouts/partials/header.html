@@ -15,7 +15,9 @@
       {{ range .Site.Menus.main }}
       <li><a href="{{ .URL | relURL }}"><mark>{{ .Name }}</mark></a></li>
       {{ end }}
+    	{{ if (eq .Params.pagedjs true)  }}
       {{ partial "print-button.html" }}
+      {{ end }}
     </ul>
     <hr/>
     </nav>

@@ -3,17 +3,18 @@ languageCode: "fr-FR"
 title: "Atelier Reticulum"
 theme: "xmin"
 footnotereturnlinkcontents: "↩"
+buildFuture: true
 
 permalinks:
-  posts: ":slug/"
+  post: ":slug/"
 
 menu:
   main:
     - name: Index
       url: ""
       weight: 1
-    - name: La journée d’étude
-      url: "reticulum-3/"
+    - name: Imprimer
+      url: "imprimer/"
       weight: 2
     - name: À propos
       url: "a-propos/"

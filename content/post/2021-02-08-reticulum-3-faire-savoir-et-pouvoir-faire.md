@@ -1,6 +1,6 @@
 ---
 title: "Reticulum 3 – Faire savoir et pouvoir faire"
-date: 2020-11-05T10:54:00+01:00
+date: 2021-02-08
 summary: "Troisième édition de Reticulum, consacrée aux techniques de la réticularisation numérique et à leurs apports."
 ---
 
@@ -47,5 +47,7 @@ Dans cette perspective, Reticulum 3 se déroulera cette année en deux temps.
 ## Informations pratiques
 
 À venir.
+
+![Pessac](/img/reticulum3-pessac.png)
 
 <!-- Le jeudi 20 février 2020 de 09h30 à 17h30, à l'Université Bordeaux Montaigne, Maison des Sciences de l'Homme d'Aquitaine Salle Jean Borde (rdc à gauche) 10 Esplanade des Antilles 33607 PESSAC. [Voir sur Google Maps](https://www.google.com/maps/place/Maison+Sciences+Homme+Aquitaine/@44.7944306,-0.6187195,15z/data=!4m5!3m4!1s0x0:0xca5004bfedc5fc87!8m2!3d44.7944306!4d-0.6187195) -->

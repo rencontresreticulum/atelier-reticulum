@@ -1,32 +1,37 @@
-  /* paged.js style example*/
+/* paged.js style example*/
 
-  @media print {
+@media print {
+	/* Visibilité */
+	nav, h1.title, footer {display:none}
 
-    /* h1 will be used to define running head */
-    h1 {
-      string-set: title content(text);
-    }
-  
-    @page  {
-      size: A4;
-      margin-top: 15mm;
-      margin-left: 20mm;
-      margin-right: 15mm;
-      margin-bottom: 25mm;
-  
-      @bottom-center  {
-        content: element(footer);
-      }
-  
-      @top-right  {
-        content: counter(page);
-        font-size: 0.7em;
-      }
-  
-      @top-left  {
-        content: string(title);
-        font-size: 0.7em;
-      }
-    }
-  }
-  
+	/* Titre courant */
+	h1 {
+		string-set: title content(text);
+		break-before: always;
+	}
+
+	@page  {
+		size: A4;
+		margin-top: 15mm;
+		margin-left: 20mm;
+		margin-right: 15mm;
+		margin-bottom: 25mm;
+
+		@bottom-center  {
+			content: element(footer);
+		}
+
+		@top-right  {
+			content: counter(page);
+			font-size: 0.7em;
+		}
+
+		@top-left  {
+			content: string(title);
+			font-size: 0.9em;
+			font-family: Georgia, serif;
+			font-variant: small-caps;
+			max-width: 300px;
+		}
+	}
+}
