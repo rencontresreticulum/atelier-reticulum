@@ -12,9 +12,63 @@
 
   <body>
     {{ partial "scroll-progress" }}
-    <div class="container d-flex">
-    <header class="col-2">
+    <div class="container-fluid d-flex">
+    <header class="col-3">
     <nav>
+
+    <div id="accordion">
+      <div class="card">
+        <div class="card-header" id="headingOne">
+          <h5 class="mb-0">
+            <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+              Introduction
+            </button>
+          </h5>
+        </div>
+
+        <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+          <ul class="card-body">
+            <li><a href="#chap1-part1">sous-chap1</a></li>
+            <li><a href="#chap1-part2">sous-chap2</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header" id="headingTwo">
+          <h5 class="mb-0">
+            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+              CHAPITRE 2 :<br/>Une entrée en matière
+            </button>
+          </h5>
+        </div>
+        <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+          <ul class="card-body">
+            <li><a href="#chap2-part1">sous-chap1</a></li>
+            <li><a href="#chap2-part2">sous-chap2</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-header" id="headingThree">
+          <h5 class="mb-0">
+            <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+              CHAPITRE 3 :<br/>Pratiques réticulaires en design
+            </button>
+          </h5>
+        </div>
+        <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+          <ul class="card-body">
+            <li><a href="#chap3-part1">sous-chap1</a></li>
+            <li><a href="#chap3-part2">sous-chap2</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+
+
+
+
     <ul class="menu">
       {{ range .Site.Menus.main }}
       <li><a href="{{ .URL | relURL }}"><mark>{{ .Name }}</mark></a></li>

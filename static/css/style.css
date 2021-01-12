@@ -1,3 +1,5 @@
+html {scroll-behavior: smooth;}
+* {box-sizing: border-box;}
 /* fonts */
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
@@ -7,17 +9,20 @@ body {
 
 /* page layout */
 body {
-  width:100% !important;
   margin: auto;
-  padding: 1em;
+  padding-top: 1em;
   line-height: 1.5em;
 }
+
 .article-meta, main {
 	/*max-width: 600px;*/
 	margin: 0 auto;
 }
 
 /* header and footer areas */
+header{
+  background-color: #DAE2EA;
+}
 nav{position: fixed;}
 
 .menu {display:flex;flex-direction:column;padding: 0;}
@@ -120,7 +125,8 @@ main hr { display: none; }
 }
 
 .scroll-progress-container{
-  position: fixed;z-index:100;
+  position: fixed;
+  z-index:100;
   top: 0;
   left: 0;
   width: 100%;
@@ -133,3 +139,20 @@ main hr { display: none; }
   height: 100%;
   background-color: #fcd800;
 }
+
+.card{
+  padding:0;
+  background-color: transparent;
+  border: none;
+  margin:0;
+}
+
+.card-header{background-color: transparent;padding:0;}
+.card button{
+  padding:0;
+  margin:0.5em 0;
+  color:#000;
+  font-weight: 700;
+  text-align: left;
+}
+
