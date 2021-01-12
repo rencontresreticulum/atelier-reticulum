@@ -7,18 +7,20 @@ body {
 
 /* page layout */
 body {
-  max-width: 800px;
+  width:100% !important;
   margin: auto;
   padding: 1em;
   line-height: 1.5em;
 }
 .article-meta, main {
-	max-width: 600px;
+	/*max-width: 600px;*/
 	margin: 0 auto;
 }
 
 /* header and footer areas */
-.menu { padding: 0; }
+nav{position: fixed;}
+
+.menu {display:flex;flex-direction:column;padding: 0;}
 .menu li {
 	display: inline-block;
 	font-weight: bold;

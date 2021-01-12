@@ -1,4 +1,5 @@
 {{ partial "header.html" . }}
+<section class="col-10">
 <div class="article-meta">
 <h1 class="title">{{ .Title | markdownify }}</h1>
 {{ with .Params.author }}<h2 class="author">{{ . }}</h2>{{ end }}
@@ -9,5 +10,6 @@
 <main>
 {{ .Content }}
 </main>
-
+</section>
+</div>
 {{ partial "footer.html" . }}
