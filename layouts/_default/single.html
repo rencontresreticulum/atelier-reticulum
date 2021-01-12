@@ -1,5 +1,5 @@
 {{ partial "header.html" . }}
-<section class="col-9">
+<section class="col-7 offset-1">
 <div class="article-meta">
 <h1 class="title">{{ .Title | markdownify }}</h1>
 {{ with .Params.author }}<h2 class="author">{{ . }}</h2>{{ end }}
@@ -10,6 +10,17 @@
 <main>
 {{ .Content }}
 </main>
+<hr>
+<div class="d-flex justify-content-between">
+  <div>
+    {{ if .PrevInSection }}Précédent :<br/>
+    <a href="{{ .PrevInSection.RelPermalink }}">{{ .PrevInSection.Title }}</a>{{ end }}
+  </div>
+  <div>
+    {{ if .NextInSection }}Suivant :<br/>
+    <a href="{{ .NextInSection.RelPermalink }}">{{ .NextInSection.Title }}</a>{{ end }}
+  </div>
+</div>
 </section>
 </div>
 {{ partial "footer.html" . }}

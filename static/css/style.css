@@ -13,7 +13,8 @@ body {
 /* page layout */
 body {
   margin: auto;
-  
+  padding-top: 1em;
+  line-height: 1.5em;
 }
 
 .article-meta, main {
@@ -24,7 +25,9 @@ body {
 /* header and footer areas */
 header{
   background-color: #DAE2EA;
+  padding-top:2em;
 }
+
 nav{position: fixed;}
 
 .menu {display:flex;flex-direction:column;padding: 0;}
@@ -80,23 +83,23 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  
+
 }
 
-.homepage > h2 { 
+.homepage > h2 {
   text-align: center;
 }
 
 /* revue */
 #revue {
-  
+
   height: 100vh;
   display: flex;
   flex-direction: column;
-  
+
   justify-content: space-between;
   align-items: center;
-  
+
 }
 
 /* links */
@@ -159,14 +162,14 @@ main hr { display: none; }
   top: 0;
   left: 0;
   width: 100%;
-  background-color: white;
-  height: 10px;
+  background-color: #DCDCDC;
+  height: 20px;
 }
 
 .scroll-progress{
   width: 0px;
   height: 100%;
-  background-color:#30495B;
+  background-color:#969696;
 }
 
 .card{
@@ -192,5 +195,9 @@ aside{
   top:4em;
   z-index: 1000;
   transform: rotate(-90deg);
+}
+
+section{
+  margin-top: 5em;
 }
 
