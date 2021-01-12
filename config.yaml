@@ -21,8 +21,8 @@ menu:
       weight: 3
 
 params:
-  description: "Site-démo pour l’atelier Reticulum."
-  footer: "CC-BY Florian Harmand & Arthur Perret 2020 • [<mark>Contact</mark>](mailto:florian.harman@gmail.com,arthur.perret@u-bordeaux-montaigne.fr)"
+  description: "Prototype de revue développé dans le cadre de l'atelier Reticulum."
+  footer: "CC-BY Master DIIS, Master DNHD, Florian Harmand & Arthur Perret 2020 • [<mark>Contact</mark>](mailto:florian.harman@gmail.com,arthur.perret@u-bordeaux-montaigne.fr)"
 
 markup:
   goldmark:
