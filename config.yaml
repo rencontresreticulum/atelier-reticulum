@@ -6,7 +6,7 @@ footnotereturnlinkcontents: "↩"
 buildFuture: true
 
 permalinks:
-  post: ":slug/"
+  articles: ":slug/"
 
 menu:
   main:

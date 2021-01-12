@@ -1,6 +1,5 @@
 ---
-title: Article revue ch1
-date: 2021-02-11
+title: Introduction
 summary: "à remplir"
 ---
 

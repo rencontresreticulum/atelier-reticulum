@@ -1,6 +1,5 @@
 ---
-title: Article revue biblio
-date: 2021-02-11
+title: Bibliographie
 summary: "à remplir"
 ---
 
