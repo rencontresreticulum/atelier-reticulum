@@ -116,3 +116,18 @@ main hr { display: none; }
 	text-indent: -1.5em;
 	padding-left: 1.5em;
 }
+
+.scroll-progress-container{
+  position: fixed;z-index:100;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: white;
+  height: 10px;
+}
+
+.scroll-progress{
+  width: 0px;
+  height: 100%;
+  background-color: #fcd800;
+}
