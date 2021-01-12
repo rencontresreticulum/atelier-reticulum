@@ -1,3 +1,9 @@
+---
+title: Article revue ch1
+date: 2021-02-11
+summary: "à remplir"
+---
+
 # CHAPITRE 1 : Introduction
 
 ## 1.1 Editorial

@@ -1,3 +1,9 @@
+---
+title: Article revue biblio
+date: 2021-02-11
+summary: "à remplir"
+---
+
 # Bibliographie
 
 « Coronavirus : Manifestation D&#39;Une Crise Systémique Du Management ? », Ibrahim Fall, Forbes, numéro du 23 mars 2020

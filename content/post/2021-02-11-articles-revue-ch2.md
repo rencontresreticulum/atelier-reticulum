@@ -1,3 +1,9 @@
+---
+title: Article revue ch2
+date: 2021-02-11
+summary: "à remplir"
+---
+
 # CHAPITRE 2 : Une entrée en matière
 
 ## 2.1.  Démarche de construction du projet Réticulum

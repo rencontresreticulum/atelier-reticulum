@@ -1,3 +1,9 @@
+---
+title: Article revue ch3
+date: 2021-02-11
+summary: "à remplir"
+---
+
 # **CHAPITRE 3 : Pratiques réticulaires en Design**
 
 ## 3.1. Le collectif – Le projet des aidants
@@ -102,7 +108,7 @@ Nous avons pensé qu&#39;il serait intéressant, sur la partie web, de pouvoir a
 
 ## 3.3. La collaboration – Le projet Ensam
 
-L&#39;axe collaboratif est primordial pour un designer, qui construit progressivement son profil, en l&#39;inscrivant au sein de nouvelles pratiques, en constante émergence. En effet, selon les nouveaux paradigmes du design, les capacités intellectuelles, les connaissances, les personnalités ainsi que l&#39;environnement de travail dans lequel s&#39;inscrit un projet, sont des notions décisives et essentielles au sein du processus de création. 
+L&#39;axe collaboratif est primordial pour un designer, qui construit progressivement son profil, en l&#39;inscrivant au sein de nouvelles pratiques, en constante émergence. En effet, selon les nouveaux paradigmes du design, les capacités intellectuelles, les connaissances, les personnalités ainsi que l&#39;environnement de travail dans lequel s&#39;inscrit un projet, sont des notions décisives et essentielles au sein du processus de création.
 
 ### Commande et objectifs
 
