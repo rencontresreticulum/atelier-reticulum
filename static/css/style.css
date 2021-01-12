@@ -13,8 +13,7 @@ body {
 /* page layout */
 body {
   margin: auto;
-  padding-top: 1em;
-  line-height: 1.5em;
+  
 }
 
 .article-meta, main {
@@ -71,6 +70,33 @@ main {
 	hyphens: auto;
 	font-size: 1.3rem;
 	line-height: 1.4;
+}
+
+/* homepage */
+.homepage {
+  background-color: #B5C5D5;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.homepage > h2 { 
+  text-align: center;
+}
+
+/* revue */
+#revue {
+  
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  
+  justify-content: space-between;
+  align-items: center;
+  
 }
 
 /* links */

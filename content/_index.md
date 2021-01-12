@@ -2,4 +2,6 @@
 title: Index
 ---
 
-*Intégrer ici l'éditorial.*
+# RETICULUM 
+
+## Revue de design du Master Design, Interaction, Innovation et Service
