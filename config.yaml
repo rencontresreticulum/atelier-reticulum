@@ -28,3 +28,6 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+    parser:
+      autoHeadingID: true
+      autoHeadingIDType: github-ascii
