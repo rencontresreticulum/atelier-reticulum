@@ -13,11 +13,13 @@
 <hr>
 <div class="d-flex justify-content-between">
   <div>
-    {{ if .PrevInSection }}Précédent :<br/>
+    <i class="fa fa-arrow-circle-left fa-lg" aria-hidden="true"></i><b>
+    {{ if .PrevInSection }}Précédent :</b><br/>
     <a href="{{ .PrevInSection.RelPermalink }}">{{ .PrevInSection.Title }}</a>{{ end }}
   </div>
   <div>
-    {{ if .NextInSection }}Suivant :<br/>
+    <i class="fa fa-arrow-circle-right fa-lg" aria-hidden="true"></i><b>
+    {{ if .NextInSection }}Suivant :</b><br/>
     <a href="{{ .NextInSection.RelPermalink }}">{{ .NextInSection.Title }}</a>{{ end }}
   </div>
 </div>
