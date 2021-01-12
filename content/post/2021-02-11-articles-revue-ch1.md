@@ -6,7 +6,7 @@ summary: "à remplir"
 
 # CHAPITRE 1 : Introduction
 
-## 1.1 Editorial
+## 1.1 Editorial v0
 
 Les nouvelles formes de design proclamées aujourd&#39;hui, sont de l&#39;ordre du projet et de la méthode, et se caractérisent par leur processus de réflexion, qui cherche à résoudre des problèmes complexes dans le but de créer des solutions portées sur la valeur. Le design s&#39;ouvre aujourd&#39;hui à des problématiques de plus en plus abstraites, à la création de systèmes complexes et à la mise en place de stratégies qui permettent d&#39;apporter des réponses holistiques. La discipline design est systémique, de par son apport de résultats pensés en un tout cohérent et composé de différentes parties qui interagissent les unes avec les autres. Avec une spécificité fondamentalement hybride, les sciences du design prennent en considération les aspects sociaux, politiques, psychologiques, ergonomiques, techniques, organisationnels, etc. d&#39;un contexte précis.
 
