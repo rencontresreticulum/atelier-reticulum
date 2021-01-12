@@ -19,10 +19,13 @@ menu:
     - name: À propos
       url: "a-propos/"
       weight: 3
+    - name: Test
+      url: "test/"
+      weight: 4
 
 params:
-  description: "Prototype de revue développé dans le cadre de l'atelier Reticulum."
-  footer: "CC-BY Master DIIS, Master DNHD, Florian Harmand & Arthur Perret 2020 • [<mark>Contact</mark>](mailto:florian.harman@gmail.com,arthur.perret@u-bordeaux-montaigne.fr)"
+  description: "Site-démo pour l’atelier Reticulum."
+  footer: "CC-BY Florian Harmand & Arthur Perret 2020 • [<mark>Contact</mark>](mailto:florian.harman@gmail.com,arthur.perret@u-bordeaux-montaigne.fr)"
 
 markup:
   goldmark:
