@@ -7,6 +7,9 @@ body {
 .title {}
 .summary, main { font-family: "Adobe Caslon Pro", "EB Garamond", "Garamond", Georgia, serif; }
 
+.container-fluid{
+  padding:0 !important;
+}
 /* page layout */
 body {
   margin: auto;
@@ -137,7 +140,7 @@ main hr { display: none; }
 .scroll-progress{
   width: 0px;
   height: 100%;
-  background-color: #fcd800;
+  background-color:#30495B;
 }
 
 .card{
@@ -147,6 +150,7 @@ main hr { display: none; }
   margin:0;
 }
 
+.card li{color:black;}
 .card-header{background-color: transparent;padding:0;}
 .card button{
   padding:0;
@@ -154,5 +158,13 @@ main hr { display: none; }
   color:#000;
   font-weight: 700;
   text-align: left;
+}
+
+aside{
+  position: fixed;
+  right:0;
+  top:4em;
+  z-index: 1000;
+  transform: rotate(-90deg);
 }
 
