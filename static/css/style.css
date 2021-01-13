@@ -123,16 +123,9 @@ body {
 }
 
 /* header and footer areas */
-header{
-  background-color: #DAE2EA;
-  padding-top:2em;
-  height:100vh;
-  min-height:100vh;
-}
+nav{background-color: #DAE2EA;}
 
-nav{position: fixed;}
-
-.menu {display:flex;flex-direction:column;padding: 0;}
+.menu {display:flex;flex-direction:column;}
 .menu li {
 	display: inline-block;
 	font-weight: bold;
