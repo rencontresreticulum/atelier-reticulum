@@ -3,8 +3,8 @@ html {scroll-behavior: smooth;}
 /* fonts */
 @font-face {
     font-family: 'Lment';
-    src: url('Lment-v02.woff2') format('woff2'),
-        url('Lment-v02.woff') format('woff');
+    src: url('../fonts/Lment-v02.woff2') format('woff2'),
+        url('../fonts/Lment-v02.woff') format('woff');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
@@ -12,8 +12,8 @@ html {scroll-behavior: smooth;}
 
 @font-face {
     font-family: 'Lato';
-    src: url('Lato-BoldItalic.woff2') format('woff2'),
-        url('Lato-BoldItalic.woff') format('woff');
+    src: url('../fonts/Lato-BoldItalic.woff2') format('woff2'),
+        url('../fonts/Lato-BoldItalic.woff') format('woff');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
@@ -21,8 +21,8 @@ html {scroll-behavior: smooth;}
 
 @font-face {
     font-family: 'Lato';
-    src: url('Lato-Italic.woff2') format('woff2'),
-        url('Lato-Italic.woff') format('woff');
+    src: url('../fonts/Lato-Italic.woff2') format('woff2'),
+        url('../fonts/Lato-Italic.woff') format('woff');
     font-weight: normal;
     font-style: italic;
     font-display: swap;
@@ -30,8 +30,8 @@ html {scroll-behavior: smooth;}
 
 @font-face {
     font-family: 'Lato';
-    src: url('Lato-Bold.woff2') format('woff2'),
-        url('Lato-Bold.woff') format('woff');
+    src: url('../fonts/Lato-Bold.woff2') format('woff2'),
+        url('../fonts/Lato-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -39,8 +39,8 @@ html {scroll-behavior: smooth;}
 
 @font-face {
     font-family: 'Lato';
-    src: url('Lato-Regular.woff2') format('woff2'),
-        url('Lato-Regular.woff') format('woff');
+    src: url('../fonts/Lato-Regular.woff2') format('woff2'),
+        url('../fonts/Lato-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -48,8 +48,8 @@ html {scroll-behavior: smooth;}
 
 @font-face {
     font-family: 'Open Sans';
-    src: url('OpenSans-ExtraBold.woff2') format('woff2'),
-        url('OpenSans-ExtraBold.woff') format('woff');
+    src: url('../fonts/OpenSans-ExtraBold.woff2') format('woff2'),
+        url('../fonts/OpenSans-ExtraBold.woff') format('woff');
     font-weight: 800;
     font-style: normal;
     font-display: swap;
@@ -57,8 +57,8 @@ html {scroll-behavior: smooth;}
 
 @font-face {
     font-family: 'Open Sans';
-    src: url('OpenSans-Regular.woff2') format('woff2'),
-        url('OpenSans-Regular.woff') format('woff');
+    src: url('../fonts/OpenSans-Regular.woff2') format('woff2'),
+        url('../fonts/OpenSans-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -66,8 +66,8 @@ html {scroll-behavior: smooth;}
 
 @font-face {
     font-family: 'Open Sans';
-    src: url('OpenSans-Bold.woff2') format('woff2'),
-        url('OpenSans-Bold.woff') format('woff');
+    src: url('../fonts/OpenSans-Bold.woff2') format('woff2'),
+        url('../fonts/OpenSans-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -75,15 +75,15 @@ html {scroll-behavior: smooth;}
 
 @font-face {
     font-family: 'Grotesk';
-    src: url('Grotesk.woff2') format('woff2'),
-        url('Grotesk.woff') format('woff');
+    src: url('../fonts/Grotesk.woff2') format('woff2'),
+        url('../fonts/Grotesk.woff') format('woff');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
 }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  font-family: "Lato", Roboto, sans-serif;
 }
 h1 {
   font-family: Grotesk;
@@ -91,7 +91,7 @@ h1 {
   font-size: 60px;
 }
 h2 {
-  font-family: OpenSans;
+  font-family: Open Sans;
   font-size: 45px;
 }
 p { font-family: Lato;
@@ -123,14 +123,9 @@ body {
 }
 
 /* header and footer areas */
-header{
-  background-color: #DAE2EA;
-  padding-top:2em;
-}
+nav{background-color: #DAE2EA;}
 
-nav{position: fixed;}
-
-.menu {display:flex;flex-direction:column;padding: 0;}
+.menu {display:flex;flex-direction:column;}
 .menu li {
 	display: inline-block;
 	font-weight: bold;
@@ -144,7 +139,7 @@ mark {
   display: inline-block;
   line-height: 0em;
   padding-bottom: 0.5em;
-  background-color: #fcd800;
+  /*background-color: #fcd800;*/
 }
 .menu, .article-meta, footer { text-align: center; }
 .title {
@@ -274,7 +269,7 @@ main hr { display: none; }
 .scroll-progress{
   width: 0px;
   height: 100%;
-  background-color:#969696;
+  background-color:#466F95;
 }
 
 .card{
@@ -284,7 +279,9 @@ main hr { display: none; }
   margin:0;
 }
 
-.card li{color:black;}
+.card ul{padding-left: 0;margin:0;}
+.card li a{text-decoration: none;}
+.card li{color:black;list-style-type: none;}
 .card-header{background-color: transparent;padding:0;}
 .card button{
   padding:0;
@@ -295,15 +292,36 @@ main hr { display: none; }
 }
 
 aside{
+  background-color: #97728C;
+  border-radius: 20px;
+  padding:0.5em;
   position: fixed;
-  right:0;
+  display: flex;
+  flex-direction: column;
+  right:1em;
   top:4em;
   z-index: 1000;
-  transform: rotate(-90deg);
+}
+aside svg{cursor: pointer;margin:0.5em auto;}
+
+section{margin-top: 5em;}
+
+#search{
+  background-color: transparent;
+  border-radius: 20px 0 0 20px;
+  border: 1px solid black;
+  padding:0.4em 1em;
+  outline: none;
 }
 
-section{
-  margin-top: 5em;
+#btn-search{
+  background-color: black;
+  border-radius: 0 20px 20px 0;
+  color:white;
+  padding:0.4em 1em;
+  border: 1px solid black;
+  cursor: pointer;
+  margin-left:-4px;
 }
 
 .heade {width: 30%;

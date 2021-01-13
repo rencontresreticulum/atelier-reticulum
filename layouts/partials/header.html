@@ -15,8 +15,9 @@
   <body>
    {{ partial "scroll-progress" }}
     <div class="container-fluid d-flex">
+    <div class="row">
     <header class="col-3">
-    <nav>
+    <nav class="col-3 pt-5 h-100" style="position: fixed;">
 
     <div id="accordion">
       <div class="card">
@@ -67,12 +68,12 @@
       </div>
     </div>
 
-    <div>
+    <div class="mt-4">
       <input id="search" type="text" placeholder="Entrer le code" value="" />
-      <input id="btn-search" type="button" value="Accéder" />
+      <input id="btn-search" type="button" value="Go" />
     </div>
 
-
+<!--
     <ul class="menu">
       {{ range .Site.Menus.main }}
       <li><a href="{{ .URL | relURL }}"><mark>{{ .Name }}</mark></a></li>
@@ -89,9 +90,8 @@
       {{ partial "button-list.html" }}
       {{ end }}
     </section>
+-->
 
-    <aside>
-      <button class="btn btn-secondary" id="clickme">Accessibilité</button>
-      <button class="btn btn-secondary" id="normal">Mode normal</button>
-    </aside>
+
+
     </header>

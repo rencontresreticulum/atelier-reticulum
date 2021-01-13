@@ -1,4 +1,72 @@
 ---
-title: Usages
+title: Hyper
 ---
 
+# Le préfixe hyper- et le paradigme du réseau
+
+> Un hyperdocument n'est pas un document. (Bachimont, 2001)
+
+Dans leur article _Hyperdocumentation : origin and evolution of a concept_, les chercheurs Arthur Perret et Olivier Le Deuff révèlent comment le préfixe _hyper_- semble apparaître pour la première fois en 1895 dans la traduction de _Principles of Sociology_ de Herbert Spencer par Jean Izoulet, dans la formule « hyper-organisme ». Ce préfixe, dont l'association avec la notion de document est consacrée par Otlet, bibliographe belge créateur du _Mundaneum_, dans son grand _Traité de documentation_ (1934), se différencie de _super_-, qui transmet un sens de hiérarchie prononcé, car il véhicule une signification de transcendance. Le préfixe n'a donc pas une fonction augmentative ou intensive, mais spatiale, signifiant « au-delà », plutôt que « au-dessus  »ou « plus de ». Ted Nelson, sociologue américain dont on aura à reparler, souligne comment « hyper  »se réfère donc à la structure et non pas à la dimension.
+
+Un _hyperdocument_ est donc un type de document _autre_, qui pour Paul Otlet correspond un à un tout nouveau stade de la documentation. La particularité de ce nouveau type de support, engendré par les nouvelles méthodes de captation, est sa tendance à transcender notre compréhension. Hyper est pris dans le sens mathématique d'_hyperespace_, c'est pourquoi l'hyperdocument nous échappe, par le fait qu'il existe "dans un espace à _n_ dimensions", comme l'affirment Laufer et Scavetta dans _Textes, Hypertexte et Hypermédia_. Il n'est donc pas accessible à nos sens en tant que tel, ce qui fait affirmer à Otlet que ce type de document ineffable nous pousse à développer une forme d'_hyper-intelligence_ afin de pouvoir l'appréhender.
+
+> Un hyperdocument est un contenu informatif constitué d'une nébuleuse de fragments dont le sens se construit à travers chacun des parcours que la lecture détermine. (Balpe, 1990)
+
+« Nébuleuse de fragments », l'hyperdocument, ou le document numérique, est intrinsèquement et ontologiquement lié à la notion de réseau. À la fois cause et conséquence de la pensée et des pratiques réticulaires, ce type de support témoigne de toute la richesse et la complexité de ce modèle. Encourageant une lecture non linéaire, une plus grande place est accordée à « l'instance réceptrice  »(Michel Meyer), qui, à l'instar du lecteur barthesian, est donc libre de suivre d'innombrables chemins d'interprétation et de s'approprier d'une façon toujours nouvelle d'un contenu pris dans un réseau de significations presque inépuisable.
+ Une exploration la notion clé d'hypertexte, unité de base de l'hyperdocument, peut constituer une porte d'entrée dans cet univers interconnecté.
+
+## L'hypertexte, ou le texte pris dans le réseau
+
+C'est dans le travail encyclopédique que la notion d'hypertexte trouve ses origines les plus lointaines, dans la collection et l'archivage systématique de données. Plusieurs siècles avant l'invention même de l'informatique, on retrouve déjà ses premiers ancêtres dans des ouvrages dotés d'index, qui dirigeaient le lecteur vers différentes parties du texte au mépris du sens de lecture linéaire traditionnel. C'est en 1965 que Ted Nelson pose un mot sur l'idée, dans _Complex Information Processing : A File Structure for the Complex, the Changing, and the Indeterminate_, traduit ici :
+
+« Permettez-moi d'introduire le mot « hypertexte » pour désigner un ensemble de documents, écrits ou illustrés, interconnectés d'une manière si complexe qu'il ne pourrait pas être présenté ou représenté sur papier. »
+
+L'hypertexte y est défini comme un corpus non linéaire, conférant à l'utilisateur une liberté de mouvement et l'accès à la culture à travers des _hyperdocuments_. Concrètement, il s'agit d'un ensemble de données textuelles numérisées sur un support électronique qui s'organisent sous forme de réseau. Ces dernières sont réparties en éléments, en _nœuds d'informations_, assimilables à des paragraphes reliés non linéairement et faiblement hiérarchisés. Ces nœuds d'informationssont reliés par des liens sémantiques, introduits dans un mot ou une phrase, et permettent de passer d'un document à l'autre de manière fluide lorsqu'activés par l'utilisateur. Ce dernier a donc accès à un assemblage d'éléments reliéspar une logique d'analogie avec le paradigme réticulaire_,_ puisque l'hypertexte, à l'image du réseau, mobilise et englobe les notions de _lien_ et de _nœud._
+
+Logiciel à structure de réseau sémantique, l'hypertexte permet de dépasser le seul texte. Il s'agit d'une nouvelle manière de présenter l'information numérique. L'expérience de l'utilisateur s'en trouve fluidifiée, puisque ce dernier devient libre d'explorer le web à sa guise. Les outils du web sémantique qui comportent des _hyperliens_, présents dans les données elles-mêmes, permettent de citer leurs données dans des programmes automatiques. La structure du Web est ainsi _réticulaire_: elle est organisée sous forme de réseau.
+
+Selon Pierre Levy, chercheur en sciences de l'information et de la communication, l'hypertexte se reconnaît à six qualités principales. Tout d'abord, le principe de métamorphose : le réseau hypertextuel est en constante évolution, il se transforme sans cesse. Sa seconde caractéristique est l'hétérogénéité : les nœuds et les liens d'un réseau hypertextuel sont, par définition, composés d'éléments et de documents de natures très variées. Les documents qui le composent peuvent être multimédias, multi-modaux, analogiques ou digitaux. Cette hétérogénéité induit elle-même un principe de multiplicité et d'emboîtement d'échelles : n'importe quel nœud ou lien peut être composé de son propre réseau, lui-même composé d'éléments formant leurs propres réseaux. Il s'agit d'un fonctionnement dit « _fractal_ », reproductible indéfiniment. La quatrième caractéristique du réseau hypertexte est définie comme l'absence d'unité organique ou de moteur interne. Sa croissance dépend, entre autres, d'un extérieur indéterminé, par exemple de l'adjonction de nouveaux éléments ou du branchement sur d'autres réseaux. C'est le principe d'extériorité. Levy définit ensuite le principe de topologie : tout ce qui se déplace sur le réseau hypertextuel doit emprunter ce dernier tel qu'il est, ou se voit contraint de le modifier. Il n'existe pas d'espace universel homogène où les messages pourraient circuler librement, tout fonctionne par proximité. Enfin, le dernier principe est celui de la mobilité des centres : le réseau est défini comme possédant en permanence plusieurs centres en perpétuel mouvement, qui passent inlassablement d'un nœud à l'autre.
+
+## Voir plus loin avec l'Hypermédia
+
+L'Hypermédia est une notion de premier plan lorsque l'on parle de réticularité des médias. En effet, même si le terme, inventé par Ted Nelson, n'est pas nouveau et peut-être confondu avec l'hypertexte, il est différent de celui-ci. Selon Franck Cormerais et Alain Milon dans leur article, La navigation multimédia et le retour au projet encyclopédique, « L'hypermédia est un concept qui allie le multimédia et l'hypertexte. ». Il a pour fonction de rediriger ou d'ajouter des informations multimédias supplémentaires à un document. C'est une extension de l'hypertexte pour permettre à l'utilisateur de consulter des données multimédias, allant d'une image ou d'une vidéo jusqu'à l'ajout d'extraits sonores, à partir d'un document.
+
+Cette innovation prend de plus en plus de sens avec l'évolution numérique de ces dernières années et permet de nombreuses possibilités pour enrichir un corpus. Malgré toutes ces fonctionnalités, il n'est pas compliqué d'utilisation. Au contraire, selon les auteurs, Nasreddine Bouhaï et Everardo Reyes-Garcia du livre Design de systèmes hypermédia interactifs « l'idée principale du système consistait à rapprocher l'ordinateur des usages personnels et créatifs des utilisateurs. ». Ainsi, même si le fonctionnement informatique de l'Hypermédia est complexe, le modèle ou du moins la partie visible par l'utilisateur sera compréhensible et accessible. Ceci est notamment expliqué par Everardo Reyes-Garcia avec « l'intégration de l'information numérique dans un environnement graphique ».
+
+À l'aide de cet environnement graphique, les informations visibles sont plus facilement intelligibles et composent des « liens » et des « nœuds » qui forment « un modèle de structuration pour que l'information reliée soit utilisable et compréhensible par les utilisateurs. ». Alors, si un tel modèle de structuration de l'information existe avec ces « liens  »et ces « nœuds », nous pouvons associer la connexion de ces données, qu'elles soient textuelles, imagées ou même sonores à un véritable réseau d'informations. L'utilisateur peut, de la même manière qu'avec l'Hypertexte, se frayer un chemin à travers les immenses possibilités de choix qu'il a pour récolter les informations voulues sans être contraint par le support papier, qui n'a pas l'atout de proposer cette étendue de données.
+
+## Hyperédition
+
+On peut de nos jours, et suivant notamment la réflexion du professeur Marcello Vitali Rosati, considérer l'éditorialisation comme une théorie philosophique plus qu'une simple méthode de travail. Envisager la documentation, et plus particulièrement l'hyperédition, comme une façon d'appréhender, comprendre et façonner le monde ouvre des perspectives inexplorées.
+
+Dans le monde numérique contemporain, exister comporte et signifie être éditorialisé : la réalité des choses et leur importance sont considérées selon la façon dont elles sont documentées, _si_ elles sont documentées. Reprenant les propos très explicites de Louis-Olivier Brassard, développeur web et étudiant en philosophie, « être un individu doté de sociabilité, c'est être sur Facebook, Twitter ou LinkedIn; être un restaurant, c'est être trouvable sur Google, Apple ou Yelp. ». Dans cette situation, l'idée même de l'existence, du fait « d'être », dépend de la documentation de la personne.
+
+Si aucune trace de vous n'est trouvable, existez-vous vraiment ? Suzanne Briet, bibliothécaire, développe aussi cette idée à travers le fameux exemple de l'antilope. Proposant une réflexion sur la nature multiple du document, elle inverse alors les rôles dans cette théorie, en argumentant que l'être devient le document. En effet, une antilope est un document en tant qu'animal catalogué dans un zoo. Otlet, Briet, et Schurmeyer se concentrent aussi sur ce qui a fonctionné ou servi de document, et non pas ce qui l'a été physiquement, selon la définition traditionnelle.En donnant une identité au document, et, inversement, le document construisant notre identité, la réalité sociale et l'idée même de réseau prennent une ampleur bien plus importante.
+
+Nous construisons notre image, nous _existons_, à travers ce que nous partageons. Le document comme simple texte n'est plus, le lecteur devient acteur, instance réceptrice,de ce qu'il lit, on transcende donc l'édition, comme évoqué plus tôt, pour une hyper édition. Comprendre le monde, c'est agir sur lui, en faire partie, et être en capacité de le modifier. L'hyperédition peut donc être définie comme un ensemble de systèmes, d'actions et de dynamiques qui forment l'architecture d'un espace numérique.
+
+## Bibliographie
+
+- Cormerais Franck, Milon Alain - La navigation multimédia et le retour au projet encyclopédique (persée) : [https://www.persee.fr/doc/colan\_0336-1500\_1998\_num\_116\_1\_2848#colan\_0336-1500\_1998\_num\_116\_1\_T1\_0086\_0000](https://www.persee.fr/doc/colan_0336-1500_1998_num_116_1_2848#colan_0336-1500_1998_num_116_1_T1_0086_0000)
+- Nasreddine Bouhaï, Everardo Reyes-Garcia - Design de systèmes hypermédia interactifs : [https://www.librairie-arthaud.fr/livre/9781784052645-design-de-systemes-hypermedia-interactifs-nasreddine-bou-hai-everardo-reyes-garcia-collectif/](https://www.librairie-arthaud.fr/livre/9781784052645-design-de-systemes-hypermedia-interactifs-nasreddine-bou-hai-everardo-reyes-garcia-collectif/)
+
+- Jean Davallon, Yves Jeanneret, La fausse évidence du lien hypertexte (persée): [https://www.persee.fr/doc/colan\_0336-1500\_2004\_num\_140\_1\_3266?q=la+fausse+%C3%A9vidence+du+lien+hypertexte](https://www.persee.fr/doc/colan_0336-1500_2004_num_140_1_3266?q=la+fausse+%C3%A9vidence+du+lien+hypertexte)
+
+- Textes, champs lexicaux et hypertexte, Jean-pierre Bésiat (article sur persée): [https://www.persee.fr/doc/calib\_0575-2124\_1993\_num\_30\_1\_1273?q=textes,+champs+lexicaux+et+hypertexte](https://www.persee.fr/doc/calib_0575-2124_1993_num_30_1_1273?q=textes,+champs+lexicaux+et+hypertexte)
+
+- Au carrefour de l'écriture, du traitement de texte et de l'hypertexte… Hyperconte de Monique Noel Gaudreault (article sur persée): [https://www.persee.fr/doc/reper\_1157-1330\_1995\_num\_11\_1\_2149?q=au+carrefour+de+l%27%C3%A9criture,+du+traitement+de+texte](https://www.persee.fr/doc/reper_1157-1330_1995_num_11_1_2149?q=au+carrefour+de+l%27%C3%A9criture,+du+traitement+de+texte)
+
+- Pierre Levy – _L'hypertexte, instrument et métaphore de la communication_
+
+- Jean-Michel Salaun, Chronique inachevée d'une réflexion collective sur le document (persée): [https://www.persee.fr/doc/colan\_0336-1500\_2004\_num\_140\_1\_3263?q=chronique+inachev%C3%A9e+d%27une+r%C3%A9flexion+collective+sur+le+document](https://www.persee.fr/doc/colan_0336-1500_2004_num_140_1_3263?q=chronique+inachev%C3%A9e+d%27une+r%C3%A9flexion+collective+sur+le+document)
+
+- « Langue et Discours ». La linguistique et son double par Dominique Maingueneau (article sur persée): [https://www.persee.fr/doc/drlav\_0754-9296\_1988\_num\_39\_1\_1069?q=langue+et+discours+la+linguistique+et+son+double](https://www.persee.fr/doc/drlav_0754-9296_1988_num_39_1_1069?q=langue+et+discours+la+linguistique+et+son+double)
+
+- Tim Berners-Lee et l'invention du lien hypertexte : [https://www-cairn-info.ezproxy.u-bordeaux-montaigne.fr/culture-numerique--9782724623659-page-80.htm](https://www-cairn-info.ezproxy.u-bordeaux-montaigne.fr/culture-numerique--9782724623659-page-80.htm)
+
+- Louis-Olivier Brassard, Qu'est-ce que l'éditorialisation ? (« Journal  »sur Loup Brun.ca) [https://journal.loupbrun.ca/n/059/](https://journal.loupbrun.ca/n/059/)
+- Olivier Le Deuff « Entre documentologie et documentalité : la place des SIC dans une théorie générale du document  »(Conférence pour la Masterclass DNHD1)
+
+[https://youtu.be/gUwH84EwO1gutu.be/gUwH84EwO](https://youtu.be/gUwH84EwO1g)
+
+- [https://hyperedition.hypotheses.org/a-propos](https://hyperedition.hypotheses.org/a-propos)
