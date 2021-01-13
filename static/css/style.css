@@ -146,7 +146,7 @@ mark {
   display: inline-block;
   line-height: 0em;
   padding-bottom: 0.5em;
-  background-color: #fcd800;
+  /*background-color: #fcd800;*/
 }
 .menu, .article-meta, footer { text-align: center; }
 .title {
@@ -286,7 +286,8 @@ main hr { display: none; }
   margin:0;
 }
 
-.card li{color:black;}
+.card ul{padding-left: 0;}
+.card li{color:black;list-style-type: none;}
 .card-header{background-color: transparent;padding:0;}
 .card button{
   padding:0;
@@ -297,15 +298,18 @@ main hr { display: none; }
 }
 
 aside{
+  background-color: #97728C;
+  border-radius: 20px;
+  padding:0.5em;
   position: fixed;
   display: flex;
   flex-direction: column;
-  right:0;
+  right:1em;
   top:4em;
   z-index: 1000;
 }
 
-aside button{margin:0.5em;}
+aside svg{cursor: pointer;margin:0.5em auto;}
 
 section{
   margin-top: 5em;
