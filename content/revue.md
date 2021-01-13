@@ -9,7 +9,7 @@ title: "revue"
  la revue a pour but d’explorer le rôle déterminant de ces deux disciplines dans les
  pratiques réticulaires.
 La structure de la revue est ainsi articulée autour de la notion de réseau, qui sera
- notre fl conducteur autant pour la conception de celle-ci que pour le résultat
+ notre fil conducteur autant pour la conception de celle-ci que pour le résultat
  exposé. Notre objectif est de diﬀuser des savoirs critiques sur le design grâce à
  la mise à disposition de supports abordables et accessibles qui mettent en avant
  le rôle déterminant de certains outils dans le perfectionnement de nos capacités
