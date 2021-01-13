@@ -4,7 +4,7 @@ title: Hyper
 
 # Le préfixe hyper- et le paradigme du réseau
 
-> Un hyperdocument n'est pas un document. (Bachimont, 2001)
+> « Un hyperdocument n'est pas un document. » (Bachimont, 2001)
 
 Dans leur article _Hyperdocumentation : origin and evolution of a concept_, les chercheurs Arthur Perret et Olivier Le Deuff révèlent comment le préfixe _hyper_- semble apparaître pour la première fois en 1895 dans la traduction de _Principles of Sociology_ de Herbert Spencer par Jean Izoulet, dans la formule « hyper-organisme ». Ce préfixe, dont l'association avec la notion de document est consacrée par Otlet, bibliographe belge créateur du _Mundaneum_, dans son grand _Traité de documentation_ (1934), se différencie de _super_-, qui transmet un sens de hiérarchie prononcé, car il véhicule une signification de transcendance. Le préfixe n'a donc pas une fonction augmentative ou intensive, mais spatiale, signifiant « au-delà », plutôt que « au-dessus » ou « plus de ». Ted Nelson, sociologue américain dont on aura à reparler, souligne comment « hyper » se réfère donc à la structure et non pas à la dimension.
 
@@ -51,24 +51,13 @@ Nous construisons notre image, nous _existons_, à travers ce que nous partageon
 
 - Cormerais Franck, Milon Alain - La navigation multimédia et le retour au projet encyclopédique (persée) : [https://www.persee.fr/doc/colan\_0336-1500\_1998\_num\_116\_1\_2848#colan\_0336-1500\_1998\_num\_116\_1\_T1\_0086\_0000](https://www.persee.fr/doc/colan_0336-1500_1998_num_116_1_2848#colan_0336-1500_1998_num_116_1_T1_0086_0000)
 - Nasreddine Bouhaï, Everardo Reyes-Garcia - Design de systèmes hypermédia interactifs : [https://www.librairie-arthaud.fr/livre/9781784052645-design-de-systemes-hypermedia-interactifs-nasreddine-bou-hai-everardo-reyes-garcia-collectif/](https://www.librairie-arthaud.fr/livre/9781784052645-design-de-systemes-hypermedia-interactifs-nasreddine-bou-hai-everardo-reyes-garcia-collectif/)
-
 - Jean Davallon, Yves Jeanneret, La fausse évidence du lien hypertexte (persée): [https://www.persee.fr/doc/colan\_0336-1500\_2004\_num\_140\_1\_3266?q=la+fausse+%C3%A9vidence+du+lien+hypertexte](https://www.persee.fr/doc/colan_0336-1500_2004_num_140_1_3266?q=la+fausse+%C3%A9vidence+du+lien+hypertexte)
-
 - Textes, champs lexicaux et hypertexte, Jean-pierre Bésiat (article sur persée): [https://www.persee.fr/doc/calib\_0575-2124\_1993\_num\_30\_1\_1273?q=textes,+champs+lexicaux+et+hypertexte](https://www.persee.fr/doc/calib_0575-2124_1993_num_30_1_1273?q=textes,+champs+lexicaux+et+hypertexte)
-
 - Au carrefour de l'écriture, du traitement de texte et de l'hypertexte… Hyperconte de Monique Noel Gaudreault (article sur persée): [https://www.persee.fr/doc/reper\_1157-1330\_1995\_num\_11\_1\_2149?q=au+carrefour+de+l%27%C3%A9criture,+du+traitement+de+texte](https://www.persee.fr/doc/reper_1157-1330_1995_num_11_1_2149?q=au+carrefour+de+l%27%C3%A9criture,+du+traitement+de+texte)
-
 - Pierre Levy – _L'hypertexte, instrument et métaphore de la communication_
-
 - Jean-Michel Salaun, Chronique inachevée d'une réflexion collective sur le document (persée): [https://www.persee.fr/doc/colan\_0336-1500\_2004\_num\_140\_1\_3263?q=chronique+inachev%C3%A9e+d%27une+r%C3%A9flexion+collective+sur+le+document](https://www.persee.fr/doc/colan_0336-1500_2004_num_140_1_3263?q=chronique+inachev%C3%A9e+d%27une+r%C3%A9flexion+collective+sur+le+document)
-
 - « Langue et Discours ». La linguistique et son double par Dominique Maingueneau (article sur persée): [https://www.persee.fr/doc/drlav\_0754-9296\_1988\_num\_39\_1\_1069?q=langue+et+discours+la+linguistique+et+son+double](https://www.persee.fr/doc/drlav_0754-9296_1988_num_39_1_1069?q=langue+et+discours+la+linguistique+et+son+double)
-
 - Tim Berners-Lee et l'invention du lien hypertexte : [https://www-cairn-info.ezproxy.u-bordeaux-montaigne.fr/culture-numerique--9782724623659-page-80.htm](https://www-cairn-info.ezproxy.u-bordeaux-montaigne.fr/culture-numerique--9782724623659-page-80.htm)
-
 - Louis-Olivier Brassard, Qu'est-ce que l'éditorialisation ? (« Journal  »sur Loup Brun.ca) [https://journal.loupbrun.ca/n/059/](https://journal.loupbrun.ca/n/059/)
-- Olivier Le Deuff « Entre documentologie et documentalité : la place des SIC dans une théorie générale du document  »(Conférence pour la Masterclass DNHD1)
-
-[https://youtu.be/gUwH84EwO1gutu.be/gUwH84EwO](https://youtu.be/gUwH84EwO1g)
-
+- Olivier Le Deuff « Entre documentologie et documentalité : la place des SIC dans une théorie générale du document  »(Conférence pour la Masterclass DNHD1) [https://youtu.be/gUwH84EwO1gutu.be/gUwH84EwO](https://youtu.be/gUwH84EwO1g)
 - [https://hyperedition.hypotheses.org/a-propos](https://hyperedition.hypotheses.org/a-propos)
