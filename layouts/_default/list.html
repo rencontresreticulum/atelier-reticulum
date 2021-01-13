@@ -14,9 +14,16 @@
 {{ if .IsHome}}
 {{ partial "head_custom" .}}
   <div class="homepage">
-    {{ .Content }}
+    <div class="col-lg-10 d-flex flex-column justify-content-center align-items-center">
+        {{ .Content }}
+    </div>
+    
     
       <span id="scrolltorevue">En savoir plus</span>
+      <div id="scrolltorevue" class="m-3"><svg  width="43" height="26" viewBox="0 0 43 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M5.0525 0L21.5 16.0702L37.9475 0L43 4.94737L21.5 26L0 4.94737L5.0525 0Z" fill="#505050"/>
+        </svg>
+        </div>
     
     <script> 
       const btn = document.getElementById('scrolltorevue');
@@ -24,7 +31,7 @@
         top: window.innerHeight,
         behavior: 'smooth'
     }));
-
+  
     </script>
   </div>
   
