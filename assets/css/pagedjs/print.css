@@ -2,7 +2,7 @@
 
 @media print {
 	/* Visibilité */
-	nav, h1.title, footer {display:none}
+	hr, header, nav, button, aside, h1.title, footer, .scroll-progress-container, .scroll-progress, .heade {display:none}
 
 	/* Titre courant */
 	h1 {
@@ -10,12 +10,13 @@
 		break-before: always;
 	}
 
+	.content-imp{
+		width: 100%;
+	}
+	.oue{width: 100%;}
 	@page  {
 		size: A4;
-		margin-top: 15mm;
-		margin-left: 20mm;
-		margin-right: 15mm;
-		margin-bottom: 25mm;
+		margin: 20mm 30mm;
 
 		@bottom-center  {
 			content: element(footer);
