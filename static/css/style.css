@@ -1,5 +1,6 @@
 html {scroll-behavior: smooth;}
 * {box-sizing: border-box;}
+
 /* fonts */
 @font-face {
     font-family: 'Lment';
@@ -94,37 +95,26 @@ h2 {
   font-family: Open Sans;
   font-size: 45px;
 }
-p { font-family: Lato;
-    font-size: 20px }
-
-
-
+p {
+	font: 20px/1.5 Lato;
+}
 .homepage > span {
   font-family: Lato;
   font-size: 25px;
 }
 
-.title {}
-.summary, main { font-family: "Adobe Caslon Pro", "EB Garamond", "Garamond", Georgia, serif; }
-
-.container-fluid{
-  padding:0 !important;
-}
 /* page layout */
 body {
   margin: auto;
-
   line-height: 1.5em;
 }
-
+.container-fluid {
+  padding:0 !important;
+}
 .article-meta, main {
-	/*max-width: 600px;*/
 	margin: 0 auto;
 }
-
-/* header and footer areas */
-nav{background-color: #DAE2EA;}
-
+nav {background-color: #DAE2EA;}
 .menu {display:flex;flex-direction:column;}
 .menu li {
 	display: inline-block;
@@ -135,21 +125,11 @@ nav{background-color: #DAE2EA;}
   text-decoration: none;
   padding: 0 0.75rem;
 }
-mark {
-  display: inline-block;
-  line-height: 0em;
-  padding-bottom: 0.5em;
-  /*background-color: #fcd800;*/
-}
-.menu, .article-meta, footer { text-align: center; }
 .title {
 	font-weight: normal;
 	font-size: 2.3rem;
 	line-height: 1.2;
 	text-transform: uppercase;
-}
-.date {
-	font-size: 1rem;
 }
 .summary {
 	font-style: italic;
@@ -157,7 +137,6 @@ mark {
 	width: 75%;
 	margin: 1.5rem auto;
 }
-/* footer a { text-decoration: none; } */
 hr {
   border-style: dashed;
   color: #ddd;
@@ -180,7 +159,6 @@ main {
   align-items: center;
 
 }
-
 .homepage > h2 {
   text-align: center;
 }
@@ -188,14 +166,11 @@ main {
 
 /* revue */
 #revue {
-
   height: 100vh;
   display: flex;
   flex-direction: column;
-
   justify-content: space-between;
   align-items: center;
-
 }
 
 .buttonhomepage:hover {
@@ -222,7 +197,7 @@ code {
 }
 pre code { background: none; }
 
-/* misc elements */
+/* misc */
 img, iframe, video { max-width: 100%; }
 blockquote {
   background: #f9f9f9;
@@ -238,10 +213,10 @@ table thead th { border-bottom: 1px solid #ddd; }
 th, td { padding: 5px; }
 thead, tfoot, tr:nth-child(even) { background: #eee; }
 
-/* drop caps */
-/* <hr> applies drop cap to the next <p> */
-hr+p:first-letter,
-p:first-child:first-letter {
+/* lettrines */
+
+hr+p:first-letter, /* <hr> applique une lettrine au <p> suivant */
+main > p:first-child:first-letter {
   float: left;
   font-size: 6rem;
   line-height: 0.65;
@@ -249,14 +224,20 @@ p:first-child:first-letter {
 }
 main hr { display: none; }
 
-/* bibliography */
-#refs+ul {
+/* bibliographie */
+
+h2#bibliographie+ul {
 	list-style: none;
 	text-indent: -1.5em;
 	padding-left: 1.5em;
 }
+h2#bibliographie+ul li {
+	margin: 0 0 0.5em 0;
+}
 
-.scroll-progress-container{
+/* barre de progression */
+
+.scroll-progress-container {
   position: fixed;
   z-index:100;
   top: 0;
@@ -265,25 +246,24 @@ main hr { display: none; }
   background-color: #DCDCDC;
   height: 20px;
 }
-
-.scroll-progress{
+.scroll-progress {
   width: 0px;
   height: 100%;
   background-color:#466F95;
 }
 
-.card{
+.card {
   padding:0;
   background-color: transparent;
   border: none;
   margin:0;
 }
 
-.card ul{padding-left: 0;margin:0;}
-.card li a{text-decoration: none;}
-.card li{color:black;list-style-type: none;}
-.card-header{background-color: transparent;padding:0;}
-.card button{
+.card ul {padding-left: 0;margin:0;}
+.card li a {text-decoration: none;}
+.card li {color:black;list-style-type: none;}
+.card-header {background-color: transparent;padding:0;}
+.card button {
   padding:0;
   margin:0.5em 0;
   color:#000;
@@ -291,7 +271,7 @@ main hr { display: none; }
   text-align: left;
 }
 
-aside{
+aside {
   background-color: #97728C;
   border-radius: 20px;
   padding:0.5em;
@@ -302,11 +282,11 @@ aside{
   top:4em;
   z-index: 1000;
 }
-aside svg{cursor: pointer;margin:0.5em auto;}
+aside svg {cursor: pointer;margin:0.5em auto;}
 
-section{margin-top: 5em;}
+section {margin-top: 5em;}
 
-#search{
+#search {
   background-color: transparent;
   border-radius: 20px 0 0 20px;
   border: 1px solid black;
@@ -314,7 +294,7 @@ section{margin-top: 5em;}
   outline: none;
 }
 
-#btn-search{
+#btn-search {
   background-color: black;
   border-radius: 0 20px 20px 0;
   color:white;
@@ -324,11 +304,12 @@ section{margin-top: 5em;}
   margin-left:-4px;
 }
 
-.heade {width: 30%;
+.heade {
+	width: 30%;
 }
 
-.content-imp{width: 70%;}
+.content-imp {width: 70%;}
 
-.oue{
+.oue {
   width: 85%;
 }
