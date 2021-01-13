@@ -26,11 +26,16 @@ h2 {
   font-family: OpenSans;
   font-size: 45px;
 }
+p { font-family: Lato;
+    font-size: 20px }
+
+
 
 .homepage > span {
   font-family: Lato;
   font-size: 25px;
 }
+
 .title {}
 .summary, main { font-family: "Adobe Caslon Pro", "EB Garamond", "Garamond", Georgia, serif; }
 
@@ -117,6 +122,7 @@ main {
   text-align: center;
 }
 
+
 /* revue */
 #revue {
 
@@ -127,6 +133,10 @@ main {
   justify-content: space-between;
   align-items: center;
 
+}
+
+.buttonhomepage:hover {
+  background-color: #90A9BF !important;
 }
 
 /* links */
