@@ -35,15 +35,17 @@ $(function(){
 //END searchbar
 
 //accessibility
-$( "#clickme" ).click(function() {
+$( "#blackmode" ).click(function() {
     $('body').css({"background-color":"black","color":"white"});
+    $('header').css({"background-color":"white"});
     $("#normal").show();
-    $("#clickme").hide();
+    $("#blackmode").hide();
   });
 
   $( "#normal" ).click(function() {
     $('body').css({"background-color":"white","color":"black"});
-    $("#clickme").show();
+    $('header').css({"background-color":"#DAE2EA"});
+    $("#blackmode").show();
     $("#normal").hide();
   });
   //END accessibility
