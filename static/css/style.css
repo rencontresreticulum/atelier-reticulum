@@ -126,6 +126,8 @@ body {
 header{
   background-color: #DAE2EA;
   padding-top:2em;
+  height:100vh;
+  min-height:100vh;
 }
 
 nav{position: fixed;}
@@ -274,7 +276,7 @@ main hr { display: none; }
 .scroll-progress{
   width: 0px;
   height: 100%;
-  background-color:#969696;
+  background-color:#466F95;
 }
 
 .card{
@@ -296,11 +298,14 @@ main hr { display: none; }
 
 aside{
   position: fixed;
+  display: flex;
+  flex-direction: column;
   right:0;
   top:4em;
   z-index: 1000;
-  transform: rotate(-90deg);
 }
+
+aside button{margin:0.5em;}
 
 section{
   margin-top: 5em;

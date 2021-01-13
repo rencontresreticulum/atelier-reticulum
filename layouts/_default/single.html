@@ -1,5 +1,5 @@
 {{ partial "header.html" . }}
-<section class="col-7 offset-1">
+<section class="col-6 offset-1">
 <div class="article-meta">
 <h1 class="title">{{ .Title | markdownify }}</h1>
 {{ with .Params.author }}<h2 class="author">{{ . }}</h2>{{ end }}
@@ -18,11 +18,16 @@
     <a href="{{ .PrevInSection.RelPermalink }}">{{ .PrevInSection.Title }}</a>{{ end }}
   </div>
   <div>
-    <i class="fa fa-arrow-circle-right fa-lg" aria-hidden="true"></i><b>
-    {{ if .NextInSection }}Suivant :</b><br/>
+    <b>{{ if .NextInSection }}Suivant : </b><i class="fa fa-arrow-circle-right fa-lg" aria-hidden="true"></i><br/>
     <a href="{{ .NextInSection.RelPermalink }}">{{ .NextInSection.Title }}</a>{{ end }}
   </div>
 </div>
 </section>
+<aside>
+      <button class="btn btn-secondary" id="clickme">Accessibilité</button>
+      <button class="btn btn-secondary" id="normal">Mode normal</button>
+      <button class="btn btn-dark" id="grow">Agrandir</button>
+      <button class="btn btn-dark" id="reduce">Rétrecir</button>
+    </aside>
 </div>
 {{ partial "footer.html" . }}
