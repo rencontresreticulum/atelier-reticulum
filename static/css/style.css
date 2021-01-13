@@ -286,7 +286,8 @@ main hr { display: none; }
   margin:0;
 }
 
-.card ul{padding-left: 0;}
+.card ul{padding-left: 0;margin:0;}
+.card li a{text-decoration: none;}
 .card li{color:black;list-style-type: none;}
 .card-header{background-color: transparent;padding:0;}
 .card button{
