@@ -76,7 +76,7 @@
 <!--
     <ul class="menu">
       {{ range .Site.Menus.main }}
-      <li><a href="{{ .URL | relURL }}"><mark>{{ .Name }}</mark></a></li>
+      <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
       {{ end }}
     	{{ if (eq .Params.pagedjs true)  }}
       {{ partial "print-button.html" }}
