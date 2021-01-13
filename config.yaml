@@ -6,7 +6,7 @@ footnotereturnlinkcontents: "↩"
 buildFuture: true
 
 permalinks:
-  articles: ":slug/"
+  articles: ":filename/"
 
 menu:
   main:
@@ -19,9 +19,6 @@ menu:
     - name: À propos
       url: "a-propos/"
       weight: 3
-    - name: Test
-      url: "test/"
-      weight: 4
 
 params:
   description: "Prototype de revue développé dans le cadre de l'atelier Reticulum."
