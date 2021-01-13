@@ -10,14 +10,14 @@ permalinks:
 
 menu:
   main:
-    - name: Index
+    - name: Accueil
       url: ""
       weight: 1
     - name: Imprimer
       url: "imprimer/"
       weight: 2
-    - name: À propos
-      url: "a-propos/"
+    - name: Crédits
+      url: "credits/"
       weight: 3
 
 params:

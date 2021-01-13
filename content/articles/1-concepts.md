@@ -1,7 +1,7 @@
 ---
 title: Concepts clefs
-
 ---
+
 Les paradigmes réticulaires, cœur du sujet, se réfèrent aux techniques de la réticularisation dans l'ère numérique. Cette notion a un lien intime avec d'autres concepts afférents tels que le réseau, la pensée systémique, l'architecture de l'information ou l'hybridité en design. L'objectif de cet article est de dresser un portrait de ces termes, divergents, mais avec des rôles d'exploration et d'exploitation similaires. Toutes ces approches sont centrées sur l'intelligibilité et la communicabilité de nos productions en design et sont à la convergence entre les savoir et savoir-faire.
 
 ## Pensée réticulaire
