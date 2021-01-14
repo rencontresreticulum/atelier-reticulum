@@ -305,6 +305,7 @@ section {margin-top: 5em;}
 
 .heade {
   width: 30%;
+  
 
 }
 
@@ -312,11 +313,13 @@ section {margin-top: 5em;}
   position: fixed;
   background-color: #dae2ea;
   padding: 15px;
-  height: 100%;
+  height: 100vh;
+  width: 30%
 }
 
 .content-imp {width: 70%;}
 
 .oue {
   width: 85%;
+  
 }
