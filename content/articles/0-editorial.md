@@ -3,8 +3,6 @@ title: Éditorial
 type: article
 ---
 
-# Éditorial
-
 Parce qu'il est mobilisé pour répondre à des problématiques sociétales complexes, le design contemporain est insécable d'une approche  systémique du projet. Cette approche holistique est exploitée voire prolongée par le design numérique qui tire parti du paradigme du réseau pour inventer des nouvelles manières de penser et de faire. Mais derrière cette production de connaissances et d'objets se profile un second enjeu : celui de diffuser, partager et valoriser ce que les techniques numériques inventent. C'est pourquoi design et documentation ont à dialoguer et à collaborer pour dans un mode de recherche interdisciplinaire.
 
 Initié en 2018, le cycle de conférences Reticulum cherche à attiser cette réflexion épistémologique entre design et documentation, fertile aux deux disciplines. L'objet de ces rencontres interdisciplinaires est d'explorer le paradigme de réseau et ses notions afférentes pour forger des concepts opératoires, c'est-à-dire exploitables dans le design, la documentation et leurs recherches.
