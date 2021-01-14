@@ -8,12 +8,12 @@
 		{{ end }}
     </ul>
 
+	{{ if not (eq .Params.pagedjs true)  }}
     <div>
         <input id="search" type="text" placeholder="Entrer le code" value="" />
         <input id="btn-search" type="button" value="Accéder" />
     </div>
 
-	{{ if not (eq .Params.pagedjs true)  }}
     <div id="accordion">
         <div class="card">
             <div class="card-header" id="headingOne">
