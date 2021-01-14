@@ -47,7 +47,5 @@ En effet, ce projet nous a permis d'effectuer un apprentissage plus réelet plus
 ## Bibliographie
 
 - LOWE, Anne, 2002. La pédagogie actualisante ouvre ses portes à l’interdisciplinarité scolaire. Éducation et francophonie [en ligne]. 2002. Vol. XXX. [Consulté le 14 janvier 2021]. Disponible à l’adresse : https://www.acelf.ca/c/revue/revuehtml/30-2/08-lowe.html
-
-- TOULLEMONDE, Gilles, 2003. Les facteurs de performance du processus d’innovation. Knowllence, facilitateur en maîtrise des risques [en ligne]. 12 mai 2003. [Consulté le 12 janvier 2021]. Disponible à l’adresse : https://www.knowllence.com/blog-risk-management/facteurs-performance-processus-innovation.html
   
 
