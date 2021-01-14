@@ -13,6 +13,7 @@
         <input id="btn-search" type="button" value="Accéder" />
     </div>
 
+	{{ if not (eq .Params.pagedjs true)  }}
     <div id="accordion">
         <div class="card">
             <div class="card-header" id="headingOne">
@@ -80,6 +81,8 @@
             </div>
         </div>
     </div>
+    
+  {{ end }}
 
 </nav>
 

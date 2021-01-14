@@ -141,7 +141,11 @@ hr {
   border-style: dashed;
   color: #ddd;
 }
-
+@media screen {
+#pageCachee {
+	display: none;
+}
+}
 /* main */
 main {
 	hyphens: auto;

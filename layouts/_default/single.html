@@ -32,8 +32,10 @@
       {{ if (eq .Params.pagedjs true)  }}
 				{{ partial "print-button.html" }}
 				{{ range where .Site.Pages.Reverse "Type" "=" "article" }}
+				<div id="pageCachee">
 					<h1>{{ .Title | markdownify }}</h1>
 					{{ .Content }}
+				</div>
 				{{ end }}
       {{ end }}
     </main>
