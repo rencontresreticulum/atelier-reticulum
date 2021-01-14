@@ -36,11 +36,14 @@
   </div>
   
   <div id="revue">
-      {{ partial "nav.html" . }}
+      <div class="container-fluid d-flex flex-wrap">
       
-    <div class="d-flex justify-content-center align-items-center ">
+      <div class="col-4 pt-5" style="background-color:#DAE2EA"> 
+          {{ partial "nav.html" . }}
+      </div>
+    <div class="pt-5 col-8 d-flex justify-content-center align-items-center ">
         
-        <div class="d-flex flex-column justify-items-center justify-content-center col-lg-8 col-md-10">
+        <div class="d-flex flex-column justify-items-center justify-content-center col-lg-10 col-md-10">
       
             {{ with .Site.GetPage "/content/revue.md" }}{{ .Content }}{{ end }}
             <br>

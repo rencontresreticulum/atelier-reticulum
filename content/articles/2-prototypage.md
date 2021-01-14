@@ -1,6 +1,7 @@
 ---
 title: Prototypage d’une revue
 type: article
+weight: 3
 ---
 
 La démarche de ce projet englobe l'ensemble des actions réalisées par les équipes, ayant pour objectif commun de répondre aux besoins exprimés. De l'idée de départ, jusqu'à la livraison finale de la revue, la démarche se définit par un ensemble d'étapes qui nous ont permis de suivre une direction logique et de structurer les processus d'étapes de manière cohérente. Cette structuration permet à l'ensemble des membres, de définir des objectifs précis, des actions à entreprendre et des ressources à utiliser pour les atteindre.

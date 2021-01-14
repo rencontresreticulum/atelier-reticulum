@@ -1,6 +1,7 @@
 ---
 title: Le collectif - Le projet des aidants 
 type: article
+weight: 5
 ---
 
 ## La commande

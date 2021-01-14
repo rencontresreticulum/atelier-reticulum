@@ -1,6 +1,7 @@
 ---
 title: Le préfixe hyper et le paradigme du réseau
 type: article
+weight: 4
 ---
 
 > « Un hyperdocument n'est pas un document. » (Bachimont, 2001)
