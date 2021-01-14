@@ -9,18 +9,15 @@
       <div class="d-flex justify-content-between oue mt-5">
           <div>
             {{ if not (eq .Params.next false)  }}
-            {{ if .PrevInSection }}
+            {{ if .NextInSection }}
             <i class="fa fa-arrow-circle-left fa-lg" aria-hidden="true"></i>
-            <a href="{{ .PrevInSection.RelPermalink }}"><b>Précédent : <br> {{ .PrevInSection.Title }}</b></a>{{ end }}
+            <a href="{{ .NextInSection.RelPermalink }}"><b>Précédent : <br> {{ .NextInSection.Title }}</b></a>{{ end }}
           </div>
           <div>
-
-            {{ if .NextInSection }}
+            {{ if .PrevInSection }}
             <i class="fa fa-arrow-circle-right fa-lg" aria-hidden="true"></i>
-
-            <a href="{{ .NextInSection.RelPermalink }}"><b> Suivant : <br> {{ .NextInSection.Title }}</b></a>{{ end }}
+            <a href="{{ .PrevInSection.RelPermalink }}"><b>Suivant : <br> {{ .PrevInSection.Title }}</b></a>{{ end }}
             {{ end }}
-
           </div>
         </div>
 
