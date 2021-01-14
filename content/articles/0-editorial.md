@@ -1,5 +1,6 @@
 ---
 title: Éditorial
+type: article
 ---
 
 # Éditorial

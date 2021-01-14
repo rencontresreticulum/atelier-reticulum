@@ -1,5 +1,6 @@
 ---
 title: Hyper
+type: article
 ---
 
 # Le préfixe hyper- et le paradigme du réseau

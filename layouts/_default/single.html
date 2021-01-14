@@ -29,6 +29,13 @@
     <main class="oue mt-5">
 			<h1>{{ .Title | markdownify }}</h1>
       {{ .Content }}
+      {{ if (eq .Params.pagedjs true)  }}
+				{{ partial "print-button.html" }}
+				{{ range where .Site.Pages.Reverse "Type" "=" "article" }}
+					<h1>{{ .Title | markdownify }}</h1>
+					{{ .Content }}
+				{{ end }}
+      {{ end }}
     </main>
     <div >
       {{ partial "footer.html" . }}

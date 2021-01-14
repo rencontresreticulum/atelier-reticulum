@@ -1,5 +1,6 @@
 ---
 title: Efficacité et pertinence – Le workshop Objets connectés
+type: article
 ---
 
 ## Présentation du projet

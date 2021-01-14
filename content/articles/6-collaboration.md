@@ -1,5 +1,6 @@
 ---
 title: La collaboration entre designers et ingénieurs
+type: article
 ---
 
 La collaboration est primordiale pour un designer, qui construit progressivement son profil, en l'inscrivant au sein de nouvelles pratiques, en constante émergence. En effet, les capacités intellectuelles, les connaissances, les personnalités ainsi que l'environnement de travail dans lequel s'inscrit un projet, sont des notions décisives et essentielles au sein du processus de création.

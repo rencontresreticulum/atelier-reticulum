@@ -1,6 +1,5 @@
 ---
-title: Imprimer
+title: Version imprimable
 pagedjs: true
 ---
 
-*Insérer ici la version imprimable de la revue.*
