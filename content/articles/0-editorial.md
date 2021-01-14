@@ -1,6 +1,7 @@
 ---
 title: Éditorial
 type: article
+weight: 1
 ---
 
 Parce qu'il est mobilisé pour répondre à des problématiques sociétales complexes, le design contemporain est insécable d'une approche  systémique du projet. Cette approche holistique est exploitée voire prolongée par le design numérique qui tire parti du paradigme du réseau pour inventer des nouvelles manières de penser et de faire. Mais derrière cette production de connaissances et d'objets se profile un second enjeu : celui de diffuser, partager et valoriser ce que les techniques numériques inventent. C'est pourquoi design et documentation ont à dialoguer et à collaborer pour dans un mode de recherche interdisciplinaire.

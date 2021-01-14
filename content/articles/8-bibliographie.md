@@ -1,6 +1,7 @@
 ---
 title: Bibliographie
 type: article
+weight: 9
 ---
 
 - BANTMAN, Patrick, 2004. Le concept de réseau. *VST - Vie sociale et traitements, revue des CEMEA* [en ligne]. 2004. N° 81, pp. 18‑19. [Consulté le 12 janvier 2021]. Disponible à l’adresse : https://www.cairn.info/revue-vie-sociale-et-traitements-2004-1-page-18.htm
