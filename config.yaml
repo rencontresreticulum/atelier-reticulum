@@ -13,12 +13,15 @@ menu:
     - name: Accueil
       url: ""
       weight: 1
-    - name: Imprimer
-      url: "imprimer/"
+    - name: Version en ligne
+      url: "0-editorial/"
       weight: 2
+    - name: Version imprimable
+      url: "imprimer/"
+      weight: 3
     - name: Crédits
       url: "credits/"
-      weight: 3
+      weight: 4
 
 params:
   description: "Prototype de revue développé dans le cadre de l'atelier Reticulum."

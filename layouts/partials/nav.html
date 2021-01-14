@@ -4,10 +4,9 @@
                   
                   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                     <div class="navbar-nav">
-                      <a class="nav-link active" style="text-decoration: none !important;" aria-current="page" href="#">Index</a>
-                      <a class="nav-link" href="imprimer" style="text-decoration: none !important;">Imprimer</a>
-                      <a class="nav-link" href="revue" style="text-decoration: none !important;">Revue</a>
-                      <a class="nav-link" href="a-propos" style="text-decoration: none !important;">À propos</a>
+                      {{ range .Site.Menus.main }}
+                      <a class="nav-link active" style="text-decoration: none !important;" aria-current="page" href="{{ .URL | relURL }}">{{ .Name }}</a>
+        							{{ end }}
                     </div>
                   </div>
                 </div>
