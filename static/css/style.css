@@ -222,7 +222,7 @@ thead, tfoot, tr:nth-child(even) { background: #eee; }
 
 hr+p:first-letter, /* <hr> applique une lettrine au <p> suivant */
 main > p:first-child:first-letter {
-/* 
+/*
   float: left;
   font-size: 6rem;
   line-height: 0.65;
@@ -299,6 +299,7 @@ section {margin-top: 5em;}
   border: none;
   padding:0.4em 1em;
   outline: none;
+  flex-grow: 1;
 }
 
 #btn-search {
