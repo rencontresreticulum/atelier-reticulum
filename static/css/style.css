@@ -144,9 +144,9 @@ hr {
   color: #ddd;
 }
 @media screen {
-#pageCachee {
-	display: none;
-}
+.hidden-on-screen {
+  	display: none;
+  }
 }
 /* main */
 main {

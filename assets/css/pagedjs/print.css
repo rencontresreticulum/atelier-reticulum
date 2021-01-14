@@ -14,7 +14,15 @@
 	.content-imp{
 		width: 100%;
 	}
+
 	.oue{width: 100%;}
+
+	@media screen {
+	.hidden-on-screen {
+	  	display: block;
+	  }
+	}
+
 	@page  {
 		size: A4;
 		margin: 20mm 30mm;
