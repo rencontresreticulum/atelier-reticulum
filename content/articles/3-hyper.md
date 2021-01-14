@@ -1,11 +1,11 @@
 ---
 title: Le préfixe hyper et le paradigme du réseau
-type : article
-weight : 4
+type: article
+weight: 4
 ---
 
 > Un hyperdocument n'est pas un document.  
->  (Bachimont, 2001)
+> (Bachimont, 2001)
 
 Dans leur article _Hyperdocumentation : origin and evolution of a concept_, les chercheurs Arthur Perret et Olivier Le Deuff questionnent la genèse du terme « Hyper Documentation » figurant dans le grand _Traité de documentation_ (1934) du bibliographe belge créateur du _Mundaneum_, Paul Otlet, et révèlent comment le préfixe _hyper_- semble apparaître pour la première fois en 1895 dans la traduction de _Principles of Sociology_ de Herbert Spencer par Jean Izoulet, dans la formule « hyper-organisme ». Ce préfixe se différencie de _super_-, qui transmet un sens de hiérarchie prononcé, car il véhicule une signification de transcendance. Le préfixe n'a donc pas une fonction augmentative ou intensive, mais spatiale, signifiant « au-delà », plutôt que « au-dessus » ou « plus de ». Ted Nelson, sociologue américain dont on aura à reparler, souligne comment « hyper » se réfère donc à la structure et non pas à la dimension.
 

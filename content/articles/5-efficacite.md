@@ -55,10 +55,6 @@ Lors d'une interview présentée sur le site web imaginetonfutur.com, Nicolas Ga
 
 Ce sont ces idées et ces valeurs, propres à sa vision du design d’interaction, que Nicolas Gaudron nous a transmises lors de cette courte semaine de workshop. Il souligne l’importance d’avoir une vision globale, en pensant l’intégralité des éléments qui composent un système de manière cohérente afin de proposer, à travers différents supports, une expérience singulière, pertinente et sensée.
 
-<!-- Il faudrait présenter cette citation avec un commentaire même bref. Surtout si l'article doit se finir dessus. -->
-
 ## Bibliographie
-<!-- à remplacer par un export depuis Zotero -->
 
 - DUSSUD, Diane, 2021. Nicolas Gaudron, 32 ans, designer d’interaction. Imagine ton futur [en ligne]. 13 janvier 2021. [Consulté le 12 janvier 2021]. Disponible à l’adresse : https://www.imaginetonfutur.com/nicolas-gaudron-32-ans-designer-d-interaction.html
-
