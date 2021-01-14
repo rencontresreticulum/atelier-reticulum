@@ -115,6 +115,7 @@ body {
 }
 .container-fluid {
   padding:0 !important;
+  min-height: 100vh;
 }
 .article-meta, main {
 	margin: 0 auto;
@@ -166,6 +167,7 @@ main {
 	hyphens: auto;
 	font-size: 1.3rem;
 	line-height: 1.4;
+	margin-bottom: 3rem;
 }
 
 /* homepage */

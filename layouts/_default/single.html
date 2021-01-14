@@ -1,11 +1,11 @@
 {{ partial "header.html" . }}
 <body>
-	<div class="container-fluid d-flex flex-wrap">
+	<div class="container-fluid d-flex flex-wrap align-content-between">
 		{{ partial "scroll-progress" }}
 		<div class="heade mt-2">
 			 {{ partial "nav-article.html" . }}
 		</div>
-		<div class="content-imp d-flex  flex-column  justify-content-around align-items-center" >
+		<div class="content-imp d-flex  flex-column  justify-content-start align-items-center" >
 			<div class="d-flex justify-content-between oue mt-5">
 				<div>
 				{{ if not (eq .Params.next false)  }}
@@ -36,4 +36,7 @@
 				{{ end }}
 			</main>
 		</div>
-{{ partial "footer.html" . }}
+  {{ partial "footer.html" . }}
+  </div>
+</body>
+</html>
