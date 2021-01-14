@@ -3,10 +3,13 @@
 /* Change the look of the preview here*/
 
 :root {
-    --color-background: var(--color-background, transparent);
-    --color-pageBox: #666;
-    --color-paper: white;
-    --color-marginBox: transparent;
+  --color-background: whitesmoke;
+  --color-pageSheet: #cfcfcf;
+  --color-pageBox: violet;
+  --color-paper: white;
+  --color-marginBox: transparent;
+  --pagedjs-crop-color: #000;
+  --pagedjs-crop-stroke: 1px;
 }
 
 /* Defining the preview: */
@@ -66,7 +69,7 @@
 
     /* uncomment this part for a recto/verso book : ------------------------------------ */
 
-    /* 
+    /*
     .pagedjs_pages {
         flex-direction: column;
         width: 100%;
@@ -79,6 +82,6 @@
     .pagedjs_page {
         margin: 0 auto;
         margin-top: 10mm;
-    } 
+    }
     */
 }
