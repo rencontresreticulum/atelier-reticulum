@@ -4,6 +4,6 @@ title: Index
 
 # RETICULUM 
 
-## Revue de design du Master Design,
+## Sous-titre
 
-## Interaction, Innovation et Service
+## à redéfinir

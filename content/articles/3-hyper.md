@@ -36,7 +36,6 @@ Cette innovation prend de plus en plus de sens avec l'évolution numérique de c
 
 À l'aide de cet environnement graphique, les informations visibles sont plus facilement intelligibles et composent des « liens » et des « nœuds » qui forment « un modèle de structuration pour que l'information reliée soit utilisable et compréhensible par les utilisateurs ». Alors, si un tel modèle de structuration de l'information existe avec ces « liens » et ces « nœuds », nous pouvons associer la connexion de ces données, qu'elles soient textuelles, imagées ou même sonores à un véritable réseau d'informations. L'utilisateur peut, de la même manière qu'avec l'hypertexte, se frayer un chemin à travers les immenses possibilités de choix qu'il a pour récolter les informations voulues sans être contraint par le support papier, qui n'a pas l'atout de proposer cette étendue de données.
 
-
 ## L'hyperédition, ou la numérisation de l'humain ?
 
 On peut de nos jours, et suivant notamment la réflexion du professeur Marcello Vitali Rosati, considérer l'éditorialisation comme une théorie philosophique plus qu'une simple méthode de travail. Envisager la documentation, et plus particulièrement l'hyperédition, comme une façon d'appréhender, comprendre et façonner le monde ouvre des perspectives inexplorées.
@@ -48,6 +47,7 @@ Si aucune trace de vous n'est trouvable, existez-vous vraiment ? Suzanne Briet, 
 Nous construisons notre image, nous _existons_, à travers ce que nous partageons. Le document comme simple texte n'est plus: le lecteur devient acteur, instance réceptrice, de ce qu'il lit, on transcende donc l'édition, comme évoqué plus tôt, pour une hyper édition. Comprendre le monde, c'est agir sur lui, en faire partie, et être en capacité de le modifier. L'hyperédition peut donc être définie comme un ensemble de systèmes, d'actions et de dynamiques qui forment l'architecture d'un espace numérique.
 
 ## Bibliographie
+<!-- à remplacer par un export depuis Zotero -->
 
 - Cormerais Franck, Milon Alain - La navigation multimédia et le retour au projet encyclopédique (persée) : [https://www.persee.fr/doc/colan\_0336-1500\_1998\_num\_116\_1\_2848#colan\_0336-1500\_1998\_num\_116\_1\_T1\_0086\_0000](https://www.persee.fr/doc/colan_0336-1500_1998_num_116_1_2848#colan_0336-1500_1998_num_116_1_T1_0086_0000)
 - Nasreddine Bouhaï, Everardo Reyes-Garcia - Design de systèmes hypermédia interactifs : [https://www.librairie-arthaud.fr/livre/9781784052645-design-de-systemes-hypermedia-interactifs-nasreddine-bou-hai-everardo-reyes-garcia-collectif/](https://www.librairie-arthaud.fr/livre/9781784052645-design-de-systemes-hypermedia-interactifs-nasreddine-bou-hai-everardo-reyes-garcia-collectif/)

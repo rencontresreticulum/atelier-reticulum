@@ -8,7 +8,7 @@ PAS ENCORE REVU :
 
 Accédez aux contenu souhaités grâce aux codes présents dans la revue papier !
 
-___
+***
 
 Vous trouverez dans un premier temps, un article traitant du contexte du sujet, et définissant les termes hybride, pensée réticulaire, paradigme de réseau ou encore l'architecture de l'information, afin de comprendre leurs enjeux et les principes sur lesquels ils reposent. Le résultat du travail du designer est directement lié à la compréhension approfondie d'un domaine et à sa capacité à manipuler plusieurs éléments différents afin de leur donner du sens. C'est pourquoi, nous proposons d'alimenter la revue avec une deuxième partie intitulée « Une entrée en matière » dans laquelle nous allons traiter deux études de cas, en lien avec notre sujet principal, les pratiques réticulaires :
 
@@ -21,6 +21,6 @@ Finalement, nous proposons une dernière partie nommée « La réticularité dan
 
 Bienvenue et bonne lecture !
 
-![Schéma structure de la revue]
+![Schéma structure de la revue]()
 
 
