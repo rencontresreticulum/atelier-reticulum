@@ -31,16 +31,7 @@
       {{ if (eq .Params.pagedjs true)  }}
 				{{ partial "print-button.html" }}
 				{{ range where .Site.Pages.ByWeight "Type" "=" "article" }}
-				<div id="pageCachee">
-					<h1>{{ .Title | markdownify }}</h1>
-					{{ .Content }}
-				</div>
-				{{ end }}
-      {{ end }}
-      {{ if (eq .Params.print true)  }}
-				{{ partial "print-button.html" }}
-				{{ range where .Site.Pages.ByWeight "Type" "=" "article" }}
-				<div id="pageCachee">
+				<div class="hidden-on-screen">
 					<h1>{{ .Title | markdownify }}</h1>
 					{{ .Content }}
 				</div>
