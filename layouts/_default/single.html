@@ -23,12 +23,14 @@
 
 
     <main class="oue mt-5">
+      <div class="hidden-on-print">
 			<h1>{{ .Title | markdownify }}</h1>
-      {{ .Content }}
+        {{ .Content }}
+      </div>
       {{ if (eq .Params.pagedjs true)  }}
 				{{ partial "print-button.html" }}
 				{{ range where .Site.Pages.ByWeight "Type" "=" "article" }}
-				<div class="hidden-on-screen">
+				<div class="print-only">
 					<h1>{{ .Title | markdownify }}</h1>
 					{{ .Content }}
 				</div>

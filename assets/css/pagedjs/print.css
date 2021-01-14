@@ -17,11 +17,13 @@
 
 	.oue{width: 100%;}
 
-	@media screen {
-	.hidden-on-screen {
-	  	display: block;
-	  }
-	}
+.hidden-on-print{
+	display: none;
+}
+
+.print-only {
+  	display: block;
+  }
 
 	@page  {
 		size: A4;

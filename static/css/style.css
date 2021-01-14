@@ -143,11 +143,13 @@ hr {
   border-style: dashed;
   color: #ddd;
 }
+
 @media screen {
-.hidden-on-screen {
+.print-only {
   	display: none;
   }
 }
+
 /* main */
 main {
 	hyphens: auto;
