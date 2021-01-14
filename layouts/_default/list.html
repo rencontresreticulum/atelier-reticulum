@@ -1,90 +1,52 @@
-
-
-{{if not .IsHome }}
 {{ partial "header.html" . }}
-<h1>{{ .Title | markdownify }}</h1>
-{{ .Content }}
-<ul>
-  {{ $pages := .Pages }}
-
-</ul>
-{{ partial "footer.html" . }}
-{{ end }}
-
-{{ if .IsHome}}
-{{ partial "head_custom" .}}
+<body>
   <div class="homepage">
     <div class="col-lg-10 d-flex flex-column justify-content-center align-items-center">
-        <h1>{{ .Site.Title | markdownify }}</h1>
-        <h2>{{ .Site.Params.Subtitle | markdownify }}</h2>
+    	<h1 id="site-title">{{ .Site.Title | markdownify }}</h1>
+    	<h2>{{ .Site.Params.Subtitle | markdownify }}</h2>
     </div>
-
-
-      <span id="scrolltorevue" style="cursor: pointer;">En savoir plus</span>
-      <div id="scrolltorevue" class="m-3"><svg  width="43" height="26" viewBox="0 0 43 26" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <path d="M5.0525 0L21.5 16.0702L37.9475 0L43 4.94737L21.5 26L0 4.94737L5.0525 0Z" fill="#505050"/>
-        </svg>
-        </div>
-
+		<span id="scrolltorevue" style="cursor: pointer;">En savoir plus</span>
+		<div id="scrolltorevue" class="m-3">
+			<svg  width="43" height="26" viewBox="0 0 43 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+				<path d="M5.0525 0L21.5 16.0702L37.9475 0L43 4.94737L21.5 26L0 4.94737L5.0525 0Z" fill="#505050"/>
+			</svg>
+		</div>
     <script>
       const btn = document.getElementById('scrolltorevue');
       btn.addEventListener('click', () => window.scrollTo({
         top: window.innerHeight,
         behavior: 'smooth'
-    }));
-
+    	}));
     </script>
   </div>
-
   <div id="revue">
-      <div class="container-fluid d-flex flex-wrap">
-
-      <div class="col-4 pt-5" style="background-color:#DAE2EA">
-          {{ partial "nav.html" . }}
-      </div>
+		<div class="container-fluid d-flex flex-wrap">
+		<div class="col-4 pt-5" style="background-color:#DAE2EA">
+			{{ partial "nav.html" . }}
+		</div>
     <div class="pt-5 col-8 d-flex justify-content-center align-items-center ">
-
-        <div class="d-flex flex-column justify-items-center justify-content-center col-lg-10 col-md-10">      
-            {{ .Content }}
-            <br>
-
-
-            <div class="d-flex  flex-wrap justify-content-center">
-                <a href="0-editorial" style="text-decoration: none;">
-              <div style="background-color: #B5C5D5; border-radius: 15px;" class=" btn p-3 m-5 d-flex justify-content-around align-items-center buttonhomepage">
-                <svg width="46" height="40" viewBox="0 0 46 40" fill="none" xmlns="http://www.w3.org/2000/svg" class="m-2">
-                  <path d="M28.5714 34.2857H0V40H28.5714V34.2857ZM45.7143 11.4286H0V17.1429H45.7143V11.4286ZM0 28.5714H45.7143V22.8571H0V28.5714ZM0 0V5.71429H45.7143V0H0Z" fill="#404040"/>
-                </svg>
-                <span class="m-2" style="font-family: Lato;
-                font-size: 25px;">Accédez à la version <br>en ligne (HTML)</span>
-              </div>
-                </a>
-              <a href="imprimer" style="text-decoration: none;">
-                <div  style="background-color: #B5C5D5; border-radius: 15px;" class="p-3 btn m-5 d-flex justify-content-around align-items-center buttonhomepage">
-                  <svg width="52" height="40" viewBox="0 0 52 40" fill="none" xmlns="http://www.w3.org/2000/svg" class="m-2">
-                    <path d="M47.0588 1.17647C44.4471 0.352941 41.5765 0 38.8235 0C34.2353 0 29.2941 0.941176 25.8824 3.52941C22.4706 0.941176 17.5294 0 12.9412 0C8.35294 0 3.41176 0.941176 0 3.52941V38C0 38.5882 0.588235 39.1765 1.17647 39.1765C1.41176 39.1765 1.52941 39.0588 1.76471 39.0588C4.94118 37.5294 9.52941 36.4706 12.9412 36.4706C17.5294 36.4706 22.4706 37.4118 25.8824 40C29.0588 38 34.8235 36.4706 38.8235 36.4706C42.7059 36.4706 46.7059 37.1765 50 38.9412C50.2353 39.0588 50.3529 39.0588 50.5882 39.0588C51.1765 39.0588 51.7647 38.4706 51.7647 37.8824V3.52941C50.3529 2.47059 48.8235 1.76471 47.0588 1.17647ZM47.0588 32.9412C44.4706 32.1176 41.6471 31.7647 38.8235 31.7647C34.8235 31.7647 29.0588 33.2941 25.8824 35.2941V8.23529C29.0588 6.23529 34.8235 4.70588 38.8235 4.70588C41.6471 4.70588 44.4706 5.05882 47.0588 5.88235V32.9412Z" fill="#404040"/>
-                  </svg>
-                  <span class="m-2" style="font-family: Lato;
-                  font-size: 25px;">Accédez à la version <br>imprimable (PDF)</span>
-                </div>
-              </a>
-
-
-
+	    <div class="d-flex flex-column justify-items-center justify-content-center col-lg-10 col-md-10">
+	    	{{ .Content }}
+	    	<br />
+	    	<div class="d-flex  flex-wrap justify-content-center">
+	    		<a href="0-editorial" style="text-decoration: none;">
+	    			<div style="background-color: #B5C5D5; border-radius: 15px;" class=" btn p-3 m-5 d-flex justify-content-around align-items-center buttonhomepage">
+	    				<svg width="46" height="40" viewBox="0 0 46 40" fill="none" xmlns="http://www.w3.org/2000/svg" class="m-2">
+	    					<path d="M28.5714 34.2857H0V40H28.5714V34.2857ZM45.7143 11.4286H0V17.1429H45.7143V11.4286ZM0 28.5714H45.7143V22.8571H0V28.5714ZM0 0V5.71429H45.7143V0H0Z" fill="#404040"/>
+              </svg>
+              <span class="m-2" style="font-family: Lato; font-size: 25px;">Accédez à la version <br>en ligne (HTML)</span>
             </div>
-          </div>
+          </a>
+          <a href="imprimer" style="text-decoration: none;">
+          	<div style="background-color: #B5C5D5; border-radius: 15px;" class="p-3 btn m-5 d-flex justify-content-around align-items-center buttonhomepage">
+          		<svg width="52" height="40" viewBox="0 0 52 40" fill="none" xmlns="http://www.w3.org/2000/svg" class="m-2">
+          			<path d="M47.0588 1.17647C44.4471 0.352941 41.5765 0 38.8235 0C34.2353 0 29.2941 0.941176 25.8824 3.52941C22.4706 0.941176 17.5294 0 12.9412 0C8.35294 0 3.41176 0.941176 0 3.52941V38C0 38.5882 0.588235 39.1765 1.17647 39.1765C1.41176 39.1765 1.52941 39.0588 1.76471 39.0588C4.94118 37.5294 9.52941 36.4706 12.9412 36.4706C17.5294 36.4706 22.4706 37.4118 25.8824 40C29.0588 38 34.8235 36.4706 38.8235 36.4706C42.7059 36.4706 46.7059 37.1765 50 38.9412C50.2353 39.0588 50.3529 39.0588 50.5882 39.0588C51.1765 39.0588 51.7647 38.4706 51.7647 37.8824V3.52941C50.3529 2.47059 48.8235 1.76471 47.0588 1.17647ZM47.0588 32.9412C44.4706 32.1176 41.6471 31.7647 38.8235 31.7647C34.8235 31.7647 29.0588 33.2941 25.8824 35.2941V8.23529C29.0588 6.23529 34.8235 4.70588 38.8235 4.70588C41.6471 4.70588 44.4706 5.05882 47.0588 5.88235V32.9412Z" fill="#404040"/>
+              </svg>
+              <span class="m-2" style="font-family: Lato; font-size: 25px;">Accédez à la version <br>imprimable (PDF)</span>
+            </div>
+					</a>
+				</div>
+			</div>
     </div>
-
-
-    <div style="width: 100%; text-align: center;">
-      {{ partial "footer.html" . }}
-    </div>
-
-
   </div>
-
-{{ end }}
-
-
-
-
+{{ partial "footer.html" . }}

@@ -8,10 +8,7 @@
     <title>{{ .Title }} | {{ .Site.Title }}</title>
     <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}" />
     <link rel="shortcut icon" href="img/reticulum.ico">
-    {{ partial "pagedjs-header.html" . }}
+		{{ if (eq .Params.pagedjs true) }}
+	    {{ partial "pagedjs-header.html" . }}
+	  {{ end }}
   </head>
-
-  <body>
-   {{ partial "scroll-progress" }}
-    <div class="container-fluid d-flex">
-    <div class="row">
