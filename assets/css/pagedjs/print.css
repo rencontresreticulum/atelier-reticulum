@@ -36,12 +36,11 @@
     size: A4;
     margin: 20mm 30mm;
 
-    @bottom-center {
-      content: element(footer);
-    }
+		@bottom-center {
+      content: counter(page);
+  	}
 
     @top-right {
-      content: counter(page);
       font-size: 0.7em;
     }
 
