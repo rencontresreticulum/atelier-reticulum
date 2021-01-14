@@ -1,6 +1,6 @@
 baseurl: "https://atelier-reticulum.netlify.app/"
 languageCode: "fr-FR"
-title: "Atelier Reticulum"
+title: "Reticulum"
 theme: "xmin"
 footnotereturnlinkcontents: "↩"
 buildFuture: true
@@ -24,6 +24,7 @@ menu:
       weight: 4
 
 params:
+  subtitle: "Interroger le réseau par le réseau"
   description: "Prototype de revue développé dans le cadre de l'atelier Reticulum."
   footer: "CC-BY Master DIIS, Master DNHD, Florian Harmand & Arthur Perret 2020 • [Contact](mailto:florian.harman@gmail.com,arthur.perret@u-bordeaux-montaigne.fr)"
 
