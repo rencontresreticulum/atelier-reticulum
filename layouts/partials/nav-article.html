@@ -1,6 +1,16 @@
 <body>
 
 <nav class="navArticle"> 
+    <ul class="menu">
+        {{ range .Site.Menus.main }}
+        <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+        {{ end }}
+    </ul>
+
+    <div>
+        <input id="search" type="text" placeholder="Entrer le code" value="" />
+        <input id="btn-search" type="button" value="Accéder" />
+    </div>
 
     <div id="accordion">
         <div class="card">
@@ -69,22 +79,6 @@
             </div>
         </div>
     </div>
-
-    <div>
-        <input id="search" type="text" placeholder="Entrer le code" value="" />
-        <input id="btn-search" type="button" value="Accéder" />
-    </div>
-
-
-    <ul class="menu">
-        {{ range .Site.Menus.main }}
-        <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
-        {{ end }}
-        {{ if (eq .Params.pagedjs true)  }}
-        {{ partial "print-button.html" }}
-        {{ end }}
-    </ul>
-    <hr />
 </nav>
 
 <section class="button-list">
