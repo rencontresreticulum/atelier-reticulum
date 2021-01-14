@@ -8,7 +8,7 @@
   <div class="content-imp d-flex  flex-column  justify-content-around align-items-center" >
       <div class="d-flex justify-content-between mt-5" style="width: 75%;">
           <div>
-            {{ if not (eq .Params.pagedjs true)  }}
+            {{ if not (eq .Params.next false)  }}
             {{ if .PrevInSection }}
             <i class="fa fa-arrow-circle-left fa-lg" aria-hidden="true"></i>
             <a href="{{ .PrevInSection.RelPermalink }}"><b>Précédent : <br> {{ .PrevInSection.Title }}</b></a>{{ end }}
