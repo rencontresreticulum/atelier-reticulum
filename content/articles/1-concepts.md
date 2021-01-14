@@ -51,19 +51,16 @@ De par sa logique d'organisation des contenus, l'architecture de l'information e
 
 ## Hybridité
 
-Contrairement à la notion de multisupport qui propose une déclinaison du même contenu informationnel sur plusieurs supports, l'hybridité, intrinsèquement liée aux pratiques numériques, joue avec les différents paradigmes de navigation rendus possibles par les technologies et les méthodologies du Web. On remarque une tendance vers l'expérimentation de nouveaux contextes de lecture permis et inspirés par ces nouvelles pratiques.
-
-Selon l'article *Les écrits du numérique #4 : Édition expérimentale*, « les auteurs, designers et éditeurs s'emparent de ces outils et revendiquent ainsi d'échapper à la standardisation des formes, inhérente à l'uniformisation des outils de création » (Université de Nîmes, 2019). <!-- (AP) Pas un article mais une news universitaire pour décrire une manifestation scientifique. Pas forcément pertinent à citer textuellement. Remplacer par une reformulation qui mentionne l'évènement ? --> Ici, la notion d'hybride se distingue de celle de multisupport dans le sens où un objet propre au numérique, unique et indépendant est produit, modifiant profondément les modalités d'interactions et l'expérience de lecture par rapport à une version imprimée.
+Contrairement à la notion de multisupport qui propose une déclinaison du même contenu informationnel sur plusieurs supports, l’hybridité, intrinsèquement liée aux pratiques numériques, joue avec les différents paradigmes de navigation rendus possibles par les outils et les méthodologies propres au Web. On remarque une tendance vers l’expérimentation de nouveaux contextes de lecture permis et inspirés par ces nouvelles pratiques, comme en attestent la création d’événements tels que le salon de l'édition alternative et libre proposé par PrePostPrint ou encore la quatrième session des Écrits du numérique consacrée aux éditions expérimentales. Ils expriment une volonté générale de s’émanciper de la standardisation des formes d’édition due à l’uniformisation des outils de création. Les concepteurs, qu’ils soient artistes, designer, éditeurs ou encore auteurs, s’approprient les outils du Web afin de jouer avec les différentes possibilités et d’expérimenter de nouvelles formes d’édition. Ainsi, la notion d'hybride se distingue de celle de multisupport dans le sens où un objet propre au numérique, unique et indépendant est produit, modifiant profondément les modalités d'interactions et l'expérience de lecture par rapport à une version imprimée.
 
 Un contenu éditorial peut être augmenté en s'hybridant avec d'autres médias numériques (musique, liens, vidéos, images, images interactives), mais aussi par l'ajout de surcouches informationnelles interactives, qui le différencie profondément de la version papier, comme par exemples des indices visuels concernant notre lecture. L'œuvre hybride se veut expérimentale dans sa volonté de décloisonner les genres et explorer de nouveaux univers.
 
 ## Bibliographie 
-<!-- à remplacer par un export depuis Zotero -->
 
-- **Architecture de l'information** <http://www.iafactory.fr/expertise-ux/architecture-de-l-information.php>
-- **Les écrits du numérique #4 : Édition expérimentale** <http://projekt.unimes.fr/les-ecrits-du-numerique-4-edition-experimentale/>
-- **Philosophie des réseaux, Daniel Parrochia** <https://www.persee.fr/doc/rfsoc\_0035-2969\_1996\_num\_37\_1\_7085>
-- **Architecture de l'information versus design de l'information** <http://reticulum.info/2/#concept>
-- **La pensée complexe : Antidote pour les pensées uniques. Entretien avec Edgar Morin** <https://www.gerflint.fr/Base/Monde4/nelson.pdf>
-- **Quel programme de formation à la pensée complexe pour les enseignants?** <https://www.reseau-canope.fr/fileadmin/user\_upload/Projets/pensee\_complexe/giordan\_formation\_enseignants\_pensee\_complexe.pdf>
-- **Le concept de réseau - Patrick Bantman** <https://www-cairn-info.ezproxy.u-bordeaux-montaigne.fr/revue-vie-sociale-et-traitements-2004-1-page-18.htm>
+- BANTMAN, Patrick, 2004. Le concept de réseau. *VST - Vie sociale et traitements, revue des CEMEA.* 2004. N° 81, pp. 18‑19. 
+- BEYAERT-GESLIN, Anne, 2018. Architecture de l’information versus design de l’information. Études de communication. 1 juin 2018. N° 50, pp. 161‑174. DOI 10.4000/edc.7651. 
+- GIORDAN, André, 2016. Quel programme de formation à la pensée complexe pour les enseignants ? In : Congrès mondial de la pensée complexe [en ligne]. Réseau Canopé. 2016. [Consulté le 12 janvier 2021]. Disponible à l’adresse : https://www.reseau-canope.fr/fileadmin/user_upload/Projets/pensee_complexe/giordan_formation_enseignants_pensee_complexe.pdf
+- MAUGERI, Salvatore, 1996. Parrochia Daniel, Philosophie des réseaux. Revue française de sociologie. 1996. Vol. 37, n° 1, pp. 132‑136. 
+MUCKENSTRURM, Julien, 2016. Architecture de l’information. iafactory [en ligne]. 2016. [Consulté le 12 janvier 2021]. Disponible à l’adresse : http://www.iafactory.fr/expertise-ux/architecture-de-l-information.php
+
+- VALLEJO-GOMEZ, Edgar, 2008. La pensée complexe : Antidote pour les pensées uniques. Entretien avec Edgar Morin. *Synergies. 2008. N° 4*, pp. 249‑262. 
