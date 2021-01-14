@@ -6,10 +6,10 @@
   </div>
  
   <div class="content-imp d-flex  flex-column  justify-content-around align-items-center" >
-    <div class="heade">
+    <div style="width: 30%">
         <div class="col-10 d-flex justify-content-between mt-5">
             <div>
-              
+              {{ if not (eq .Params.pagedjs true)  }}
               {{ if .PrevInSection }} 
               <i class="fa fa-arrow-circle-left fa-lg" aria-hidden="true"></i>
               <a href="{{ .PrevInSection.RelPermalink }}"><b>Précédent :</b></a>{{ end }}
@@ -20,6 +20,8 @@
               <i class="fa fa-arrow-circle-right fa-lg" aria-hidden="true"></i>
               
               <a href="{{ .NextInSection.RelPermalink }}"><b> Suivant :</b></a>{{ end }}
+              {{ end }}
+              
             </div>
           </div>
     </div>
