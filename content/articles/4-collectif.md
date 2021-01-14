@@ -55,6 +55,6 @@ Les différentes solutions créées ont toutes eu pour vocation à répondre aux
 ![Schéma écosystème de classe]()
 
 ## Bibliographie
-<!-- à remplacer par un export depuis Zotero -->
 
-- Foucault, la communication et les dispositifs - Sylvain Lafleur, « Foucault, la communication et les dispositifs », Communication [En ligne], vol. 33/2 | 2015, mis en ligne le 26 janvier 2016, consulté le 14 octobre 2020. URL : http://journals.openedition.org.ezproxy.u-bordeaux-montaigne.fr/communication/5727 ; DOI : [https://doi-org.ezproxy.u-bordeaux-montaigne.fr/10.4000/communication.5727](https://doi-org.ezproxy.u-bordeaux-montaigne.fr/10.4000/communication.5727)
+- LAFLEUR, Sylvain, 2015. Foucault, la communication et les dispositifs. *Communication. Information médias théories pratiques* [en ligne]. 11 décembre 2015. Vol. 33, n° 2. [Consulté le 12 janvier 2021].DOI 10.4000/communication.5727.Disponible à l’adresse : http://journals.openedition.org.ezproxy.u-bordeaux-montaigne.fr/communication/5727
+
