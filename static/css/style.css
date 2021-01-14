@@ -286,7 +286,7 @@ aside {
   display: flex;
   flex-direction: column;
   right:1em;
-  top:4em;
+  top:8em;
   z-index: 1000;
 }
 aside svg {cursor: pointer;margin:0.5em auto;}
