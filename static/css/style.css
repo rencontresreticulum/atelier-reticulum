@@ -166,7 +166,6 @@ main {
 
 /* revue */
 #revue {
-  
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -305,7 +304,15 @@ section {margin-top: 5em;}
 }
 
 .heade {
-	width: 30%;
+  width: 30%;
+
+}
+
+.navArticle{
+  position: fixed;
+  background-color: #dae2ea;
+  padding: 15px;
+  height: 100%;
 }
 
 .content-imp {width: 70%;}
