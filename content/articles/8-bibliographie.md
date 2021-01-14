@@ -2,3 +2,78 @@
 title: Bibliographie
 ---
 
+- BANTMAN, Patrick, 2004. Le concept de réseau. *VST - Vie sociale et traitements, revue des CEMEA* [en ligne]. 2004. N° 81, pp. 18‑19. [Consulté le 12 janvier 2021]. Disponible à l’adresse : https://www.cairn.info/revue-vie-sociale-et-traitements-2004-1-page-18.htm
+
+- BENSEDDIK, Mohammed, 2020. La Covid-19 comme laboratoire d’expérimentation. *Le Libellio* [en ligne]. avril 2020. Vol. 16, pp. 21‑30. [Consulté le 26 octobre 2020]. Disponible à l’adresse : lelibellio.com/wp-content/uploads/2020/04/Le-Libellio-d-volume-16-Seri-e-spe%CC%81ciale-Coronam-semaine-5.pdf
+
+- BÉSIAT, Jean-Pierre, 1993. Textes, champs lexicaux et HyperTexte. *Caliban* [en ligne]. 1993. Vol. 30, n° 1, pp. 117‑135. [Consulté le 13 janvier 2021]. DOI 10.3406/calib.1993.1273. Disponible à l’adresse : https://www.persee.fr/doc/calib_0575-2124_1993_num_30_1_1273
+
+- BEYAERT-GESLIN, Anne, 2018. Architecture de l’information versus design de l’information. *Études de communication* [en ligne]. 1 juin 2018. N° 50, pp. 161‑174. [Consulté le 13 janvier 2021]. DOI 10.4000/edc.7651. Disponible à l’adresse : http://journals.openedition.org/edc/7651
+
+- BILA-DEROUSSY, Pathum, 2015. Approche systémique de la créativité : outils et méthodes pour aborder la complexité en conception amont [en ligne]. Thèse de doctorat. Paris : Arts et métiers ParisTech. [Consulté le 12 janvier 2021]. Disponible à l’adresse : https://pastel.archives-ouvertes.fr/tel-01315163/document
+
+- BOUHAÏ, Nasreddine et REYES-GARCIA, Everardo, 2017. Design de systèmes hypermédia interactifs. ISTE éditions. Systèmes d’information, Web et société. Série Outils et usages numériques, 3. ISBN 978-1-78405-264-5. 
+
+- BRASSARD, Louis-Olivier, 2020. Qu’est-ce que l’éditorialisation? https://journal.loupbrun.ca [en ligne]. 2020. [Consulté le 13 janvier 2021]. Disponible à l’adresse : https://journal.loupbrun.ca/n/059/En quoi l’éditorialisation est-elle utile?
+  
+- BRYAN, Charity, LEEDS, Elke et WILEY, Tarrica, 2018. The Cost of Online Education: Leveraging Data to Identify Efficiencies. Online Journal of Distance Learning Administration [en ligne]. 15 juin 2018. Vol. 21, n° 2. [Consulté le 13 janvier 2021]. Disponible à l’adresse : https://www.westga.edu/~distance/ojdla/summer212/bryan_leeds_wiley212.html
+
+- CARDON, Dominique, 2019. Tim Berners-Lee et l’invention du lien hypertexte. Hors collection [en ligne]. 2019. pp. 80‑90. [Consulté le 13 janvier 2021]. Disponible à l’adresse : https://www-cairn-info.ezproxy.u-bordeaux-montaigne.fr/culture-numerique--9782724623659-page-80.htmPublisher: Presses de Sciences Po
+  
+- CORMERAIS, Franck et MILON, Alain, 1998. La navigation multimédia et le retour au projet encyclopédique. Communication & Langages [en ligne]. 1998. Vol. 116, n° 1, pp. 77‑91. [Consulté le 13 janvier 2021]. DOI 10.3406/colan.1998.2848. Disponible à l’adresse : https://www.persee.fr/doc/colan_0336-1500_1998_num_116_1_2848
+
+- DAHMANI, Abdelaziz et ELKEBIR, Elakry, 2020. La COVID-19 un accélérateur du Télétravail pour les Entreprises. International Journal of Management Sciences [en ligne]. 3 novembre 2020. Vol. 3, n° 4. [Consulté le 13 janvier 2021]. Disponible à l’adresse : https://www.revue-isg.com/index.php/home/article/view/405
+
+- DAVALLON, Jean et JEANNERET, Yves, 2004. La fausse évidence du lien hypertexte. Communication & Langages [en ligne]. 2004. N° 140, pp. 43‑54. [Consulté le 13 janvier 2021]. Disponible à l’adresse : https://www.persee.fr/doc/colan_0336-1500_2004_num_140_1_3266?q=la+fausse+%C3%A9vidence+du+lien+hypertexte
+
+- DUSSUD, Diane, 2021. Nicolas Gaudron, 32 ans, designer d’interaction. imagine ton futur [en ligne]. 13 janvier 2021. [Consulté le 12 janvier 2021]. Disponible à l’adresse : https://www.imaginetonfutur.com/nicolas-gaudron-32-ans-designer-d-interaction.html
+
+- E3D LAB et LE DEUFF, Olivier, 2019. Entre documentologie et documentalité : la place des SIC dans une théorie générale du document (Masterclass DNHD) [en ligne]. 2019. [Consulté le 13 janvier 2021]. Disponible à l’adresse : https://www.youtube.com/watch?v=gUwH84EwO1g&feature=youtu.be
+
+- E3D LAB et PERRET, Arthur, 2019. Du document à l’hyperdocument (Masterclass DNHD) [en ligne]. 2019. [Consulté le 13 janvier 2021]. Disponible à l’adresse : https://www.youtube.com/watch?v=Sh5v-734nmo&feature=youtu.be
+
+- FALL, Ibrahima, 2020. Coronavirus : manifestation d’une crise systémique du management ? Forbes France [en ligne]. 23 mars 2020. [Consulté le 12 janvier 2021]. Disponible à l’adresse : https://www.forbes.fr/management/coronavirus-manifestation-dune-crise-systemique-du-management/
+
+- FAYARD, Anne-Laure, 2020. Six weeks in…. Le Libellio [en ligne]. avril 2020. Vol. 16, pp. 19‑21. [Consulté le 26 octobre 2020]. Disponible à l’adresse : lelibellio.com/wp-content/uploads/2020/04/Le-Libellio-d-volume-16-Seri-e-spe%CC%81ciale-Coronam-semaine-5.pdf
+
+- GIORDAN, André, 2016. Quel programme de formation à la pensée complexe pour les enseignants ? In : Congrès mondial de la pensée complexe [en ligne]. Réseau Canopé. 2016. [Consulté le 12 janvier 2021]. Disponible à l’adresse : https://www.reseau-canope.fr/fileadmin/user_upload/Projets/pensee_complexe/giordan_formation_enseignants_pensee_complexe.pdf
+
+- HUOT, Alice, 2020. Zoom vous fatigue ? C’est normal. L’ADN [en ligne]. 29 avril 2020. [Consulté le 13 janvier 2021]. Disponible à l’adresse : https://www.ladn.eu/tech-a-suivre/zoom-fatigue-notre-cerveau/
+ 
+- LAFLEUR, Sylvain, 2015. Foucault, la communication et les dispositifs. Communication. Information médias théories pratiques [en ligne]. 11 décembre 2015. Vol. 33, n° 2. [Consulté le 12 janvier 2021]. DOI 10.4000/communication.5727. Disponible à l’adresse : http://journals.openedition.org.ezproxy.u-bordeaux-montaigne.fr/communication/5727
+
+- LE DEUFF, Olivier et PERRET, Arthur, 2019. Hyperdocumentation: origin and evolution of a concept. Journal of Documentation [en ligne]. 2019. Vol. 75, n° 6, pp. 1463‑1474. [Consulté le 13 janvier 2021]. DOI 10.1108/JD-03-2019-0053. Disponible à l’adresse : https://doi.org/10.1108/JD-03-2019-0053
+
+- LÉVY, Pierre, 1991. L’hypertexte, instrument et métaphore de la communication. Réseaux. Communication - Technologie - Société [en ligne]. 1991. Vol. 9, n° 46, pp. 59‑68. [Consulté le 13 janvier 2021]. DOI 10.3406/reso.1991.1831. Disponible à l’adresse : https://www.persee.fr/doc/reso_0751-7971_1991_num_9_46_1831
+ 
+- LISOCHUB, Nina, 2020. La crise sanitaire du Covid-19 et les challenges du travail en équipe et de sa gestion à distance : Confirmation et disruption [en ligne]. Mémoire de master. Louvain School of Management. Disponible à l’adresse : https://dial.uclouvain.be/downloader/downloader.php?pid=thesis%3A25991&datastream=PDF_01&cover=cover-mem
+ 
+- LOWE, Anne, 2002. La pédagogie actualisante ouvre ses portes à l’interdisciplinarité scolaire. Éducation et francophonie [en ligne]. 2002. Vol. Vol.XXX. [Consulté le 14 janvier 2021]. Disponible à l’adresse : https://www.acelf.ca/c/revue/revuehtml/30-2/08-lowe.html
+
+- MAINGUENEAU, Dominique, 1988. « Langue et Discours ». La linguistique et son double. DRLAV. Documentation et Recherche en Linguistique Allemande Vincennes [en ligne]. 1988. Vol. 39, n° 1, pp. 21‑32. [Consulté le 13 janvier 2021]. DOI 10.3406/drlav.1988.1069. Disponible à l’adresse : https://www.persee.fr/doc/drlav_0754-9296_1988_num_39_1_1069
+
+- MALIK, Mathéo et RONTEIX, Gustave, 2020. Peut-on vraiment faire confiance à Zoom ? Le Grand Continent [en ligne]. 23 mars 2020. [Consulté le 13 janvier 2021]. Disponible à l’adresse : https://legrandcontinent.eu/fr/2020/03/23/peut-on-vraiment-faire-confiance-a-zoom/
+
+- MAUGERI, Salvatore, 1996. Parrochia Daniel, Philosophie des réseaux. Revue française de sociologie [en ligne]. 1996. Vol. 37, n° 1, pp. 132‑136. [Consulté le 12 janvier 2021]. Disponible à l’adresse : https://www.persee.fr/doc/rfsoc_0035-2969_1996_num_37_1_7085
+
+- MORIN, Edgar, 1995. La stratégie de reliance pour l’intelligence de la complexité. Revue Internationale de Systémique [en ligne]. 1995. Vol. 9, n° 2, pp. 105‑112. [Consulté le 12 janvier 2121]. Disponible à l’adresse : http://www.res-systemica.org/ris/vol-09/vol09-num-02/ris-vol09-num02-p105-112.pdf
+
+- MUCKENSTRURM, Julien, 2016. Architecture de l’information. iafactory [en ligne]. 2016. [Consulté le 12 janvier 2021]. Disponible à l’adresse : http://www.iafactory.fr/expertise-ux/architecture-de-l-information.php
+
+- NOËL-GAUDREAULT, Monique et HOPPER, Christophe, 1995. Au carrefour de l’écriture, du traitement de texte et de l’hypertexte... Hyperconte. Repères. Recherches en didactique du français langue maternelle [en ligne]. 1995. Vol. 11, n° 1, pp. 125‑137. [Consulté le 13 janvier 2021]. DOI 10.3406/reper.1995.2149. Disponible à l’adresse : https://www.persee.fr/doc/reper_1157-1330_1995_num_11_1_2149Publisher: Persée - Portail des revues scientifiques en SHS
+  
+- PERRET, Arthur et HARMAND, Florian, 2020. Reticulum (3) – Faire savoir et pouvoir faire. Université Bordeaux Montaigne [en ligne]. 2 octobre 2020. [Consulté le 12 janvier 2021]. Disponible à l’adresse : https://www.u-bordeaux-montaigne.fr/fr/ecole-doctorale/diplomes-et-formations/formations-proposees-par-l-ed/les-initiatives-doctorantes-1/initiatives-doctorantes-2019-2020-1/reticulum-2-architecture-s-de-l-information.html
+
+- SALAÜN, Jean-Michel, 2004. Chronique inachevée d’une réflexion collective sur le document - Persée. Communication & Langages [en ligne]. 2004. N° 140, pp. 9‑17. [Consulté le 13 janvier 2021]. Disponible à l’adresse : https://www.persee.fr/doc/colan_0336-1500_2004_num_140_1_3263?q=chronique+inachev%C3%A9e+d%27une+r%C3%A9flexion+collective+sur+le+document
+
+- TOULLEMONDE, Gilles, 2003. Les facteurs de performance du processus d’innovation. Knowllence, facilitateur en maîtrise des risques [en ligne]. 12 mai 2003. [Consulté le 12 janvier 2021]. Disponible à l’adresse : https://www.knowllence.com/blog-risk-management/facteurs-performance-processus-innovation.htmlLes facteurs de performance du processus d’innovation, et les outils logiciels qui permettent de progresser, article.
+
+- VALLEJO-GOMEZ, Edgar, 2008. La pensée complexe : Antidote pour les pensées uniques. Entretien avec Edgar Morin. Synergies [en ligne]. 2008. N° 4, pp. 249‑262. [Consulté le 12 janvier 2021]. Disponible à l’adresse : https://www.gerflint.fr/Base/Monde4/nelson.pdf
+
+- VERGARA, Ingrid, 2020. « Zoom fatigue » : pourquoi les discussions en visioconférence sont si épuisantes. Le Figaro [en ligne]. 23 avril 2020. [Consulté le 12 janvier 2021]. Disponible à l’adresse : https://www.lefigaro.fr/secteur/high-tech/zoom-fatigue-pourquoi-les-discussions-en-visioconference-sont-si-epuisantes-20200423
+
+- VITALI-ROSATI, Marcello, 2016. Qu’est-ce que l’éditorialisation? Sens public [en ligne]. 2016. [Consulté le 13 janvier 2021]. Disponible à l’adresse : http://sens-public.org/articles/1184/
+
+- WONG, Camille, 2020. Déconfinement : ces entreprises qui disent adieu à leurs bureaux pour rester en télétravail. Les Echos Start [en ligne]. 29 mai 2020. [Consulté le 13 janvier 2021]. Disponible à l’adresse : https://start.lesechos.fr/travailler-mieux/flexibilite-au-travail/deconfinement-ces-entreprises-qui-disent-adieu-a-leurs-bureaux-pour-rester-en-teletravail-1206519Section: Travailler mieux
+  
+
