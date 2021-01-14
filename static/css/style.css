@@ -115,7 +115,8 @@ body {
 	margin: 0 auto;
 }
 nav {background-color: #DAE2EA;}
-.menu {display:flex;flex-direction:column;}
+.menu {display:flex;flex-direction:column;padding:0;}
+
 .menu li {
 	display: inline-block;
 	font-weight: bold;
@@ -275,7 +276,7 @@ h2#bibliographie+ul li {
 }
 
 aside {
-  background-color: #97728C;
+  background-color: #466F95;
   border-radius: 20px;
   padding:0.5em;
   position: fixed;
@@ -290,19 +291,18 @@ aside svg {cursor: pointer;margin:0.5em auto;}
 section {margin-top: 5em;}
 
 #search {
-  background-color: transparent;
+  background-color: white
   border-radius: 20px 0 0 20px;
-  border: 1px solid black;
+  border: none;
   padding:0.4em 1em;
   outline: none;
 }
 
 #btn-search {
-  background-color: black;
-  border-radius: 0 20px 20px 0;
+  background-color: #466F95;
   color:white;
   padding:0.4em 1em;
-  border: 1px solid black;
+  border: 1px solid #466F95;
   cursor: pointer;
   margin-left:-4px;
 }
