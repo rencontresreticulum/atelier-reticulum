@@ -13,6 +13,7 @@
   .article {
     column-count: 2;
     column-gap: 5mm;
+    break-after: page
   }
 
   /* Titre courant */
