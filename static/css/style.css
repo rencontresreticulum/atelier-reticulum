@@ -294,12 +294,12 @@ h2#bibliographie+ul li {
 }
 
 aside {
-  background-color: #466F95;
+  background-color: #DAE2EA;
   border-radius: 20px;
   padding:0.5em;
   position: fixed;
   display: flex;
-  flex-direction: column;
+  align-items: center;
   right:1em;
   top:8em;
   z-index: 1000;
@@ -344,3 +344,4 @@ button i{
 .content-imp{width: 70%;}
 
 .oue{width: 85%;}
+.fa-sort-up{margin-top: 0.4em;}
