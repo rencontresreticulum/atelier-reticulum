@@ -31,7 +31,7 @@ html {scroll-behavior: smooth;}
 }
 
 @font-face {
-    font-family: 'Lato';
+    font-family: 'Lato Italic';
     src: url('../fonts/Lato-Italic.woff2') format('woff2'),
         url('../fonts/Lato-Italic.woff') format('woff');
     font-weight: normal;
@@ -40,7 +40,7 @@ html {scroll-behavior: smooth;}
 }
 
 @font-face {
-    font-family: 'Lato';
+    font-family: 'Lato Bold';
     src: url('../fonts/Lato-Bold.woff2') format('woff2'),
         url('../fonts/Lato-Bold.woff') format('woff');
     font-weight: bold;
