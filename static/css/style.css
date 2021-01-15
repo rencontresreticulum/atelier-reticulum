@@ -105,10 +105,6 @@ h1#site-title {
   font-size: 4rem;
   color: white;
 }
-h2.revue-title,
-h3.revue-subtitle {
-	text-align: center;
-}
 div.nav-revue-title {
 	max-width: 300px;
 	margin: 0.5em auto;
@@ -118,18 +114,36 @@ div.nav-revue-title a {
 }
 div.nav-revue-title h1 {
 	font-size: 1.5rem;
-	font-weight: bold;
+}
+h1#site-title {
+text-shadow: 0px 1px 2px black; 
+font-size: 3.5rem;
+}
+h2.revue-title {
+	font-size: 2.8rem;
+	font-weight: normal;
 	text-transform: uppercase;
+	max-width: 50%;
+	text-align: center;
+}
+h1, h2, h3 {
+	hyphens: none;
 }
 h1 {
   font-family: 'Open Sans';
   font-weight: bold;
   text-transform: uppercase;
   font-size: 3rem;
+  margin-bottom: 1rem;
 }
 h2 {
   font-family: "Open Sans";
-  font-size: 45px;
+  font-size: 1.5em;
+  word-break: keep-all;
+  margin: 2.5rem 0 0.8rem 0;
+}
+h3 {
+  margin: 2rem 0 0.5rem 0;
 }
 p, ul {
 	font: 20px/1.5 "Lato";
@@ -383,5 +397,8 @@ button i{
 
 .content-imp{width: 70%;}
 
-.oue{width: 85%;}
+.oue {
+	width: 85%;
+	max-width: 650px;
+}
 .fa-sort-up{margin-top: 0.4em;}
