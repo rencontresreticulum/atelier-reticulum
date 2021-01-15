@@ -345,7 +345,11 @@ h2#bibliographie+ul li {
 
 .card ul {padding-left: 0;margin:0;}
 .card li a {text-decoration: none;}
-.card li {color:black;list-style-type: none;}
+.card li {
+	color:black;
+	list-style-type: none;
+	font-size: 1rem;
+}
 .card-header {background-color: transparent;padding:0;}
 .card button {
   padding:0;
