@@ -295,16 +295,16 @@ h2#bibliographie+ul li {
 
 aside {
   background-color: #DAE2EA;
-  border-radius: 20px;
-  padding:0.5em;
+  padding:0.2em 0.5em;
   position: fixed;
+  right:0;
   display: flex;
   align-items: center;
-  right:1em;
   top:8em;
   z-index: 1000;
 }
-aside svg {cursor: pointer;margin:0.5em auto;}
+aside svg {cursor: pointer;width:84%;padding:0 0.2em;}
+aside >div:last-child{display: flex;align-items: center;}
 
 section {margin-top: 5em;}
 

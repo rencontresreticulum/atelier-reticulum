@@ -9,7 +9,20 @@
   <script>
 var size=20;
 $(document).ready(function() {
-  $("#normal").hide();
+$("#normal").hide();
+$("#expand").hide();
+
+//icon arrow in menu
+    $(".collapse.show").each(function(){
+    $(this).prev(".card-header").find(".fa").addClass("fa-sort-up").removeClass("fa-sort-down");
+  });
+
+  $(".collapse").on('show.bs.collapse', function(){
+    $(this).prev(".card-header").find(".fa").removeClass("fa-sort-down").addClass("fa-sort-up");
+  }).on('hide.bs.collapse', function(){
+    $(this).prev(".card-header").find(".fa").removeClass("fa-sort-up").addClass("fa-sort-down");
+  });
+//END icon arrow in menu
 
 //scroll-progess
   var docHeight = $(document).height(),windowHeight = $(window).height(),scrollPercent;
@@ -60,5 +73,12 @@ $( "#blackmode" ).click(function() {
     size--;
   });
   //END accessibility size
+
+// button accessibility
+$('#open').click(function() {
+ $('#expand').animate({width:'toggle'},250);
+});
+// END button accessibility
+
 });
   </script>
