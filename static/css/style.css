@@ -359,18 +359,29 @@ h2#bibliographie+ul li {
   text-align: left;
 }
 
+/* a11y */
 aside {
   background-color: #DAE2EA;
   padding:0.2em 0.5em;
   position: fixed;
   right:0;
   display: flex;
+  flex-flow: column wrap;
   align-items: center;
   top:8em;
   z-index: 1000;
 }
 aside svg {cursor: pointer;width:84%;padding:0 0.2em;}
-aside >div:last-child{display: flex;align-items: center;}
+aside > div:last-child {display: flex; flex-flow: column wrap;align-items: center;}
+aside p {
+	margin: 0;
+	font-family: monospace;
+	font-size: 1rem;
+	color: #333;
+}
+.expand-aside svg {
+	margin: 0.2em auto;
+}
 
 section {margin-top: 5em;}
 
