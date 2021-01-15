@@ -5,12 +5,12 @@
     	<h1 id="site-title">{{ .Site.Title | markdownify }}</h1>
     	<h2>{{ .Site.Params.Subtitle | markdownify }}</h2>
     </div>
-		<span id="scrolltorevue" style="cursor: pointer;">En savoir plus</span>
-		<div id="scrolltorevue" class="m-3">
-			<svg  width="43" height="26" viewBox="0 0 43 26" fill="none" xmlns="http://www.w3.org/2000/svg">
-				<path d="M5.0525 0L21.5 16.0702L37.9475 0L43 4.94737L21.5 26L0 4.94737L5.0525 0Z" fill="#505050"/>
-			</svg>
-		</div>
+		<span id="scrolltorevue" style="cursor: pointer;">En savoir plus <br> 
+			<div class="d-flex justify-content-center mt-2">
+				<svg class="arrow" width="43" height="26" viewBox="0 0 43 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<path d="M5.0525 0L21.5 16.0702L37.9475 0L43 4.94737L21.5 26L0 4.94737L5.0525 0Z" />
+				</svg>
+			</div> 
     <script>
       const btn = document.getElementById('scrolltorevue');
       btn.addEventListener('click', () => window.scrollTo({

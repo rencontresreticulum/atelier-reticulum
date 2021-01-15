@@ -180,6 +180,10 @@ main {
   align-items: center;
 
 }
+
+.arrow {
+  fill: #000;
+}
 .homepage > h2 {
   text-align: center;
 }
