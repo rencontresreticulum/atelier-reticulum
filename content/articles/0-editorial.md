@@ -16,4 +16,7 @@ Cette revue témoigne donc **d'un travail sur le réseau, par le réseau** ; ell
 
 Au fil des articles, le paradigme réticulaire est traité sous différents prismes. La première partie établit le contexte du design et du développement de cette revue, en développant notamment les concepts relatifs au réseau. La seconde partie expose la démarche de prototypage de la revue et explore le rapport entre « hyper » et « réseau ». La troisième partie constitue une approche réflexive et critique de projets effectués au sein du Master DIIS. La quatrième et dernière partie restitue le vécu du confinement par les étudiants ayant participé au projet, avec un regard particulier sur leur travail collaboratif.
 
-![Schéma contexte éditorial Reticulum]()
+<figure class="web">
+<img src="/img/112.png" id="112" />
+<figcaption>#112</figcaption>
+</figure>
