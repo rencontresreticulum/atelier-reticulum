@@ -104,6 +104,7 @@ h1#site-title {
   letter-spacing: 1rem;
   font-size: 4rem;
   color: white;
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.16);
 }
 h2.revue-title,
 h3.revue-subtitle {
@@ -130,6 +131,10 @@ h1 {
 h2 {
   font-family: "Open Sans";
   font-size: 45px;
+}
+h3 {
+  font-family: "Open Sans";
+  font-size: 24px;
 }
 p, ul {
 	font: 20px/1.5 "Lato";
