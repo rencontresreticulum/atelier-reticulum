@@ -109,14 +109,17 @@ h2.revue-title,
 h3.revue-subtitle {
 	text-align: center;
 }
-
-a.nav-revue-title {
-	display: block;
-	font-size: 1.5rem;
+div.nav-revue-title {
+	max-width: 300px;
+	margin: 0.5em auto;
+}
+div.nav-revue-title a {
 	text-decoration: none;
+}
+div.nav-revue-title h1 {
+	font-size: 1.5rem;
 	font-weight: bold;
 	text-transform: uppercase;
-	max-width: 300px;
 }
 h1 {
   font-family: 'Open Sans';
