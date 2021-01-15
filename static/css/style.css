@@ -2,6 +2,16 @@ html {scroll-behavior: smooth;}
 * {box-sizing: border-box;}
 
 /* fonts */
+
+@font-face {
+    font-family: 'JaapokkisubtractRegular';
+    src: url('../fonts/JaapokkisubtractRegular.woff2') format('woff2'),
+        url('../fonts/JaapokkisubtractRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
 @font-face {
     font-family: 'Lment';
     src: url('../fonts/Lment-v02.woff2') format('woff2'),
@@ -91,20 +101,20 @@ h1#site-title {
 	letter-spacing: 0;
 }
 h1 {
-  font-family: Grotesk;
+  font-family: "Grotesk";
   letter-spacing: -10px;
   word-spacing: 20px;
   font-size: 60px;
 }
 h2 {
-  font-family: Open Sans;
+  font-family: "Open Sans";
   font-size: 45px;
 }
 p {
-	font: 20px/1.5 Lato;
+	font: 20px/1.5 "Lato";
 }
 .homepage > span {
-  font-family: Lato;
+  font-family: "Lato";
   font-size: 25px;
 }
 
