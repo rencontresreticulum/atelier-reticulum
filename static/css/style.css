@@ -2,6 +2,16 @@ html {scroll-behavior: smooth;}
 * {box-sizing: border-box;}
 
 /* fonts */
+
+@font-face {
+    font-family: 'JaapokkisubtractRegular';
+    src: url('../fonts/JaapokkisubtractRegular.woff2') format('woff2'),
+        url('../fonts/JaapokkisubtractRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
 @font-face {
     font-family: 'Lment';
     src: url('../fonts/Lment-v02.woff2') format('woff2'),
@@ -89,22 +99,26 @@ body {
 h1#site-title {
 	text-transform: uppercase;
 	letter-spacing: 0;
+  font-family: 'JaapokkisubtractRegular';
+  letter-spacing: 0;
+  letter-spacing: 1rem;
+  font-size: 4rem;
 }
 h1 {
-  font-family: Grotesk;
-  letter-spacing: -10px;
-  word-spacing: 20px;
-  font-size: 60px;
+  font-family: 'Open Sans';
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 3rem;
 }
 h2 {
-  font-family: Open Sans;
+  font-family: "Open Sans";
   font-size: 45px;
 }
 p {
-	font: 20px/1.5 Lato;
+	font: 20px/1.5 "Lato";
 }
 .homepage > span {
-  font-family: Lato;
+  font-family: "Lato";
   font-size: 25px;
 }
 
@@ -179,6 +193,10 @@ main {
   justify-content: center;
   align-items: center;
 
+}
+
+.arrow {
+  fill: #000;
 }
 .homepage > h2 {
   text-align: center;

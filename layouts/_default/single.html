@@ -28,7 +28,7 @@
 				{{ if (eq .Params.pagedjs true)  }}
 				{{ partial "print-button.html" }}
 				{{ range where .Site.Pages.ByWeight "Type" "=" "article" }}
-				<div class="print-only">
+				<div class="print-only article">
 					<h1>{{ .Title | markdownify }}</h1>
 					{{ .Content }}
 				</div>
