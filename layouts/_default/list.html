@@ -3,7 +3,8 @@
   <div class="homepage">
     <div class="col-lg-10 d-flex flex-column justify-content-center align-items-center">
     	<h1 id="site-title">{{ .Site.Title | markdownify }}</h1>
-    	<h2>{{ .Site.Params.Subtitle | markdownify }}</h2>
+    	<h2 class="revue-title" >{{ .Site.Params.RevueTitle | markdownify }}</h2>
+    	<h3 class="revue-subtitle" >{{ .Site.Params.RevueSubtitle | markdownify }}</h2>
     </div>
 		<span id="scrolltorevue" style="cursor: pointer;">En savoir plus <br> 
 			<div class="d-flex justify-content-center mt-2">
