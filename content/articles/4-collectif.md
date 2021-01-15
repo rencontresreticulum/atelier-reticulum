@@ -1,5 +1,5 @@
 ---
-title: Le collectif - Le projet des aidants 
+title: "Le collectif : le projet des aidants"
 type: article
 weight: 5
 ---
