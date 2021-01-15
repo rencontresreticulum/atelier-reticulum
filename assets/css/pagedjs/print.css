@@ -42,6 +42,10 @@
     hyphens: auto;
   }
 
+  ul {
+    padding-inline-start: 32px;
+  }
+
   .content-imp {
     width: 100%;
   }
