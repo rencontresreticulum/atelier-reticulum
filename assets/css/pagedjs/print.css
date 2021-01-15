@@ -68,10 +68,6 @@
     size: A4;
     margin: 20mm 30mm;
 
-		@bottom-center {
-      content: counter(page);
-  	}
-
     @top-right {
       font-size: 0.7em;
     }
@@ -87,9 +83,17 @@
   @page:left {
       margin-left: 20mm;
       margin-right: 15mm;
+      @bottom-left-corner {
+        content: counter(page);
+        font-family: "Lato Bold"
+    	}
   }
   @page:right {
       margin-left: 15mm;
       margin-right: 20mm;
+      @bottom-right-corner {
+        content: counter(page);
+        font-family: "Lato Bold"
+    	}
   }
 }
