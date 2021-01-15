@@ -37,6 +37,7 @@ $(function(){
 $( "#blackmode" ).click(function() {
     $('body').css({"background-color":"black","color":"white"});
     $('.menu').css({"color":"black"});
+    $('.arrow').css({"fill":"white"});
     $('label').css({"color":"black"});
     $("#normal").show();
     $("#blackmode").hide();
@@ -44,6 +45,7 @@ $( "#blackmode" ).click(function() {
 
   $( "#normal" ).click(function() {
     $('body').css({"background-color":"white","color":"black"});
+    $('.arrow').css({"fill":"black"});
     $("#blackmode").show();
     $("#normal").hide();
   });
