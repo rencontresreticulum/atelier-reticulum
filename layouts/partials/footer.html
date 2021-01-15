@@ -36,14 +36,14 @@ $(function(){
 //accessibility
 $( "#blackmode" ).click(function() {
     $('body').css({"background-color":"black","color":"white"});
-    $('header').css({"background-color":"white"});
+    $('.menu').css({"color":"black"});
+    $('label').css({"color":"black"});
     $("#normal").show();
     $("#blackmode").hide();
   });
 
   $( "#normal" ).click(function() {
     $('body').css({"background-color":"white","color":"black"});
-    $('header').css({"background-color":"#DAE2EA"});
     $("#blackmode").show();
     $("#normal").hide();
   });
