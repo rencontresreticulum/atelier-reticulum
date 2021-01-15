@@ -114,7 +114,7 @@ h2 {
   font-family: "Open Sans";
   font-size: 45px;
 }
-p {
+p, ul {
 	font: 20px/1.5 "Lato";
 }
 .homepage > span {

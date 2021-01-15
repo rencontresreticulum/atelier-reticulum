@@ -36,7 +36,7 @@
 
   /* Paragraphes */
 
-  p {
+  p, ul {
     font-size: 10pt;
     line-height: 12pt;
     hyphens: auto;
