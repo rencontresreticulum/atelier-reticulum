@@ -6,6 +6,12 @@
     display: none
   }
 
+  /* Reset de bootstrap */
+
+  body {
+    min-width: auto;
+  }
+
   #nexti {
     display: none
   }
@@ -19,7 +25,7 @@
   .article h1 {
     string-set: title content(text);
   }
-
+  
   /* Titre courant */
 
   h1 {
@@ -84,9 +90,10 @@
   }
 
   @page {
-    size: A4;
+    size: 210mm 297mm; /* ou A4 */
     margin-top: 30mm;
     margin-bottom: 20mm;
+    bleeds: 0;
 
     @top-right {
       font-size: 0.7em;
@@ -104,7 +111,6 @@
         font-size: 0.9em;
         font-family: "Lato";
         font-variant: small-caps;
-        max-width: 300px;
       }
   }
   @page:right {
@@ -119,7 +125,6 @@
         font-size: 0.9em;
         font-family: "Lato";
         font-variant: small-caps;
-        max-width: 300px;
       }
   }
 }
