@@ -1,6 +1,7 @@
 ---
 title: "Efficacité et pertinence : le workshop objets connectés"
 type: article
+code: efficacite
 weight: 6
 ---
 
@@ -30,9 +31,9 @@ Cette réflexion ancrée dans le « faire » nous a demandé de nous débrouil
 
 ## Cohérence d'un système et pensée systémique
 
-Afin d'introduire et d'illustrer ces notions liées au système, nous allons nous appuyer sur l'exemple d'un outil méthodologique dont nous nous sommes servis durant ce projet : le *brainstorming* organisé sous forme de carte mentale (*mind map*). Il nous permet d'organiser nos pensées par des liens et ainsi de générer des idées par des connexions. Un mot en amenant d'autres, tout un réseau de pensée se construit autour d'un point central. 
+Afin d'introduire et d'illustrer ces notions liées au système, nous allons nous appuyer sur l'exemple d'un outil méthodologique dont nous nous sommes servis durant ce projet : le *brainstorming* organisé sous forme de carte mentale (*mind map*). Il nous permet d'organiser nos pensées par des liens et ainsi de générer des idées par des connexions. Un mot en amenant d'autres, tout un réseau de pensée se construit autour d'un point central.
 
-Durant ce projet, à l'image de cet outil systémique, nous avons délaissé la démarche chronologique où des étapes se succèdent, au profit d'une pratique mixant idéation, prototypage, et test, qui demande de faire sans cesse des allers-retours entre réflexion et pratique. Pour ce faire, les mots d'ordre sont la simultanéité et la connexion. Travailler de manière systémique amène à penser quelque chose, non pas comme un élément isolé, mais comme faisant partie d'un tout organisé et cohérent. Il est essentiel d'avoir une vision globale afin de réfléchir dans l'ensemble à comment les choses communiquent entre elles, de questionner les interactions mais aussi de travailler les esthétiques. 
+Durant ce projet, à l'image de cet outil systémique, nous avons délaissé la démarche chronologique où des étapes se succèdent, au profit d'une pratique mixant idéation, prototypage, et test, qui demande de faire sans cesse des allers-retours entre réflexion et pratique. Pour ce faire, les mots d'ordre sont la simultanéité et la connexion. Travailler de manière systémique amène à penser quelque chose, non pas comme un élément isolé, mais comme faisant partie d'un tout organisé et cohérent. Il est essentiel d'avoir une vision globale afin de réfléchir dans l'ensemble à comment les choses communiquent entre elles, de questionner les interactions mais aussi de travailler les esthétiques.
 
 De manière générale, il est intéressant de voir comment se développent et se façonnent des idées, quel message on tente de faire passer, quel comportement on souhaite induire et par quels moyens. Lorsqu'on développe une idée, il est nécessaire d'apporter une attention toute particulière à la forme extérieure, aux interactions, aux comportements et aux petits détails qui ont toute leur importance. Par exemple, si l'on met du mouvement dans un objet, comment bouge-t-il ? Pourquoi ? S'il y a de la lumière, comment s'allume-t-elle ? À quel rythme ? Pourquoi ? Quel son choisit-on ? Le principal étant de toujours travailler la cohérence d'un système et donner du sens à toutes les décisions que nous prenons, car tous les éléments sont connectés à d'autres et font partie d'un tout, comme par exemple tous les points de contact d'un service.
 

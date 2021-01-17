@@ -1,6 +1,7 @@
 ---
 title: Le préfixe hyper et le paradigme du réseau
 type: article
+code: hyper
 weight: 4
 ---
 
@@ -24,10 +25,10 @@ C'est dans le travail encyclopédique que la notion d'hypertexte trouve ses orig
 
 C'est Tim Berners-Lee, qui imagine donner une adresse aux documents – l'URL, _uniform resource locator_ – afin de concrétiser cette idée à la longue genèse, créant ainsi le _World Wide Web_.
 L'hypertexte y est défini comme un corpus non linéaire, conférant à l'utilisateur une liberté de mouvement et l'accès à la culture à travers des hyperdocuments.
-Étant réliés dans un réseau et  accessibles en ligne et en temps réel, des documents de tous types peuvent ainsi être consultés, écrits, partagés. 
+Étant réliés dans un réseau et  accessibles en ligne et en temps réel, des documents de tous types peuvent ainsi être consultés, écrits, partagés.
 Concrètement, un ensemble de données textuelles sont numérisées sur un support électronique et s'organisent sous forme de réseau. Ces dernières sont réparties en éléments, en nœuds d'informations, assimilables à des paragraphes reliés non linéairement et faiblement hiérarchisés. Ces nœuds d'informations sont reliés par des liens sémantiques, introduits dans un mot ou une phrase, et permettent de passer d'un document à l'autre de manière fluide lorsqu'activés par l'utilisateur. Ce dernier a donc accès à un assemblage d'éléments reliés par une logique analogique, cohérente avec le paradigme réticulaire, puisque l'hypertexte, à l'image du réseau, mobilise et englobe les notions de lien et de nœud.
 
-Structure de réseau sémantique, l'hypertexte permet de dépasser le seul texte. Il s'agit d'une nouvelle manière de présenter l'information numérique. L'expérience de l'utilisateur s'en trouve fluidifiée, puisque ce dernier devient libre d'explorer le web à sa guise. 
+Structure de réseau sémantique, l'hypertexte permet de dépasser le seul texte. Il s'agit d'une nouvelle manière de présenter l'information numérique. L'expérience de l'utilisateur s'en trouve fluidifiée, puisque ce dernier devient libre d'explorer le web à sa guise.
 
 > « Le texte propose au lecteur un parcours fixe. L'hypertexte permet au lecteur, en reponse à ses demandes, de constituer progessivement à l'écran un assemblage fugace d'éléments textuels. » (Laufer, Scavetta, 1995)
 
@@ -41,7 +42,7 @@ Mais la structure de l'hypertexte peut être étendue à des données multimédi
 
 > « L'hypermédia est un concept qui allie le multimédia et l'hypertexte. » (Cormerais, Milon, 2008)
 
-Le terme hypermédia, ayant été forgé lui aussi par Ted Nelson, est souvent confondu avec celui d'hypertexte, mais il véhicule une notion différente de celui-ci, notamment une nouvelle étape dans l'intégration et manipulation des données numériques. En effet, l'information n'est plus seulement linguistique, mais peut emprunter divers supports et médias (images numérisées, animations, vidéo, audio, animations d'objets). 
+Le terme hypermédia, ayant été forgé lui aussi par Ted Nelson, est souvent confondu avec celui d'hypertexte, mais il véhicule une notion différente de celui-ci, notamment une nouvelle étape dans l'intégration et manipulation des données numériques. En effet, l'information n'est plus seulement linguistique, mais peut emprunter divers supports et médias (images numérisées, animations, vidéo, audio, animations d'objets).
 Ayant pour fonction de rediriger ou d'ajouter des informations multimédias supplémentaires à un document de texte, l'hypermédia se configure donc comme une extension de l'hypertexte, permettant à l'utilisateur de consulter toute sorte de données, allant d'une image ou d'une vidéo jusqu'à l'ajout d'extraits sonores. L'hypermédia permet ainsi de nombreuses possibilités pour enrichir un corpus.
 
 Malgré toutes ses fonctionnalités, il n'est pas compliqué à utiliser. Au contraire, « l'idée principale du système consistait à rapprocher l'ordinateur des usages personnels et créatifs des utilisateurs » (Bouhaï, Reyes-Garcia, 2017). Ainsi, même si le fonctionnement informatique de l'hypermédia est complexe, le modèle, ou du moins la partie visible par l'utilisateur, sera compréhensible et accessible, notamment avec « l'intégration de l'information numérique dans un environnement graphique » (Reyes-Garcia). À l'aide de cet environnement graphique, les informations visibles sont plus facilement intelligibles et composent des liens et des nœuds qui forment « un modèle de structuration pour que l'information reliée soit utilisable et compréhensible ».
@@ -54,7 +55,7 @@ Poursuivant cette évolution technologique, l'hyperédition devient une notion �
 
 On peut de nos jours, et suivant notamment la réflexion du professeur Marcello Vitali Rosati, considérer l'éditorialisation non pas comme une simple méthode de travail mais comme une théorie philosophique, et ainsi envisager la documentation, et plus particulièrement l'hyperédition, comme une façon d'appréhender, comprendre et façonner le monde. L'éditorialisation désigne en effet l'ensemble des opérations de structuration, de mise en accessibilité et en visibilité de contenus, comprenant l'ensemble es dispositifs permettant la structuration et la circulation du savoir. L'hyperédition est donc une curation, une éditorialisation, comportant « un transfert d’informations restructurées pour être adaptées à l’environnement numérique » (Vitali Rosati) et notamment au Web et à sa nature réticulaire.
 
-> « Le processus d’édition est délimité dans le temps et dans l’espace tandis que le processus d’éditorialisation ne l’est pas. » (Vitali Rosati, 2014) 
+> « Le processus d’édition est délimité dans le temps et dans l’espace tandis que le processus d’éditorialisation ne l’est pas. » (Vitali Rosati, 2014)
 
 Dans la societé contemporaine, exister comporte et signifie être éditorialisé, dans la mesure où la réalité des choses et leur importance sont considérées selon la façon dont elles sont documentées, et que _si_ elles le sont. En ce sens, l'éditorialisation est non seulement  « une production de visions du monde », mais  « un acte de production du réel » (Vitali Rosati).
 
@@ -64,7 +65,7 @@ Dans cette situation, l'idée même de l'existence, du fait d'être, dépend de 
 
 Nous construisons notre image, nous existons, à travers ce que nous partageons. Le document comme simple texte n'est plus: le lecteur devient acteur, instance réceptrice, de ce qu'il lit. On transcende donc l'édition, comme évoqué plus tôt, pour une hyperédition. Comprendre le monde, c'est agir sur lui, en faire partie, et être en capacité de le modifier. L'hyperédition peut donc être définie comme un ensemble de systèmes, d'actions et de dynamiques qui forment l'architecture d'un espace numérique.
 
-En somme, le préfixe « hyper » ajoute une nouvelle dimension à la documentation telle que nous la connaissions et accompagne l’idée d’élargir les informations que nous pouvons trouver dans l’immensité de ce réseau. 
+En somme, le préfixe « hyper » ajoute une nouvelle dimension à la documentation telle que nous la connaissions et accompagne l’idée d’élargir les informations que nous pouvons trouver dans l’immensité de ce réseau.
 
 ## Bibliographie
 
@@ -75,7 +76,7 @@ En somme, le préfixe « hyper » ajoute une nouvelle dimension à la document
 - DAVALLON, Yves et JEANNERET, Jean, 2004. *La fausse évidence du lien hypertexte* [en ligne] Disponible à l’adresse : https://www.persee.fr/doc/colan_0336-1500_2004_num_140_1_3266?q=la+fausse+%C3%A9vidence+du+lien+hypertexte
 - E3D LAB et LE DEUFF, Olivier, 2019. *Entre documentologie et documentalité : la place des SIC* dans une théorie générale du document (Masterclass DNHD) [en ligne]. Disponible à l’adresse : https://www.youtube.com/watch?v=gUwH84EwO1g&feature=youtu.be
 - E3D LAB et PERRET, Arthur, 2019. *Du document à l’hyperdocument* (Masterclass DNHD) [en ligne]. Disponible à l’adresse : https://www.youtube.com/watch?v=Sh5v-734nmo&feature=youtu.be
-- LAUFER, Roger, et SCAVETTA, Domenico. *Texte, hypertexte, hypermédia*. FeniXX, 1995. 
+- LAUFER, Roger, et SCAVETTA, Domenico. *Texte, hypertexte, hypermédia*. FeniXX, 1995.
 - LE DEUFF, Olivier et PERRET, Arthur, 2019. *Hyperdocumentation: origin and evolution of a concept. Journal of Documentation*. 2019. Vol. 75, n° 6, pp. 1463‑1474. DOI [10.1108/JD-03-2019-0053](https://www-emerald-com.ezproxy.u-bordeaux-montaigne.fr/insight/content/doi/10.1108/JD-03-2019-0053/full/html).
 - LÉVY, Pierre, 1991. *L’hypertexte, instrument et métaphore de la communication*. Réseaux. Communication - Technologie - Société. 1991. Vol. 9, n° 46, pp. 59‑68. DOI [10.3406/reso.1991.1831](https://www.persee.fr/doc/reso_0751-7971_1991_num_9_46_1831).
 - MAINGUENEAU, Dominique, 1988. « Langue et Discours ». *La linguistique et son double*. DRLAV. Documentation et Recherche en Linguistique Allemande Vincennes. 1988. Vol. 39, n° 1, pp. 21‑32. DOI [10.3406/drlav.1988.1069](https://www.persee.fr/doc/drlav_0754-9296_1988_num_39_1_1069).

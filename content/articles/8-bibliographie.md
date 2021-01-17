@@ -1,6 +1,7 @@
 ---
 title: Bibliographie
 type: article
+code: bibliographie
 weight: 9
 ---
 
@@ -9,7 +10,7 @@ weight: 9
 - BÉSIAT, Jean-Pierre, 1993. Textes, champs lexicaux et HyperTexte. *Caliban* [en ligne]. 1993. Vol. 30, n° 1, pp. 117‑135. [Consulté le 13 janvier 2021]. DOI 10.3406/calib.1993.1273. Disponible à l’adresse : https://www.persee.fr/doc/calib_0575-2124_1993_num_30_1_1273
 - BEYAERT-GESLIN, Anne, 2018. Architecture de l’information versus design de l’information. *Études de communication* [en ligne]. 1 juin 2018. N° 50, pp. 161‑174. [Consulté le 13 janvier 2021]. DOI 10.4000/edc.7651. Disponible à l’adresse : http://journals.openedition.org/edc/7651
 - BILA-DEROUSSY, Pathum, 2015. Approche systémique de la créativité : outils et méthodes pour aborder la complexité en conception amont [en ligne]. Thèse de doctorat. Paris : Arts et métiers ParisTech. [Consulté le 12 janvier 2021]. Disponible à l’adresse : https://pastel.archives-ouvertes.fr/tel-01315163/document
-- BOUHAÏ, Nasreddine et REYES-GARCIA, Everardo, 2017. *Design de systèmes hypermédia interactifs*. ISTE éditions. Systèmes d’information, Web et société. Série Outils et usages numériques, 3. ISBN 978-1-78405-264-5. 
+- BOUHAÏ, Nasreddine et REYES-GARCIA, Everardo, 2017. *Design de systèmes hypermédia interactifs*. ISTE éditions. Systèmes d’information, Web et société. Série Outils et usages numériques, 3. ISBN 978-1-78405-264-5.
 - BRASSARD, Louis-Olivier, 2020. Qu’est-ce que l’éditorialisation? https://journal.loupbrun.ca [en ligne]. 2020. [Consulté le 13 janvier 2021]. Disponible à l’adresse : https://journal.loupbrun.ca/n/059/
 - BRYAN, Charity, LEEDS, Elke et WILEY, Tarrica, 2018. The cost of online education: leveraging data to identify efficiencies. *Online Journal of Distance Learning Administration* [en ligne]. 15 juin 2018. Vol. 21, n° 2. [Consulté le 13 janvier 2021]. Disponible à l’adresse : https://www.westga.edu/~distance/ojdla/summer212/bryan_leeds_wiley212.html
 - CARDON, Dominique, 2019. Tim Berners-Lee et l’invention du lien hypertexte. *Culture Numérique* [en ligne]. 2019. pp. 80‑90. [Consulté le 13 janvier 2021]. Disponible à l’adresse : https://www-cairn-info.ezproxy.u-bordeaux-montaigne.fr/culture-numerique--9782724623659-page-80.htm
@@ -35,7 +36,7 @@ weight: 9
 - MAUGERI, Salvatore, 1996. Parrochia Daniel, Philosophie des réseaux. *Revue française de sociologie* [en ligne]. 1996. Vol. 37, n° 1, pp. 132‑136. [Consulté le 12 janvier 2021]. Disponible à l’adresse : https://www.persee.fr/doc/rfsoc_0035-2969_1996_num_37_1_7085
 - MORIN, Edgar, 1995. La stratégie de reliance pour l’intelligence de la complexité. *Revue Internationale de Systémique* [en ligne]. 1995. Vol. 9, n° 2, pp. 105‑112. [Consulté le 12 janvier 2121]. Disponible à l’adresse : http://www.res-systemica.org/ris/vol-09/vol09-num-02/ris-vol09-num02-p105-112.pdf
 - MUCKENSTRURM, Julien, 2016. Architecture de l’information. iafactory [en ligne]. 2016. [Consulté le 12 janvier 2021]. Disponible à l’adresse : http://www.iafactory.fr/expertise-ux/architecture-de-l-information.php
-- NOËL-GAUDREAULT, Monique et HOPPER, Christophe, 1995. Au carrefour de l’écriture, du traitement de texte et de l’hypertexte... Hyperconte. *Repères. Recherches en didactique du français langue maternelle* [en ligne]. 1995. Vol. 11, n° 1, pp. 125‑137. [Consulté le 13 janvier 2021]. DOI 10.3406/reper.1995.2149. Disponible à l’adresse : https://www.persee.fr/doc/reper_1157-1330_1995_num_11_1_2149 
+- NOËL-GAUDREAULT, Monique et HOPPER, Christophe, 1995. Au carrefour de l’écriture, du traitement de texte et de l’hypertexte... Hyperconte. *Repères. Recherches en didactique du français langue maternelle* [en ligne]. 1995. Vol. 11, n° 1, pp. 125‑137. [Consulté le 13 janvier 2021]. DOI 10.3406/reper.1995.2149. Disponible à l’adresse : https://www.persee.fr/doc/reper_1157-1330_1995_num_11_1_2149
 - PERRET, Arthur et HARMAND, Florian, 2020. Reticulum (3) – Faire savoir et pouvoir faire. Université Bordeaux Montaigne [en ligne]. 2 octobre 2020. [Consulté le 12 janvier 2021]. Disponible à l’adresse : https://www.u-bordeaux-montaigne.fr/fr/ecole-doctorale/diplomes-et-formations/formations-proposees-par-l-ed/les-initiatives-doctorantes-1/initiatives-doctorantes-2019-2020-1/reticulum-2-architecture-s-de-l-information.html
 - SALAÜN, Jean-Michel, 2004. Chronique inachevée d’une réflexion collective sur le document. *Communication & Langages* [en ligne]. 2004. N° 140, pp. 9‑17. [Consulté le 13 janvier 2021]. Disponible à l’adresse : https://www.persee.fr/doc/colan_0336-1500_2004_num_140_1_3263?q=chronique+inachev%C3%A9e+d%27une+r%C3%A9flexion+collective+sur+le+document
 - VALLEJO-GOMEZ, Edgar, 2008. La pensée complexe : Antidote pour les pensées uniques. Entretien avec Edgar Morin. *Synergies* [en ligne]. 2008. N° 4, pp. 249‑262. [Consulté le 12 janvier 2021]. Disponible à l’adresse : https://www.gerflint.fr/Base/Monde4/nelson.pdf

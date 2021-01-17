@@ -1,6 +1,7 @@
 ---
 title: "Le collectif : le projet des aidants"
 type: article
+code: collectif
 weight: 5
 ---
 
@@ -59,5 +60,3 @@ Les différentes solutions créées ont toutes eu pour vocation à répondre aux
 ## Bibliographie
 
 - LAFLEUR, Sylvain, 2015. Foucault, la communication et les dispositifs. *Communication* [en ligne]. 11 décembre 2015. Vol. 33, n° 2. [Consulté le 12 janvier 2021]. DOI 10.4000/communication.5727. Disponible à l’adresse : http://journals.openedition.org.ezproxy.u-bordeaux-montaigne.fr/communication/5727
-
-

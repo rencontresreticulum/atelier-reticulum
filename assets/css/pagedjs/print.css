@@ -25,7 +25,37 @@
   .article h1 {
     string-set: title content(text);
   }
-  
+
+  /* Ajout des parties */
+
+  #editorial::before{
+    content: "PARTIE 1 : Introduction";
+    display: block;
+    color: #666;
+	  font-weight: bold;
+  }
+
+  #prototypage::before{
+    content: "PARTIE 2 : Une entrée en matière";
+    display: block;
+    color: #666;
+    font-weight: bold;
+  }
+
+  #collectif::before{
+    content: "PARTIE 3 : Pratiques réticulaires en design";
+    display: block;
+    color: #666;
+    font-weight: bold;
+  }
+
+  #travail::before{
+    content: "PARTIE 4 : La réticularité dans notre quotidien";
+    display: block;
+    color: #666;
+    font-weight: bold;
+  }
+
   /* Titre courant */
 
   h1 {

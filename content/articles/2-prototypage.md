@@ -1,6 +1,7 @@
 ---
 title: Prototypage d’une revue
 type: article
+code: prototypage
 weight: 3
 ---
 
