@@ -1,5 +1,6 @@
 ---
 title: Éditorial
+code: editorial
 type: article
 weight: 1
 ---
