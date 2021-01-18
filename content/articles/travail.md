@@ -31,7 +31,10 @@ Au fur et à mesure des séances, quelques courageux sautent le pas et allument 
 
 Cependant, le travail de mise en réseau ne s'effectue pas seulement pendant les enseignements planifiés et obligatoires. Les véritables pratiques réticulaires au sein des mastersse trouvent « en coulisses ». Pendant cette période de confinement, les projets en design du Master DIIS se maintiennent, dont 3 en simultanés. Tous se mènent en équipes et, pour la plupart des étudiants, il s'agit d'une équipe différente pour chacun des projets. Il s'agit donc d'organiser, de communiquer et d'avancer de façon optimale, sans jamais avoir la possibilité de se rencontrer physiquement, mais en tentant de s'adapter aux pratiques des différents membres de l'équipe. Pour certains étudiants, il faut ajouter à cela l'organisation et l'efficience du temps de télétravail en alternance avec une 4éme équipe différente. Cette situation pousse à la maîtrise parfaite des outils de collaboration à distance. Le Master 2 DIIS a donc choisi ses armes.
 
-![schéma covid]()
+<figure class="web">
+<img src="/img/411.png" id="411" />
+<figcaption>#411</figcaption>
+</figure>
 
 L'outil zoom est uniquement destiné aux cours planifiés avec les intervenants de l'université. Lorsqu'ils sont entre eux, les étudiants mettent à profit les multiples fonctionnalités de la messagerie créée par le géant Facebook : Messenger. À l'origine, cet outil est uniquement destiné aux divertissements et aux loisirs. Cependant, compte tenu de la situation actuelle et de l'efficacité de cette application, nous en avons fait un outil de travail remarquable, massivement utilisé. Ajoutez à cela, l'utilisation de l'outil Google Drive accompagné des suppléments qu'il contient (Google Doc, Google Forms, Google Sheets). Voici donc les nouvelles pratiques quotidiennes des étudiants du Master, des outils qui auparavant, n'étaient utilisés que ponctuellement, sont aujourd'hui devenus indispensables à l'aboutissement des projets de groupe.
 

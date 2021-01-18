@@ -39,7 +39,10 @@ En tant qu'acteurs de la conception de la revue, nous avons élaboré des strat�
 
 Les transmissions de connaissances inter-équipes ont offert un cadre qui a aidé à organiser les connaissances au fur et à mesure de leur acquisition, et facilité leur transmission. Ceci a permis de mieux situer et hiérarchiser les éléments du contenu de la revue.
 
-![Schéma projet Reticulum]()
+<figure class="web">
+<img src="/img/211.png" id="211" />
+<figcaption>#211</figcaption>
+</figure>
 
 ## Les ressources (compétences développées, outils utilisés)
 
