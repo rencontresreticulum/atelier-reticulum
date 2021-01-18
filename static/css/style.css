@@ -276,6 +276,13 @@ pre code { background: none; }
 
 /* misc */
 img, iframe, video { max-width: 100%; }
+figcaption {
+	font-family: 'Open Sans';
+	font-size: 1rem;
+	font-weight: 700;
+	text-align: right;
+	color: #666
+}
 
 /*blockquote*/
 

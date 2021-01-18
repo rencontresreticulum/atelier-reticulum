@@ -14,7 +14,7 @@ menu:
       url: ""
       weight: 1
     - name: Version en ligne
-      url: "0-editorial/"
+      url: "editorial/"
       weight: 2
     - name: Version imprimable
       url: "imprimer/"

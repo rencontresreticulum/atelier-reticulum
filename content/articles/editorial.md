@@ -11,6 +11,11 @@ Initié en 2018, le cycle de conférences Reticulum cherche à attiser cette ré
 
 En janvier 2021, nous – étudiants du Master DIIS (design) et du Master DNHD (humanités digitales) – avons participé à un atelier de formation par la recherche organisé par l'équipe de Reticulum, en mixte présentiel-distanciel. Correspondant à la thématique de la troisième édition « Faire-savoir et pouvoir-faire », notre objectif était de produire en une semaine une revue web+print : les contenus sont accessibles en ligne mais également imprimables ; réciproquement la version imprimée renvoie au contenu en ligne lorsque le support papier trouve ses limites.
 
+<figure class="web">
+<img src="/img/111.png" id="111" />
+<figcaption>#111</figcaption>
+</figure>
+
 L'atelier a donc nécessité un travail de fond sur les notions de multisupport et d'hybridité, mais pas seulement. Cette revue explore les concepts du paradigme réticulaire et son prototype repose lui-même sur l'interconnexion d'outils numériques (GitHub, HackMD, Hugo, Netlify, PagedJS). Cet agencement illustre le rôle déterminant des outils du réseau dans le travail d'enquête et de conception du design mais aussi dans la publication de ses résultats.
 
 Cette revue témoigne donc **d'un travail sur le réseau, par le réseau** ; elle résulte de l'apprentissage simultané de techniques numériques et des concepts du paradigme réticulaire ; elle tire parti des profils variés des étudiants impliqués (issus du design mais aussi de domaines littéraires, techniques, artistiques).
