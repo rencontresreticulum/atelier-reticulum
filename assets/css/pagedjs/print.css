@@ -9,7 +9,7 @@
   /* Reset de bootstrap */
 
   body {
-    min-width: auto;
+    min-width: auto!important;
   }
 
   #nexti {
