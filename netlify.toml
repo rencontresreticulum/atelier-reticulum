@@ -6,6 +6,91 @@
   HUGO_VERSION = "0.72.0"
 
 [[redirects]]
+  from = "/111"
+  to = "/editorial/#111"
+  status = 301
+
+[[redirects]]
+  from = "/112"
+  to = "/editorial/#112"
+  status = 301
+
+[[redirects]]
+  from = "/121"
+  to = "/concepts/#121"
+  status = 301
+
+[[redirects]]
   from = "/122"
   to = "/concepts/#122"
+  status = 301
+
+[[redirects]]
+  from = "/123"
+  to = "/concepts/#123"
+  status = 301
+
+[[redirects]]
+  from = "/211"
+  to = "/prototypage/#211"
+  status = 301
+
+[[redirects]]
+  from = "/221"
+  to = "/hyper/#221"
+  status = 301
+
+[[redirects]]
+  from = "/311"
+  to = "/collectif/#311"
+  status = 301
+
+[[redirects]]
+  from = "/312"
+  to = "/collectif/#312"
+  status = 301
+
+[[redirects]]
+  from = "/313"
+  to = "/collectif/#313"
+  status = 301
+
+[[redirects]]
+  from = "/314"
+  to = "/collectif/#314"
+  status = 301
+
+[[redirects]]
+  from = "/315"
+  to = "/collectif/#315"
+  status = 301
+
+[[redirects]]
+  from = "/321"
+  to = "/efficacite/#321"
+  status = 301
+
+[[redirects]]
+  from = "/322"
+  to = "/efficacite/#322"
+  status = 301
+
+[[redirects]]
+  from = "/323"
+  to = "/efficacite/#323"
+  status = 301
+
+[[redirects]]
+  from = "/324"
+  to = "/efficacite/#324"
+  status = 301
+
+[[redirects]]
+  from = "/331"
+  to = "/collaboration/#331"
+  status = 301
+
+[[redirects]]
+  from = "/411"
+  to = "/travail/#411"
   status = 301
