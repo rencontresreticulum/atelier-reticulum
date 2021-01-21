@@ -4,3 +4,8 @@
 
 [build.environment]
   HUGO_VERSION = "0.72.0"
+
+[[redirects]]
+  from = "/122"
+  to = "/concepts/#122"
+  status = 301
