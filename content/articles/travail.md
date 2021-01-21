@@ -31,8 +31,8 @@ Au fur et à mesure des séances, quelques courageux sautent le pas et allument 
 
 Cependant, le travail de mise en réseau ne s'effectue pas seulement pendant les enseignements planifiés et obligatoires. Les véritables pratiques réticulaires au sein des mastersse trouvent « en coulisses ». Pendant cette période de confinement, les projets en design du Master DIIS se maintiennent, dont 3 en simultanés. Tous se mènent en équipes et, pour la plupart des étudiants, il s'agit d'une équipe différente pour chacun des projets. Il s'agit donc d'organiser, de communiquer et d'avancer de façon optimale, sans jamais avoir la possibilité de se rencontrer physiquement, mais en tentant de s'adapter aux pratiques des différents membres de l'équipe. Pour certains étudiants, il faut ajouter à cela l'organisation et l'efficience du temps de télétravail en alternance avec une 4éme équipe différente. Cette situation pousse à la maîtrise parfaite des outils de collaboration à distance. Le Master 2 DIIS a donc choisi ses armes.
 
-<figure class="web">
-<img src="/img/411.png" id="411" />
+<figure class="web" id="411">
+<img src="/img/411.png" />
 <figcaption>#411</figcaption>
 </figure>
 

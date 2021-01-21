@@ -35,8 +35,8 @@ En effet, les pratiques du designer s'exécutent aujourd'hui à travers la colla
 
 L'activité créatrice se développe à partir de la relation entre les individus et leurs univers de travail. Il s'agit donc d'un processus interactionnel qui s'exécute entre les membres de l'équipe et l'environnement technique du projet. Par conséquent, une approche systémique, basée sur les processus dans lesquels la créativité individuelle et sociale se renforcent mutuellement, est nécessaire pour améliorer la créativité.
 
-<figure class="web">
-<img src="/img/331.png" id="331" />
+<figure class="web" id="331">
+<img src="/img/331.png" />
 <figcaption>#331</figcaption>
 </figure>
 

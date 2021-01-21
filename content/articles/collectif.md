@@ -21,13 +21,13 @@ Le double enjeu de cette action collective a permis à chacun de se positionner 
 
 L'existence d'une affinité thématique,le design de service pour les aidants familiaux, est l'élément qui nous a permis de construire correctement notre travail en réseau. L'intérêt commun que nous avions tous, en tant qu'individus et en tant que membres d'une équipe, envers le projet, est ce qui a permis de tisser des liens et de mettre en place des stratégies communes.
 
-<figure class="web">
-<img src="/img/311.png" id="311" />
+<figure class="web" id="311">
+<img src="/img/311.png" />
 <figcaption>#311</figcaption>
 </figure>
 
-<figure class="web">
-<img src="/img/312.png" id="312" />
+<figure class="web" id="312">
+<img src="/img/312.png" />
 <figcaption>#312</figcaption>
 </figure>
 
@@ -43,8 +43,8 @@ D'un point de vue systémique et organisationnel, le travail collectif que nous 
 - la mobilisation des compétences individuelles et motivations personnelles ;
 - la combinaison de compétences pour parvenir à des résultats plus ambitieux (la dynamique de groupe crée une valeur ajoutée à la somme des compétences individuelles). Le design est composé d'une série de variables qui permettent que son tout, c'est-à-dire son organisation en tant que système, soit supérieure à la somme des parties qui le composent (approche holistique).
 
-<figure class="web">
-<img src="/img/313.png" id="313" />
+<figure class="web" id="313">
+<img src="/img/313.png" />
 <figcaption>#313</figcaption>
 </figure>
 
@@ -56,8 +56,8 @@ En abordant cette première phase d'étude et d'appropriation, phase clé dans n
 
 Nous avons réalisé le schéma ci-dessous afin de tenter d'exprimer visuellement la définition de dispositif tel que la conçoit Foucault, appliquée au contexte de notre projet. Nous pouvons préciser qu'au-delà de l'ensemble d'éléments qui constituent le dispositif, ce qui est importe le plus est la combinaison des relations qui découlent de leurs rencontres.
 
-<figure class="web">
-<img src="/img/314.png" id="314" />
+<figure class="web" id="314">
+<img src="/img/314.png" />
 <figcaption>#314</figcaption>
 </figure>
 
@@ -67,8 +67,8 @@ Lors de l'appréhension des différentes facettes du projet (public, contexte, e
 
 Les différentes solutions créées ont toutes eu pour vocation à répondre aux aspirations des aidants familiaux afin de leur permettre de trouver des temps de « décompression » et de lien social compte tenu de l'isolement dont ils peuvent souffrir. Le collectif met en avant notre capacité à travailler en équipe, ainsi que la dynamique d'entraide et de bienveillance à l'échelle de la promotion.
 
-<figure class="web">
-<img src="/img/315.png" id="315" />
+<figure class="web" id="315">
+<img src="/img/315.png" />
 <figcaption>#315</figcaption>
 </figure>
 
