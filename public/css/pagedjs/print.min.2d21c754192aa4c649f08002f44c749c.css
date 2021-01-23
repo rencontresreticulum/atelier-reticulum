@@ -1,0 +1,14 @@
+@media print{hr,header,nav,button,aside,h1.title,footer,.scroll-progress-container,.scroll-progress,.heade{display:none}body{min-width:auto!important}#nexti{display:none}.article{column-count:2;column-gap:5mm;break-after:page}.article h1{string-set:title content(text)}#editorial::before{content:"PARTIE 1 : Introduction";display:block;color:#666;font-weight:700}#prototypage::before{content:"PARTIE 2 : Une entrée en matière";display:block;color:#666;font-weight:700}#collectif::before{content:"PARTIE 3 : Pratiques réticulaires en design";display:block;color:#666;font-weight:700}#travail::before{content:"PARTIE 4 : La réticularité dans notre quotidien";display:block;color:#666;font-weight:700}h1{font-family:open sans;font-weight:700;font-size:24pt;letter-spacing:0;word-spacing:0}h2{font-family:open sans;font-weight:700;font-size:16pt;letter-spacing:0;word-spacing:0}h3{font-family:open sans;font-weight:700;font-size:12pt;letter-spacing:0;word-spacing:0}h2#bibliographie{display:none}h2#bibliographie+ul{display:none}p,ul{font-size:10pt;line-height:12pt;hyphens:auto}ul{padding-inline-start:32px}.content-imp{width:100%}.oue{width:100%;margin-top:0!important}.hidden-on-print{display:none}.print-only{display:block}@page{size:210mm 297mm;margin-top:30mm;margin-bottom:20mm;bleeds:0;@top-right{font-size: 0.7em;
+    }}@page:left{margin-left:20mm;margin-right:15mm;@bottom-left-corner{content: counter(page);
+        font-family: "Lato Bold"
+    	}@top-left{content: string(title);
+        font-size: 0.9em;
+        font-family: "Lato";
+        font-variant: small-caps;
+      }}@page:right{margin-left:15mm;margin-right:20mm;@bottom-right-corner{content: counter(page);
+        font-family: "Lato Bold"
+    	}@top-right{content: string(title);
+        font-size: 0.9em;
+        font-family: "Lato";
+        font-variant: small-caps;
+      }}}

@@ -3,44 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://atelier-reticulum.netlify.app/</loc>
-    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+    <loc>https://revue.reticulum.info/editorial/</loc>
   </url>
   
   <url>
-    <loc>https://atelier-reticulum.netlify.app/post/</loc>
-    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+    <loc>https://revue.reticulum.info/concepts/</loc>
   </url>
   
   <url>
-    <loc>https://atelier-reticulum.netlify.app/reticulum-3-faire-savoir-et-pouvoir-faire/</loc>
-    <lastmod>2021-02-08T00:00:00+00:00</lastmod>
+    <loc>https://revue.reticulum.info/prototypage/</loc>
   </url>
   
   <url>
-    <loc>https://atelier-reticulum.netlify.app/reticulum-2-architectures-de-linformation/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+    <loc>https://revue.reticulum.info/hyper/</loc>
   </url>
   
   <url>
-    <loc>https://atelier-reticulum.netlify.app/reticulum-1-op%C3%A9rabilit%C3%A9-du-concept-de-dispositif/</loc>
-    <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+    <loc>https://revue.reticulum.info/collectif/</loc>
   </url>
   
   <url>
-    <loc>https://atelier-reticulum.netlify.app/categories/</loc>
+    <loc>https://revue.reticulum.info/efficacite/</loc>
   </url>
   
   <url>
-    <loc>https://atelier-reticulum.netlify.app/imprimer/</loc>
+    <loc>https://revue.reticulum.info/collaboration/</loc>
   </url>
   
   <url>
-    <loc>https://atelier-reticulum.netlify.app/tags/</loc>
+    <loc>https://revue.reticulum.info/travail/</loc>
   </url>
   
   <url>
-    <loc>https://atelier-reticulum.netlify.app/a-propos/</loc>
+    <loc>https://revue.reticulum.info/bibliographie/</loc>
+  </url>
+  
+  <url>
+    <loc>https://revue.reticulum.info/</loc>
+  </url>
+  
+  <url>
+    <loc>https://revue.reticulum.info/articles/</loc>
+  </url>
+  
+  <url>
+    <loc>https://revue.reticulum.info/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://revue.reticulum.info/credits/</loc>
+  </url>
+  
+  <url>
+    <loc>https://revue.reticulum.info/revue/</loc>
+  </url>
+  
+  <url>
+    <loc>https://revue.reticulum.info/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://revue.reticulum.info/imprimer/</loc>
+  </url>
+  
+  <url>
+    <loc>https://revue.reticulum.info/print/</loc>
   </url>
   
 </urlset>

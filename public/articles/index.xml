@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Accueil on Reticulum</title>
-    <link>https://revue.reticulum.info/</link>
-    <description>Recent content in Accueil on Reticulum</description>
+    <title>Articles on Reticulum</title>
+    <link>https://revue.reticulum.info/articles/</link>
+    <description>Recent content in Articles on Reticulum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     
-	<atom:link href="https://revue.reticulum.info/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://revue.reticulum.info/articles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -91,43 +91,6 @@ Commande et objectifs Afin d&amp;rsquo;illustrer l&amp;rsquo;axe collaboratif, n
       
       <guid>https://revue.reticulum.info/bibliographie/</guid>
       <description>BANTMAN, Patrick, 2004. Le concept de réseau. VST - Vie sociale et traitements, revue des CEMEA [en ligne]. 2004. N° 81, pp. 18‑19. [Consulté le 12 janvier 2021]. Disponible à l’adresse : https://www.cairn.info/revue-vie-sociale-et-traitements-2004-1-page-18.htm BENSEDDIK, Mohammed, 2020. La Covid-19 comme laboratoire d’expérimentation. Le Libellio [en ligne]. avril 2020. Vol. 16, pp. 21‑30. [Consulté le 26 octobre 2020]. Disponible à l’adresse : lelibellio.com/wp-content/uploads/2020/04/Le-Libellio-d-volume-16-Seri-e-spe%CC%81ciale-Coronam-semaine-5.pdf BÉSIAT, Jean-Pierre, 1993. Textes, champs lexicaux et HyperTexte. Caliban [en ligne].</description>
-    </item>
-    
-    <item>
-      <title>Crédits</title>
-      <link>https://revue.reticulum.info/credits/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://revue.reticulum.info/credits/</guid>
-      <description>Insérer ici les crédits.</description>
-    </item>
-    
-    <item>
-      <title>Revue (accueil)</title>
-      <link>https://revue.reticulum.info/revue/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://revue.reticulum.info/revue/</guid>
-      <description>PAS ENCORE REVU :
-À travers la présente édition, cette revue interroge les potentialités du réseau dans les pratiques de design et de la documentation en mettant en avant un regard réﬂexif sur la démarche de projet. Comme son nom l’indique, l’esprit de la revue a pour but d’explorer le rôle déterminant de ces deux disciplines dans les pratiques réticulaires.La structure de la revue est ainsi articulée autour de la notion de réseau, qui sera notre fil conducteur autant pour la conception de celle-ci que pour le résultat exposé.</description>
-    </item>
-    
-    <item>
-      <title>Version imprimable</title>
-      <link>https://revue.reticulum.info/imprimer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://revue.reticulum.info/imprimer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Version imprimable</title>
-      <link>https://revue.reticulum.info/print/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://revue.reticulum.info/print/</guid>
-      <description></description>
     </item>
     
   </channel>
