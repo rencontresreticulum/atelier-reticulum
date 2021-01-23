@@ -4,15 +4,6 @@ html {scroll-behavior: smooth;}
 /* fonts */
 
 @font-face {
-    font-family: 'JaapokkisubtractRegular';
-    src: url('../fonts/JaapokkisubtractRegular.woff2') format('woff2'),
-        url('../fonts/JaapokkisubtractRegular.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
     font-family: 'Lment';
     src: url('../fonts/Lment-v02.woff2') format('woff2'),
         url('../fonts/Lment-v02.woff') format('woff');
@@ -80,15 +71,6 @@ html {scroll-behavior: smooth;}
     src: url('../fonts/OpenSans-Bold.woff2') format('woff2'),
         url('../fonts/OpenSans-Bold.woff') format('woff');
     font-weight: bold;
-    font-style: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Grotesk';
-    src: url('../fonts/Grotesk.woff2') format('woff2'),
-        url('../fonts/Grotesk.woff') format('woff');
-    font-weight: 500;
     font-style: normal;
     font-display: swap;
 }
