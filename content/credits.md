@@ -3,60 +3,63 @@ title: Crédits
 next: false
 ---
 
-La création de cette revue a été entreprise dans le cadre de la troisième rencontre Réticulum,co-organisée par Florian HARMAND et Arthur PERRET.
+La création de cette revue a été entreprise dans le cadre de la troisième [rencontre Reticulum](http://reticulum.info), co-organisée par Florian Harmand et Arthur Perret ([contact](mailto:florian.harman@gmail.com,arthur.perret@u-bordeaux-montaigne.fr)).
 
-Gestion de projet : 
+### Gestion de projet
 
-*Thomas GRANERI (Master DIIS)<br/>
-Guillaume BRIOUDES (Master DHND)<br/>*
+Thomas Graneri (Master DIIS)  
+Guillaume Brioues (Master DHND)
 
-Éditorial : 
+### Éditorial
 
-*ARRONDELL, Leeloo (Master DHND)<br/>
-ASSAUKE, Petuna Lysiane (Master DHND)<br/>
-GOURDON, Nicolas (Master DHND)<br/>
-HEBINCK, Morgane (Master DHND)<br/>
-JEANTICOU, Théo Master DHND)<br/>
-LOCONTE, Isabella (Master DHND)<br/>
-MAUMONT, Marie-Camille (Master DHND)<br/>
-MENARD, Stéfan (Master DHND)<br/>
-MERLE, Charlène (Master DIIS)<br/>
-POPOV, Stéphane (Master DHND)<br/>
-RONCAGLIOLO, Tania (Master DIIS)<br/>
-SCHLÜTER, Lucas (Master DHND)<br/>
-TAURAN, Ines (Master DIIS)<br/>
-VAUDANDAINE, Léa (Master DIIS)<br/>*
+Arrondell, Leeloo (Master DHND)  
+Assauke, Petuna Lysiane (Master DHND)  
+Gourdon, Nicolas (Master DHND)  
+Hebinck, Morgane (Master DHND)  
+Jeanticou, Théo Master DHND)  
+Loconte, Isabella (Master DHND)  
+Maumont, Marie-Camille (Master DHND)  
+Menard, Stéfan (Master DHND)  
+Merle, Charlène (Master DIIS)  
+Popov, Stéphane (Master DHND)  
+Roncagliolo, Tania (Master DIIS)  
+Schlüter, Lucas (Master DHND)  
+Tauran, Ines (Master DIIS)  
+Vaudandaine, Léa (Master DIIS)
 
-Direction artistique :
+### Direction artistique
 
-*AFFOYON, Sarah (Master DIIS)<br/>
-BOUNAIX, Éléa (Master DIIS)<br/>
-VIVIEN, Chloé (Master DIIS)<br/>
-YU, Huan (Master DIIS)<br/>*
+Affoyon, Sarah (Master DIIS)  
+Bounaix, Éléa (Master DIIS)  
+Vivien, Chloé (Master DIIS)  
+Yu, Huan (Master DIIS)
 
-Support : 
+### Support
 
-*ALBERT, Maïna (Master DIIS)<br/>
-BABU, Ingrid (Master DIIS)<br/>
-BANIKYAN, Anouche (Master DIIS)<br/>
-BRIOUDES, Guillaume (Master DHND)<br/>
-CRABEY, Draghixa (Master DIIS)<br/>
-DUBOURD, Léo-Paul (Master DHND)<br/>
-GAUTHIER, Antonin (Master DIIS)<br/>
-PRADO, Marine (Master DIIS)<br/>
-SELLIER, Florian (Master DIIS)<br/>*
+Albert, Maïna (Master DIIS)  
+Babu, Ingrid (Master DIIS)  
+Banikyan, Anouche (Master DIIS)  
+Brioudes, Guillaume (Master DHND)  
+Crabey, Draghixa (Master DIIS)  
+Dubourd, Léo-Paul (Master DHND)  
+Gauthier, Antonin (Master DIIS)  
+Prado, Marine (Master DIIS)  
+Sellier, Florian (Master DIIS)
 
-Nous contacter : <br/>
-florian.harmand@gmail.com<br/>arthur.perret@u-bordeaux-montaigne.fr
+Un tirage de la revue au format papier a été réalisé par le pôle Production imprimée de l’Université Bordeaux Montaigne.
 
-La revue est éditée par le pôle "Production imprimée" de l’Université Bordeaux Montaigne.
+## Mentions légales
 
-Le site utilise Xmin (License: MIT), un des thèmes de Hugo déployé par Yihui Xie et disponible sur la plateforme Netlify.
+Les textes et illustrations publiés sur ce site sont placés sous licence [Creative Commons Attribution](https://creativecommons.org/licenses/by/4.0/deed.fr) (CC BY).
 
-Typographies: <br/>
--Lato, de Łukasz Dziedzic, publiée en aout 2014, accessible sur le site Google Font à cette adresse: 
-https://fonts.google.com/specimen/Lato<br/>
--Lment, de Sébastien Hayez, publié le 22 octobre 2012, accessible sur le site de la fonderie Velvetyne à cette adresse : 
-https://velvetyne.fr/fonts/lment/<br/>
--Open sans, de Steve Matteson, accessible sur le site Google Font à cette adresse: 
-https://fonts.google.com/specimen/Open+Sans#standard-styles
+La revue est fabriquée avec les programmes open source suivants :
+
+- le générateur de sites statiques [Hugo](https://gohugo.io) (licence Apache-2.0) ;
+- le thème [Xmin](https://xmin.yihui.org) pour Hugo, par Yihui Xie (licence MIT) ;
+- le *polyfill* [PagedJS](https://www.pagedjs.org) (licence MIT).
+
+Les polices suivantes sont utilisées dans la revue :
+
+- [Lment](https://velvetyne.fr/fonts/lment/), de Sébastien Hayez (licence OFL) ;
+- [Lato](https://fonts.google.com/specimen/Lato), de Łukasz Dziedzic (licence OFL) ;
+- [Open Sans](https://fonts.google.com/specimen/Open+Sans#standard-styles), de Steve Matteson (licence Apache-2.0).
