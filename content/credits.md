@@ -8,43 +8,43 @@ La création de cette revue a été entreprise dans le cadre de la troisième [r
 ### Gestion de projet
 
 Thomas Graneri (Master DIIS)  
-Guillaume Brioues (Master DHND)
+Guillaume Brioudes (Master DHND)
 
 ### Éditorial
 
-Arrondell, Leeloo (Master DHND)  
-Assauke, Petuna Lysiane (Master DHND)  
-Gourdon, Nicolas (Master DHND)  
-Hebinck, Morgane (Master DHND)  
-Jeanticou, Théo Master DHND)  
-Loconte, Isabella (Master DHND)  
-Maumont, Marie-Camille (Master DHND)  
-Menard, Stéfan (Master DHND)  
-Merle, Charlène (Master DIIS)  
-Popov, Stéphane (Master DHND)  
-Roncagliolo, Tania (Master DIIS)  
-Schlüter, Lucas (Master DHND)  
-Tauran, Ines (Master DIIS)  
-Vaudandaine, Léa (Master DIIS)
+Leeloo Arrondell (Master DHND)  
+Petuna Lysiane Assauke (Master DHND)  
+Nicolas Gourdon (Master DHND)  
+Morgane Hebinck (Master DHND)  
+Théo Jeanticou (Master DHND)  
+Isabella Loconte (Master DHND)  
+Marie-Camille Maumont (Master DHND)  
+Stéfan Menard (Master DHND)  
+Charlène Merle (Master DIIS)  
+Stéphane Popov (Master DHND)  
+Tania Roncagliolo (Master DIIS)  
+Lucas Schlüter (Master DHND)  
+Ines Tauran (Master DIIS)  
+Léa Vaudandaine (Master DIIS)
 
 ### Direction artistique
 
-Affoyon, Sarah (Master DIIS)  
-Bounaix, Éléa (Master DIIS)  
-Vivien, Chloé (Master DIIS)  
-Yu, Huan (Master DIIS)
+Sarah Affoyon (Master DIIS)  
+Éléa Bounaix (Master DIIS)  
+Chloé Vivien (Master DIIS)  
+Huan Yu (Master DIIS)
 
 ### Support
 
-Albert, Maïna (Master DIIS)  
-Babu, Ingrid (Master DIIS)  
-Banikyan, Anouche (Master DIIS)  
-Brioudes, Guillaume (Master DHND)  
-Crabey, Draghixa (Master DIIS)  
-Dubourd, Léo-Paul (Master DHND)  
-Gauthier, Antonin (Master DIIS)  
-Prado, Marine (Master DIIS)  
-Sellier, Florian (Master DIIS)
+Maïna Albert (Master DIIS)  
+Ingrid Babu (Master DIIS)  
+Anouche Banikyan (Master DIIS)  
+Guillaume Brioudes (Master DHND)  
+Draghixa Crabey (Master DIIS)  
+Léo-Paul Dubourd (Master DHND)  
+Antonin Gauthier (Master DIIS)  
+Marine Prado (Master DIIS)  
+Florian Sellier (Master DIIS)
 
 Un tirage de la revue au format papier a été réalisé par le pôle Production imprimée de l’Université Bordeaux Montaigne.
 
