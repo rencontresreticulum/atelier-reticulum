@@ -14,8 +14,8 @@ Si nous devions résumer ce workshop en deux mots, ce seraient ceux-ci. En revan
 Nous parlons d'efficacité car le laps de temps très court de ce workshop nous a demandé de définir rapidement un cadre, un contexte et une problématique précis à partir d'un thème large, afin de concevoir des solutions et des expériences cohérentes. Il a fallu sans cesse diverger et converger pour avoir très rapidement un maximum d'idées. Nous avons transformé cette contrainte temporelle en l'opportunité d'aller à l'essentiel, sans nous perdre dans des notions trop complexes pouvant nuire à la créativité.
 
 <figure class="web" id="321">
-<img src="/img/321.png" />
 <figcaption>#321</figcaption>
+<img src="/img/321.png" />
 </figure>
 
 ## Ancrer le projet
@@ -31,8 +31,8 @@ Afin d'être efficace, nous avons appris à « faire » pour « réfléchir 
 Cette réflexion ancrée dans le « faire » nous a demandé de nous débrouiller avec les moyens du bord et de bricoler afin de mixer les phases d'idéation, de prototypage et de test. Cette méthodologie, permettant des itérations constantes en fonction de nos observations, nous a permis de faire vivre le projet dans une approche systémique et non linéaire.
 
 <figure class="web" id="322">
-<img src="/img/322.png" />
 <figcaption>#322</figcaption>
+<img src="/img/322.png" />
 </figure>
 
 ## Cohérence d'un système et pensée systémique
@@ -44,8 +44,8 @@ Durant ce projet, à l'image de cet outil systémique, nous avons délaissé la 
 De manière générale, il est intéressant de voir comment se développent et se façonnent des idées, quel message on tente de faire passer, quel comportement on souhaite induire et par quels moyens. Lorsqu'on développe une idée, il est nécessaire d'apporter une attention toute particulière à la forme extérieure, aux interactions, aux comportements et aux petits détails qui ont toute leur importance. Par exemple, si l'on met du mouvement dans un objet, comment bouge-t-il ? Pourquoi ? S'il y a de la lumière, comment s'allume-t-elle ? À quel rythme ? Pourquoi ? Quel son choisit-on ? Le principal étant de toujours travailler la cohérence d'un système et donner du sens à toutes les décisions que nous prenons, car tous les éléments sont connectés à d'autres et font partie d'un tout, comme par exemple tous les points de contact d'un service.
 
 <figure class="web" id="323">
-<img src="/img/323.png" />
 <figcaption>#323</figcaption>
+<img src="/img/323.png" />
 </figure>
 
 ## Émotion et empathie
@@ -55,8 +55,8 @@ Afin d'assurer la cohérence et le bon sens d'un projet, il est important de tra
 Tout projet évolue à l'intérieur de contextes et de systèmes émotionnels. La démarche empathique permet de créer des connexions entre les deux.
 
 <figure class="web" id="324">
-<img src="/img/324.png" />
 <figcaption>#324</figcaption>
+<img src="/img/324.png" />
 </figure>
 
 ## Pédagogie et communication

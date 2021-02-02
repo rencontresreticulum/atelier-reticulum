@@ -36,8 +36,8 @@ En effet, les pratiques du designer s'exécutent aujourd'hui à travers la colla
 L'activité créatrice se développe à partir de la relation entre les individus et leurs univers de travail. Il s'agit donc d'un processus interactionnel qui s'exécute entre les membres de l'équipe et l'environnement technique du projet. Par conséquent, une approche systémique, basée sur les processus dans lesquels la créativité individuelle et sociale se renforcent mutuellement, est nécessaire pour améliorer la créativité.
 
 <figure class="web" id="331">
-<img src="/img/331.png" />
 <figcaption>#331</figcaption>
+<img src="/img/331.png" />
 </figure>
 
 La créativité ne se résume pas à une seule de ses composantes, mais consiste à guider les diverses interactions entre elles. Cette créativité, sociale par essence, permet de partager des émotions et des expériences nouvelles. En tant qu'étudiants, préparer un projet interdisciplinaire nous permet de nous concentrer sur « comment apprendre », c'est-à-dire sur le développement de sa méthode personnelle de collecte de données et son processus de résolution de problèmes. L'interdisciplinarité permet donc l'intégration et le partage des savoirs. Elle facilite la création de liens et le transfert des connaissances entre les disciplines, et semble permettre un meilleur apprentissage de la méthode projet de façon globale.

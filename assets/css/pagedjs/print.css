@@ -118,6 +118,20 @@
   .print-only {
     display: block;
   }
+  
+  /* Figures */
+  
+  figure {
+  	break-inside: avoid;
+  }
+	figcaption {
+		display: block;
+		font-family: 'Open Sans';
+		font-size: 0.6rem;
+		font-weight: 700;
+		text-align: left;
+		color: inherit;
+	}
 
   @page {
     size: 210mm 297mm; /* ou A4 */
