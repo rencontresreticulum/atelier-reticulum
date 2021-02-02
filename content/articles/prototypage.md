@@ -31,7 +31,7 @@ En tant qu'acteurs de la conception de la revue, nous avons élaboré des strat�
 
 **La direction éditoriale** comportait trois aspects essentiels : ancrer une direction, créer une dynamique d'écriture et ajuster les contenus à l'objectif final. Il fallait en parallèle identifier les sujets sur lesquels s'exprimer et produire des contenus pertinents. Il a été nécessaire de faire des choix dans la définition et la sélection des projets, pour optimiser la gestion des contenus. La ligne éditoriale a donc permis de garantir une approche réflexive sur les sujets choisis.
 
-**La direction artistique** s'est occupée de la création du design graphique, d'implémenter les possibilités de mise en page, qu'elles concernent le papier ou l'écran, et démontrer ainsi les performances graphiques d'affichage et les diverses possibilités d'impression.
+**La direction artistique** s'est occupé de la création du design graphique, d'implémenter les possibilités de mise en page, qu'elles concernent le papier ou l'écran, et démontrer ainsi les performances graphiques d'affichage et les diverses possibilités d'impression.
 
 **La direction support** était chargée de l'aspect technique de l'hybridité, notamment l'impression de la revue. Sa mission était de donner sens aux modalités d'interaction entre le support papier et le numérique, y compris ses faisabilités techniques et budgétaires.
 
