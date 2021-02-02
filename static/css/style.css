@@ -256,6 +256,12 @@ code {
 }
 pre code { background: none; }
 
+/* listes */
+
+ul {
+	padding-left: 1em;
+}
+
 /* misc */
 img, iframe, video { max-width: 100%; }
 figcaption {
