@@ -32,8 +32,8 @@ Au fur et à mesure des séances, quelques courageux sautent le pas et allument 
 Cependant, le travail de mise en réseau ne s'effectue pas seulement pendant les enseignements planifiés et obligatoires. Les véritables pratiques réticulaires au sein des mastersse trouvent « en coulisses ». Pendant cette période de confinement, les projets en design du Master DIIS se maintiennent, dont 3 en simultanés. Tous se mènent en équipes et, pour la plupart des étudiants, il s'agit d'une équipe différente pour chacun des projets. Il s'agit donc d'organiser, de communiquer et d'avancer de façon optimale, sans jamais avoir la possibilité de se rencontrer physiquement, mais en tentant de s'adapter aux pratiques des différents membres de l'équipe. Pour certains étudiants, il faut ajouter à cela l'organisation et l'efficience du temps de télétravail en alternance avec une 4éme équipe différente. Cette situation pousse à la maîtrise parfaite des outils de collaboration à distance. Le Master 2 DIIS a donc choisi ses armes.
 
 <figure class="web" id="411">
-<img src="/img/411.png" />
 <figcaption>#411</figcaption>
+<img src="/img/411.png" />
 </figure>
 
 L'outil zoom est uniquement destiné aux cours planifiés avec les intervenants de l'université. Lorsqu'ils sont entre eux, les étudiants mettent à profit les multiples fonctionnalités de la messagerie créée par le géant Facebook : Messenger. À l'origine, cet outil est uniquement destiné aux divertissements et aux loisirs. Cependant, compte tenu de la situation actuelle et de l'efficacité de cette application, nous en avons fait un outil de travail remarquable, massivement utilisé. Ajoutez à cela, l'utilisation de l'outil Google Drive accompagné des suppléments qu'il contient (Google Doc, Google Forms, Google Sheets). Voici donc les nouvelles pratiques quotidiennes des étudiants du Master, des outils qui auparavant, n'étaient utilisés que ponctuellement, sont aujourd'hui devenus indispensables à l'aboutissement des projets de groupe.
@@ -89,47 +89,47 @@ Au-delà de l'aspect entreprise/université, il s'agit d'un temps particulier du
 
 ### Master 2 DIIS
 
-> « En tant qu'UX/UI designer une bonne partie de mon travail s'effectue sur mon ordinateur. De ce fait le télétravail n'a pas trop restreint les possibilités sauf peut-être l'apport humain lorsque que l'on travaille en présentiel. »
+> « En tant qu'UX/UI designer, une bonne partie de mon travail s'effectue sur mon ordinateur. De ce fait le télétravail n'a pas trop restreint les possibilités, sauf peut-être l'apport humain lorsque qu'on travaille en présentiel. »
 
-> « Il est vrai qu'en cette période le fait de ne plus aller à la faculté et d'être « coupé » est assez dure à gérer au niveau du travail. J'essaye de m'organiser du mieux que je peux en me faisant un planning mais il est quand même très dur de trouver la motivation. »
+> « Il est vrai qu'en cette période le fait de ne plus aller à la faculté et d'être “coupé” est assez dur à gérer au niveau du travail. J'essaye de m'organiser du mieux que je peux en me faisant un planning mais il est quand même très dur de trouver la motivation. »
 
-> « Je trouve que le fait d'avoir des cours en Visio fatigue beaucoup plus que d'habitude et donne l'impression de perdre du temps. Cela pose aussi la question d'une nouvelle manière d'être concentré »
+> « Je trouve que le fait d'avoir des cours en visio fatigue beaucoup plus que d'habitude et donne l'impression de perdre du temps. Cela pose aussi la question d'une nouvelle manière d'être concentré. »
 
-> « Les visios c'est cool quand même, ça nous permet de nous décharger entre nous et également de garder un lien. Nous nous sommes rapprochés, car on est entré dans l'intimité de chacun »
+> « Les visios c'est cool quand même, ça nous permet de nous décharger entre nous et également de garder un lien. Nous nous sommes rapprochés, car on est entrés dans l'intimité de chacun. »
 
 > « Cette situation est très compliquée pour ma part parce que le travail personnel en dehors de celui de l'alternance et de l'université est important. Et le fait de ne pas être en entreprise ou à la fac parfois brouille les limites des journées de travail et on ne sort même plus prendre l'air, on ne fait que travailler. »
 
-> « Le fait d'être en cours et de travailler en groupe motive davantage. Mais le fait d'être chez soi à distance de tout, est très compliqué »
+> « Le fait d'être en cours et de travailler en groupe motive davantage. Mais le fait d'être chez soi, à distance de tout, est très compliqué. »
 
-> « J'ai beaucoup d'énergie à revendre et je n'ai pas envie de perdre mon temps devant les écrans du coup je danse en passant l'aspirateur. »
+> « J'ai beaucoup d'énergie à revendre et je n'ai pas envie de perdre mon temps devant les écrans, du coup je danse en passant l'aspirateur. »
 
 ### Master 1 DNHD
 
-> « Un peu surmenée par moment par peur de ne pas faire les choses correctement »
+> « Un peu surmenée par moment par peur de ne pas faire les choses correctement. »
 
-> « Beaucoup d'entre nous se sont sentis peu sollicités/suivis »
+> « Beaucoup d'entre nous se sont sentis peu sollicités ou suivis. »
 
-> « Complètement noyée. [...] Je crains le deuxième semestre [...] je risque d'être larguée. »
+> « Complètement noyée. Je crains le deuxième semestre, je risque d'être larguée. »
 
-> « Je me sens plus efficace car je peux faire plus de choses dans ma journée »
+> « Je me sens plus efficace car je peux faire plus de choses dans ma journée. »
 
-> « On a enfin réussi à installer un bureau, mais dans un coin du salon. Il est au téléphone, moi en visio, c'est compliqué de se concentrer »
+> « On a enfin réussi à installer un bureau, mais dans un coin du salon. Il est au téléphone, moi en visio, c'est compliqué de se concentrer. »
 
-> « Être confiné ne signifie pas nécessairement grosse prise de paresse, au contraire, il doit te permettre de réaliser que ta réussite est entre tes mains. »
+> « Être confiné ne signifie pas nécessairement grosse prise de paresse, au contraire, ça doit te permettre de réaliser que ta réussite est entre tes mains. »
 
 > « Le décrochage nous attend au tournant si on baisse les bras. »
 
-> « Les études sont passées en second plan vu la situation et le suivi. »
+> « Les études sont passées au second plan vu la situation et le suivi. »
 
-> « Je ne pense pas que c'est les cours à distance qui créait cette sensation d'implication et d'efficacité amoindrie mais plutôt le suivi pédagogique inexistant »
+> « Je ne pense pas que c'est les cours à distance qui créaient cette sensation d'implication et d'efficacité amoindrie mais plutôt le suivi pédagogique inexistant. »
 
-> « Je décroche très rapidement bien que le contenu du cours soit intéressant. J'ai besoin d'être dans le même espace que la personne avec qui j'interagis pour intégrer des informations donc l'écoute, la prise de notes et la compréhension sont très compliquées pour moi à distance »
+> « Je décroche très rapidement bien que le contenu du cours soit intéressant. J'ai besoin d'être dans le même espace que la personne avec qui j'interagis pour intégrer des informations, donc l'écoute, la prise de notes et la compréhension sont très compliquées pour moi à distance. »
 
 > « Beaucoup de remerciements aux étudiants du master, la tâche aurait été beaucoup plus difficile sans l'aide du groupe. »
 
 ## Bibliographie
 
-- BENSEDDIK, Mohammed, 2020. La Covid-19 comme laboratoire d’expérimentation. *Le Libellio* [en ligne]. avril 2020. Vol. 16, pp. 21‑30. [Consulté le 26 octobre 2020]. Disponible à l’adresse : lelibellio.com/wp-content/uploads/2020/04/Le-Libellio-d-volume-16-Seri-e-spe%CC%81ciale-Coronam-semaine-5.pdf
+- BENSEDDIK, Mohammed, 2020. La Covid-19 comme laboratoire d’expérimentation. *Le Libellio* [en ligne]. Avril 2020. Vol. 16, pp. 21‑30. [Consulté le 26 octobre 2020]. Disponible à l’adresse : lelibellio.com/wp-content/uploads/2020/04/Le-Libellio-d-volume-16-Seri-e-spe%CC%81ciale-Coronam-semaine-5.pdf
 - BRYAN, Charity, LEEDS, Elke et WILEY, Tarrica, 2018. The Cost of Online Education: Leveraging Data to Identify Efficiencies. *Online Journal of Distance Learning Administration* [en ligne]. 15 juin 2018. Vol. 21, n° 2. [Consulté le 13 janvier 2021]. Disponible à l’adresse : https://www.westga.edu/~distance/ojdla/summer212/bryan_leeds_wiley212.html
 - DAHMANI, Abdelaziz et ELKEBIR, Elakry, 2020. La COVID-19 un accélérateur du Télétravail pour les Entreprises. *International Journal of Management Sciences* [en ligne]. 3 novembre 2020. Vol. 3, n° 4. [Consulté le 13 janvier 2021]. Disponible à l’adresse : https://www.revue-isg.com/index.php/home/article/view/405
 - FALL, Ibrahima, 2020. Coronavirus : manifestation d’une crise systémique du management ? *Forbes France* [en ligne]. 23 mars 2020. [Consulté le 12 janvier 2021]. Disponible à l’adresse : https://www.forbes.fr/management/coronavirus-manifestation-dune-crise-systemique-du-management/
