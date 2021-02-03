@@ -79,6 +79,7 @@ En somme, le préfixe « hyper » ajoute une nouvelle dimension à la document
 
 ## Bibliographie
 
+{{% bibliographie-web %}}
 - BÉSIAT, Jean-Pierre, 1993. Textes, champs lexicaux et HyperTexte. *Caliban*. 1993. Vol. 30, n° 1, pp. 117‑135. DOI [10.3406/calib.1993.1273](https://doi.org/10.3406/calib.1993.1273) .
 - BRASSARD, Louis-Olivier, 2020. Qu’est-ce que l’éditorialisation?. 2020. Disponible à l’adresse : https://journal.loupbrun.ca/n/059/
 - CARDON, Dominique, *Culture numérique*. Presses de Sciences Po, « Hors collection », 2019. Disponible à l’adresse : https://www-cairn-info.ezproxy.u-bordeaux-montaigne.fr/culture-numerique--9782724623659.htm
@@ -95,4 +96,4 @@ En somme, le préfixe « hyper » ajoute une nouvelle dimension à la document
 - SALAÜN, Jean-Michel, 2004. *Chronique inachevée d’une réflexion collective sur le document* - Persée. [en ligne] Disponible à l’adresse : https://www.persee.fr/doc/colan_0336-1500_2004_num_140_1_3263?q=chronique+inachev%C3%A9e+d%27une+r%C3%A9flexion+collective+sur+le+document
 - Vitali-Rosati, Marcello. « Qu’est-ce que l’éditorialisation ? » Culture numérique. 2014. [en ligne] Disponible à l’adresse : https://blog.sens-public.org/marcellovitalirosati/quest-ce-que-leditorialisation/.
 - VITALI-ROSATI, Marcello. Qu’est-ce que l’éditorialisation? Sens public. 2016. [en ligne] Disponible à l’adresse : http://sens-public.org/articles/1184/
-
+{{% /bibliographie-web %}}

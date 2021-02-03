@@ -55,5 +55,6 @@ En effet, ce projet nous a permis d'effectuer un apprentissage plus réel et con
 
 ## Bibliographie
 
+{{% bibliographie-web %}}
 - LOWE, Anne, 2002. La pédagogie actualisante ouvre ses portes à l’interdisciplinarité scolaire. Éducation et francophonie [en ligne]. 2002. Vol. XXX. [Consulté le 14 janvier 2021]. Disponible à l’adresse : https://www.acelf.ca/c/revue/revuehtml/30-2/08-lowe.html
-
+{{% /bibliographie-web %}}

@@ -71,10 +71,12 @@ Un contenu éditorial peut être augmenté en s'hybridant avec d'autres médias 
 
 ## Bibliographie
 
+{{% bibliographie-web %}}
 - BANTMAN, Patrick, 2004. Le concept de réseau. *VST - Vie sociale et traitements, revue des CEMEA* [en ligne]. 2004. N° 81, pp. 18‑19. [Consulté le 12 janvier 2021]. Disponible à l’adresse : https://www.cairn.info/revue-vie-sociale-et-traitements-2004-1-page-18.htm
 - BEYAERT-GESLIN, Anne, 2018. Architecture de l’information versus design de l’information. *Études de communication* [en ligne]. 1 juin 2018. N° 50, pp. 161‑174. [Consulté le 13 janvier 2021]. DOI 10.4000/edc.7651. Disponible à l’adresse : http://journals.openedition.org/edc/7651
 - GIORDAN, André, 2016. *Quel programme de formation à la pensée complexe pour les enseignants ?* In : Congrès mondial de la pensée complexe [en ligne]. Réseau Canopé. 2016. [Consulté le 12 janvier 2021]. Disponible à l’adresse : https://www.reseau-canope.fr/fileadmin/user_upload/Projets/pensee_complexe/giordan_formation_enseignants_pensee_complexe.pdf
 - MAUGERI, Salvatore, 1996. Parrochia Daniel, Philosophie des réseaux. *Revue française de sociologie* [en ligne]. 1996. Vol. 37, n° 1, pp. 132‑136. [Consulté le 12 janvier 2021]. Disponible à l’adresse : https://www.persee.fr/doc/rfsoc_0035-2969_1996_num_37_1_7085
 - MUCKENSTRURM, Julien, 2016. Architecture de l’information. iafactory [en ligne]. 2016. [Consulté le 12 janvier 2021]. Disponible à l’adresse : http://www.iafactory.fr/expertise-ux/architecture-de-l-information.php
 - VALLEJO-GOMEZ, Edgar, 2008. *La pensée complexe : Antidote pour les pensées uniques*. Entretien avec Edgar Morin. *Synergies* [en ligne]. 2008. N° 4, pp. 249‑262. [Consulté le 12 janvier 2021]. Disponible à l’adresse : https://www.gerflint.fr/Base/Monde4/nelson.pdf
+{{% /bibliographie-web %}}
 

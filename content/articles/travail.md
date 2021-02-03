@@ -134,6 +134,7 @@ Au-delà de l'aspect entreprise/université, il s'agit d'un temps particulier du
 
 ## Bibliographie
 
+{{% bibliographie-web %}}
 - BENSEDDIK, Mohammed, 2020. La Covid-19 comme laboratoire d’expérimentation. *Le Libellio* [en ligne]. Avril 2020. Vol. 16, pp. 21‑30. [Consulté le 26 octobre 2020]. Disponible à l’adresse : lelibellio.com/wp-content/uploads/2020/04/Le-Libellio-d-volume-16-Seri-e-spe%CC%81ciale-Coronam-semaine-5.pdf
 - BRYAN, Charity, LEEDS, Elke et WILEY, Tarrica, 2018. The Cost of Online Education: Leveraging Data to Identify Efficiencies. *Online Journal of Distance Learning Administration* [en ligne]. 15 juin 2018. Vol. 21, n° 2. [Consulté le 13 janvier 2021]. Disponible à l’adresse : https://www.westga.edu/~distance/ojdla/summer212/bryan_leeds_wiley212.html
 - DAHMANI, Abdelaziz et ELKEBIR, Elakry, 2020. La COVID-19 un accélérateur du Télétravail pour les Entreprises. *International Journal of Management Sciences* [en ligne]. 3 novembre 2020. Vol. 3, n° 4. [Consulté le 13 janvier 2021]. Disponible à l’adresse : https://www.revue-isg.com/index.php/home/article/view/405
@@ -144,4 +145,5 @@ Au-delà de l'aspect entreprise/université, il s'agit d'un temps particulier du
 - MALIK, Mathéo et RONTEIX, Gustave, 2020. Peut-on vraiment faire confiance à Zoom ? *Le Grand Continent* [en ligne]. 23 mars 2020. [Consulté le 13 janvier 2021]. Disponible à l’adresse : https://legrandcontinent.eu/fr/2020/03/23/peut-on-vraiment-faire-confiance-a-zoom/
 - VERGARA, Ingrid, 2020. « Zoom fatigue » : pourquoi les discussions en visioconférence sont si épuisantes. *Le Figaro* [en ligne]. 23 avril 2020. [Consulté le 12 janvier 2021]. Disponible à l’adresse : https://www.lefigaro.fr/secteur/high-tech/zoom-fatigue-pourquoi-les-discussions-en-visioconference-sont-si-epuisantes-20200423
 - WONG, Camille, 2020. Déconfinement : ces entreprises qui disent adieu à leurs bureaux pour rester en télétravail. *Les Echos Start* [en ligne]. 29 mai 2020. [Consulté le 13 janvier 2021]. Disponible à l’adresse : https://start.lesechos.fr/travailler-mieux/flexibilite-au-travail/deconfinement-ces-entreprises-qui-disent-adieu-a-leurs-bureaux-pour-rester-en-teletravail-1206519
+{{% /bibliographie-web %}}
 
