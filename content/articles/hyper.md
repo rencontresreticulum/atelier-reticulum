@@ -49,9 +49,14 @@ Malgré toutes ses fonctionnalités, il n'est pas compliqué à utiliser. Au con
 
 Sur ce modèle de structuration de l'information, avec ces liens et ces nœuds, les données sont donc associées et interconnectées, qu'elles soient textuelles, imagées ou même sonores, fomant ainsi un véritable réseau d'informations. L'utilisateur, de la même manière qu'avec l'hypertexte, peut donc se frayer un chemin dans une sorte de nuage (*cloud*) où les différents documents et données sont reliés entre eux comme des points dessinant un résau mobile sujet à des variations contantes. Dans cette spatialité éclatée du nuage, l'ordre logique imposé par une structure linéaire et hiérarchique, les contraintes du support papier ou d'une structure en arborescence sont dépassées, redéfinissant les pratiques de la connaissance.
 
-<figure class="web" id="221">
+<figure class="hidden-on-print" id="221">
 <figcaption>#221</figcaption>
-<img src="/img/221.png" />
+<img src="/img/221.svg" />
+</figure>
+
+<figure class="print-only" id="221">
+<figcaption>#221</figcaption>
+<img src="/img/221.jpg" />
 </figure>
 
 Poursuivant cette évolution technologique, l'hyperédition devient une notion à part entière.

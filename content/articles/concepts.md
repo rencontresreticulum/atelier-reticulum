@@ -18,9 +18,9 @@ La pensée réticulaire permet de comprendre des situations complexes au sein d'
 - analyse des interactions et des niveaux logiques entre ces variables ;
 - solution qui prend en compte tous ces facteurs (pensée systémique).
 
-<figure class="web" id="121">
+<figure class="hidden-on-print" id="121">
 <figcaption>#121</figcaption>
-<img alt="Pensée réticulaire" src="/img/121.png" />
+<img alt="Pensée réticulaire" src="/img/121.svg" />
 </figure>
 
 ## Paradigme de réseau
@@ -37,9 +37,9 @@ En d'autres mots, la pensée systémique est une méthode à caractère structur
 
 La causalité circulaire constitue le cœur d'une vision systémique : toute structure systémique est composée de boucles complexes qui vont amplifier ou stabiliser les phénomènes qui les composent. Dans une approche holistique, l'approche systémique doit prendre en compte le système dans sa totalité plutôt que chaque phénomène de façon isolée ou indépendante, de manière à toujours avoir une vision d'ensemble.
 
-<figure class="web" id="122">
+<figure class="hidden-on-print" id="122">
 <figcaption>#122</figcaption>
-<img alt="Pensée systémique" src="/img/122.png" />
+<img alt="Pensée systémique" src="/img/122.svg" />
 </figure>
 
 ## Architecture de l'information
@@ -56,9 +56,9 @@ Dans le contexte des environnements numériques, une des préoccupations central
 
 De par sa logique d'organisation des contenus, l'architecture de l'information est au carrefour entre les pratiques réticulaires et les paradigmes de réseau, notions centrales de notre revue. Cette notion était de plus au cœur de la deuxième édition de Reticulum : n'hésitez pas à consulter le site des rencontres, cité dans la bibliographie, afin d'avoir plus d'informations.
 
-<figure class="web" id="123">
+<figure class="hidden-on-print" id="123">
 <figcaption>#123</figcaption>
-<img alt="Architecture de l'information" src="/img/123.png" />
+<img alt="Architecture de l'information" src="/img/123.svg" />
 </figure>
 
 ## Hybridité

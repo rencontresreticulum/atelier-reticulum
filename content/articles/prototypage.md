@@ -39,9 +39,14 @@ En tant qu'acteurs de la conception de la revue, nous avons élaboré des strat�
 
 Les transmissions de connaissances inter-équipes ont offert un cadre qui a aidé à organiser les connaissances au fur et à mesure de leur acquisition, et facilité leur transmission. Ceci a permis de mieux situer et hiérarchiser les éléments du contenu de la revue.
 
-<figure class="web" id="211">
+<figure class="hidden-on-print" id="211">
 <figcaption>#211</figcaption>
-<img src="/img/211.png" />
+<img src="/img/211.svg" />
+</figure>
+
+<figure class="print-only" id="211">
+<figcaption>#211</figcaption>
+<img src="/img/211.jpg" />
 </figure>
 
 ## Les ressources (compétences développées, outils utilisés)
