@@ -298,12 +298,12 @@ main hr { display: none; }
 
 /* bibliographie */
 
-h2#bibliographie+ul {
+.bibliographie ul {
 	list-style: none;
 	text-indent: -1.5em;
 	padding-left: 1.5em;
 }
-h2#bibliographie+ul li {
+.bibliographie ul li {
 	margin: 0 0 0.5em 0;
 }
 

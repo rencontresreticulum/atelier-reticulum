@@ -5,6 +5,8 @@ code: bibliographie
 weight: 9
 ---
 
+{{% bibliographie %}}
+
 - BANTMAN, Patrick, 2004. Le concept de réseau. *VST - Vie sociale et traitements, revue des CEMEA* [en ligne]. 2004. N° 81, pp. 18‑19. [Consulté le 12 janvier 2021]. Disponible à l’adresse : https://www.cairn.info/revue-vie-sociale-et-traitements-2004-1-page-18.htm
 - BENSEDDIK, Mohammed, 2020. La Covid-19 comme laboratoire d’expérimentation. *Le Libellio* [en ligne]. avril 2020. Vol. 16, pp. 21‑30. [Consulté le 26 octobre 2020]. Disponible à l’adresse : lelibellio.com/wp-content/uploads/2020/04/Le-Libellio-d-volume-16-Seri-e-spe%CC%81ciale-Coronam-semaine-5.pdf
 - BÉSIAT, Jean-Pierre, 1993. Textes, champs lexicaux et HyperTexte. *Caliban* [en ligne]. 1993. Vol. 30, n° 1, pp. 117‑135. [Consulté le 13 janvier 2021]. DOI 10.3406/calib.1993.1273. Disponible à l’adresse : https://www.persee.fr/doc/calib_0575-2124_1993_num_30_1_1273
@@ -43,3 +45,5 @@ weight: 9
 - VERGARA, Ingrid, 2020. « Zoom fatigue » : pourquoi les discussions en visioconférence sont si épuisantes. *Le Figaro* [en ligne]. 23 avril 2020. [Consulté le 12 janvier 2021]. Disponible à l’adresse : https://www.lefigaro.fr/secteur/high-tech/zoom-fatigue-pourquoi-les-discussions-en-visioconference-sont-si-epuisantes-20200423
 - VITALI-ROSATI, Marcello, 2016. Qu’est-ce que l’éditorialisation? *Sens public* [en ligne]. 2016. [Consulté le 13 janvier 2021]. Disponible à l’adresse : http://sens-public.org/articles/1184/
 - WONG, Camille, 2020. Déconfinement : ces entreprises qui disent adieu à leurs bureaux pour rester en télétravail. *Les Echos Start* [en ligne]. 29 mai 2020. [Consulté le 13 janvier 2021]. Disponible à l’adresse : https://start.lesechos.fr/travailler-mieux/flexibilite-au-travail/deconfinement-ces-entreprises-qui-disent-adieu-a-leurs-bureaux-pour-rester-en-teletravail-1206519
+
+{{% /bibliographie %}}
