@@ -110,7 +110,7 @@ Au-delà de l'aspect entreprise/université, il s'agit d'un temps particulier du
 
 ### Master 1 DNHD
 
-> « Un peu surmenée par moment par peur de ne pas faire les choses correctement. »
+> « Un peu surmenée par moments par peur de ne pas faire les choses correctement. »
 
 > « Beaucoup d'entre nous se sont sentis peu sollicités ou suivis. »
 
