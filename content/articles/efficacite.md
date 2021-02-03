@@ -88,3 +88,4 @@ Ce sont ces idées et ces valeurs, propres à sa vision du design d’interactio
 ## Bibliographie
 
 - DUSSUD, Diane, 2021. Nicolas Gaudron, 32 ans, designer d’interaction. Imagine ton futur [en ligne]. 13 janvier 2021. [Consulté le 12 janvier 2021]. Disponible à l’adresse : https://www.imaginetonfutur.com/nicolas-gaudron-32-ans-designer-d-interaction.html
+

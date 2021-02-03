@@ -94,4 +94,5 @@ En somme, le préfixe « hyper » ajoute une nouvelle dimension à la document
 - NOËL-GAUDREAULT, Monique et HOPPER, Christophe, 1995. *Au carrefour de l’écriture, du traitement de texte et de l’hypertexte... Hyperconte*. Repères. Recherches en didactique du français langue maternelle. 1995. Vol. 11, n° 1, pp. 125‑137. DOI [10.3406/reper.1995.2149](https://www.persee.fr/doc/reper_1157-1330_1995_num_11_1_2149).
 - SALAÜN, Jean-Michel, 2004. *Chronique inachevée d’une réflexion collective sur le document* - Persée. [en ligne] Disponible à l’adresse : https://www.persee.fr/doc/colan_0336-1500_2004_num_140_1_3263?q=chronique+inachev%C3%A9e+d%27une+r%C3%A9flexion+collective+sur+le+document
 - Vitali-Rosati, Marcello. « Qu’est-ce que l’éditorialisation ? » Culture numérique. 2014. [en ligne] Disponible à l’adresse : https://blog.sens-public.org/marcellovitalirosati/quest-ce-que-leditorialisation/.
-- VITALI-ROSATI, Marcello. Qu’est-ce que l’éditorialisation? Sens public. 2016. [en ligne] Disponible à l’adresse :http://sens-public.org/articles/1184/
+- VITALI-ROSATI, Marcello. Qu’est-ce que l’éditorialisation? Sens public. 2016. [en ligne] Disponible à l’adresse : http://sens-public.org/articles/1184/
+

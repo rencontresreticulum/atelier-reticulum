@@ -77,3 +77,4 @@ Un contenu éditorial peut être augmenté en s'hybridant avec d'autres médias 
 - MAUGERI, Salvatore, 1996. Parrochia Daniel, Philosophie des réseaux. *Revue française de sociologie* [en ligne]. 1996. Vol. 37, n° 1, pp. 132‑136. [Consulté le 12 janvier 2021]. Disponible à l’adresse : https://www.persee.fr/doc/rfsoc_0035-2969_1996_num_37_1_7085
 - MUCKENSTRURM, Julien, 2016. Architecture de l’information. iafactory [en ligne]. 2016. [Consulté le 12 janvier 2021]. Disponible à l’adresse : http://www.iafactory.fr/expertise-ux/architecture-de-l-information.php
 - VALLEJO-GOMEZ, Edgar, 2008. *La pensée complexe : Antidote pour les pensées uniques*. Entretien avec Edgar Morin. *Synergies* [en ligne]. 2008. N° 4, pp. 249‑262. [Consulté le 12 janvier 2021]. Disponible à l’adresse : https://www.gerflint.fr/Base/Monde4/nelson.pdf
+
