@@ -13,6 +13,24 @@
 				</div>
 				{{ if (eq .Params.pagedjs true)  }}
 				{{ partial "print-button.html" }}
+				<!-- 1ere de couverture -->
+				<div class="page print-only">
+					<section class="cover">
+						<div class="cover-title">
+							<h1>Reticulum</h1>
+							<p>Interroger le réseau <br/> par le réseau</p>
+						</div>
+						<div class="cover-footer">
+							<div class="cover-footer-left">
+								<p> Février 2021</p>
+							</div>
+							<div class="cover-footer-right">
+								<img src="../img/MasterDNHD.jpg" alt="Master DIIS">
+								<img src="../img/MasterDIIS.jpg" alt="Master DIIS">
+							</div>
+						</div>
+					</section>
+				</div>
 				{{ range where .Site.Pages.ByWeight "Type" "=" "article" }}
 				<div id="{{ .File.TranslationBaseName }}" class="print-only article">
 					<h1>{{ .Title | markdownify }}</h1>
@@ -20,6 +38,15 @@
 				</div>
 				{{ end }}
 				{{ end }}
+				<!-- 4e de couverture -->
+				<div class="page print-only">
+					<section class="cover">
+						<div class="back-cover-footer">
+							<p>Ceci est la version imprimable/imprimée de la revue web+print conçu et développée par les étudiants des Master DIIS et DNHD de l'Université Bordeaux Montaigne.
+								Un projet conçu et accompagné par Florian Harmand et Arthur Perret.</p>
+						</div>
+					</section>
+				</div>
 			</main>
 			<div class="d-flex justify-content-between oue mb-5">
 				<div>

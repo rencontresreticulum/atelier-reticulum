@@ -56,6 +56,134 @@
     font-weight: bold;
   }
 
+  /* Gestion de la couverture */
+
+  .cover h1 {
+    font-family: "Lment";
+    font-size: 4rem;
+    font-weight: 400;
+  }
+  .cover p {
+    font-family: "Open Sans";
+    font-size: 1.6rem;
+    line-height: 1.2;
+  }
+
+  .cover {
+    break-after: page;
+    height: 245mm;
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
+    margin-top: 0;
+  }
+
+.cover-title {
+  flex: 1;
+}
+
+.cover-footer {
+  display: flex;
+  align-items: baseline;
+}
+
+.cover-footer-left {
+  flex: 1;
+}
+
+.cover-footer-left p{
+  font-size: 12pt;
+  font-weight: bold;
+}
+
+.cover-footer-right {
+
+}
+
+.cover-footer-right img {
+  max-width: 40mm;
+}
+.cover-footer-right img:nth-child(2) {
+  margin-left: 8mm;
+  margin-top: 4mm;
+}
+
+  @page:nth(1) {
+    background: url("../../img/cover-diagramme.jpg") #ffffff;
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: 70% 52%;
+  }
+
+  /* Gestion de la 4e de couverture*/
+
+  .back-cover {
+    break-before: page;
+    background: gray;
+  }
+
+  #editorial {
+    break-before: right;
+  }
+
+  /* hack du numéro de page */
+
+  #editorial {
+    counter-reset: page 1;
+  }
+
+  .pagedjs_page:nth-child(1) div.pagedjs_margin-bottom-right-corner-holder .pagedjs_margin-content{
+    display: none;
+  }
+  .pagedjs_page:nth-child(2) div.pagedjs_margin-bottom-left-corner-holder .pagedjs_margin-content{
+    display: none;
+  }
+  .pagedjs_page:nth-last-child(2) div.pagedjs_margin-bottom-right-corner-holder .pagedjs_margin-content{
+    display: none;
+  }
+  .pagedjs_page:nth-last-child(1) div.pagedjs_margin-bottom-right-corner-holder .pagedjs_margin-content{
+    display: none;
+  }
+  .pagedjs_page:nth-last-child(1) div.pagedjs_margin-bottom-left-corner-holder .pagedjs_margin-content{
+    display: none;
+  }
+  .pagedjs_page:nth-last-child(2) div.pagedjs_margin-bottom-left-corner-holder .pagedjs_margin-content{
+    display: none;
+  }
+  .pagedjs_page:nth-child(1) div.pagedjs_margin-bottom-right-corner-holder .pagedjs_margin-content{
+    display: none;
+  }
+  .pagedjs_page:nth-child(2) div.pagedjs_margin-bottom-left-corner-holder .pagedjs_margin-content{
+    display: none;
+  }
+
+
+  /* Supprime le content en header dans les dernière et avant-dernière pages */
+  .pagedjs_page:nth-last-child(1) div.pagedjs_margin-top-left{
+    display: none;
+  }
+  .pagedjs_page:nth-last-child(2) div.pagedjs_margin-top-left{
+    display: none;
+  }
+  .pagedjs_page:nth-last-child(2) div.pagedjs_margin-top-right{
+    display: none;
+  }
+  .pagedjs_page:nth-last-child(1) div.pagedjs_margin-top-right{
+    display: none;
+  }
+
+  /* Optimisation */
+
+  .article h2 {
+    margin-top: 1.5rem;
+  }
+
+  .article h2:first-child {
+    margin-top: 0;
+  }
+
+
+
   /* Titre courant */
 
   h1 {
@@ -118,9 +246,9 @@
   .print-only {
     display: block;
   }
-  
+
   /* Figures */
-  
+
   figure {
   	break-inside: avoid;
   }
@@ -135,7 +263,7 @@
 
   @page {
     size: 210mm 297mm; /* ou A4 */
-    margin-top: 30mm;
+    margin-top: 25mm;
     margin-bottom: 20mm;
     bleeds: 0;
 
