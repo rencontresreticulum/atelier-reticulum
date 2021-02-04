@@ -69,7 +69,7 @@
 
   .cover {
     break-after: page;
-    height: 245mm;
+    height: 260mm;
     display: flex;
     flex-direction: column;
     align-content: space-between;
@@ -112,6 +112,8 @@
     background-position: 70% 52%;
   }
 
+  /* Page blanche au début*/
+
   #editorial {
     break-before: right;
   }
@@ -122,10 +124,12 @@
     font-size: 12pt;
   }
 
-  /* hack du numéro de page */
+  /* reset du numéro de page */
   #editorial {
     counter-reset: page 1;
   }
+
+  /* masque les numéros de pages sur les deux premières et deux dernières pages */
 
   .pagedjs_page:nth-child(1) div.pagedjs_margin-bottom-right-corner-holder .pagedjs_margin-content {
     display: none;
@@ -148,14 +152,6 @@
   }
 
   .pagedjs_page:nth-last-child(2) div.pagedjs_margin-bottom-left-corner-holder .pagedjs_margin-content {
-    display: none;
-  }
-
-  .pagedjs_page:nth-child(1) div.pagedjs_margin-bottom-right-corner-holder .pagedjs_margin-content {
-    display: none;
-  }
-
-  .pagedjs_page:nth-child(2) div.pagedjs_margin-bottom-left-corner-holder .pagedjs_margin-content {
     display: none;
   }
 
@@ -218,6 +214,14 @@
     display: none;
   }
 
+  .bibliographie ul li{
+    font-size: 9pt;
+  }
+
+  .bibliographie ul li a{
+    word-break: break-word;
+  }
+
   /* Paragraphes */
   p, ul {
     font-size: 10pt;
@@ -263,7 +267,7 @@
   @page {
     size: 210mm 297mm;
     /* ou A4 */
-    margin-top: 25mm;
+    margin-top: 20mm;
     margin-bottom: 20mm;
     bleeds: 0;
 
@@ -273,8 +277,8 @@
   }
 
   @page: left {
-    margin-left: 20mm;
-    margin-right: 15mm;
+    margin-left: 18mm;
+    margin-right: 13mm;
 
     @bottom-left-corner {
       content: counter(page);
@@ -290,8 +294,8 @@
   }
 
   @page: right {
-    margin-left: 15mm;
-    margin-right: 20mm;
+    margin-left: 13mm;
+    margin-right: 18mm;
 
     @bottom-right-corner {
       content: counter(page);
