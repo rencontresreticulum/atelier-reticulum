@@ -25,16 +25,6 @@ Afin d'être efficace, nous avons appris à « faire » pour « réfléchir 
 
 Cette réflexion ancrée dans le « faire » nous a demandé de nous débrouiller avec les moyens du bord et de bricoler afin de mixer les phases d'idéation, de prototypage et de test. Cette méthodologie, permettant des itérations constantes en fonction de nos observations, nous a permis de faire vivre le projet dans une approche systémique et non linéaire.
 
-<figure class="hidden-on-print" id="321">
-<figcaption>#321</figcaption>
-<img src="/img/321.svg" />
-</figure>
-
-<figure class="print-only" id="321">
-<figcaption>#321</figcaption>
-<img src="/img/321.jpg" />
-</figure>
-
 ## Cohérence d'un système et pensée systémique
 
 Afin d'introduire et d'illustrer ces notions liées au système, nous allons nous appuyer sur l'exemple d'un outil méthodologique dont nous nous sommes servis durant ce projet : le *brainstorming* organisé sous forme de carte mentale (*mind map*). Il nous permet d'organiser nos pensées par des liens et ainsi de générer des idées par des connexions. Un mot en amenant d'autres, tout un réseau de pensée se construit autour d'un point central.
@@ -43,31 +33,11 @@ Durant ce projet, à l'image de cet outil systémique, nous avons délaissé la 
 
 De manière générale, il est intéressant de voir comment se développent et se façonnent des idées, quel message on tente de faire passer, quel comportement on souhaite induire et par quels moyens. Lorsqu'on développe une idée, il est nécessaire d'apporter une attention toute particulière à la forme extérieure, aux interactions, aux comportements et aux petits détails qui ont toute leur importance. Par exemple, si l'on met du mouvement dans un objet, comment bouge-t-il ? Pourquoi ? S'il y a de la lumière, comment s'allume-t-elle ? À quel rythme ? Pourquoi ? Quel son choisit-on ? Le principal étant de toujours travailler la cohérence d'un système et donner du sens à toutes les décisions que nous prenons, car tous les éléments sont connectés à d'autres et font partie d'un tout, comme par exemple tous les points de contact d'un service.
 
-<figure class="hidden-on-print" id="322">
-<figcaption>#322</figcaption>
-<img src="/img/322.svg" />
-</figure>
-
-<figure class="print-only" id="322">
-<figcaption>#322</figcaption>
-<img src="/img/322.jpg" />
-</figure>
-
 ## Émotion et empathie
 
 Afin d'assurer la cohérence et le bon sens d'un projet, il est important de transmettre nos valeurs, de prendre un positionnement et de s'impliquer émotionnellement pour trouver des réponses sincères et donc plus justes et harmonieuses. Nous pouvons connecter notre travail au réel et lui donner ainsi davantage de valeur en y injectant une consistance émotionnelle puisée à deux niveaux : interne et externe. Dans le premier niveau, nous pouvons ancrer notre projet dans un système d'affects internes et ainsi puiser dans nos propres souvenirs, anecdotes ou expériences pour lui donner une dimension réelle, ayant de la valeur à nos yeux. Le second niveau, lui, demande de s'imprégner d'un environnement, un contexte, un sujet ou une problématique en développant une démarche empathique auprès d'autrui, en se mettant à sa place, en l'interrogeant et en l'observant.
 
 Tout projet évolue à l'intérieur de contextes et de systèmes émotionnels. La démarche empathique permet de créer des connexions entre les deux.
-
-<figure class="hidden-on-print" id="323">
-<figcaption>#323</figcaption>
-<img src="/img/323.svg" />
-</figure>
-
-<figure class="print-only" id="323">
-<figcaption>#323</figcaption>
-<img src="/img/323.jpg" />
-</figure>
 
 ## Pédagogie et communication
 
