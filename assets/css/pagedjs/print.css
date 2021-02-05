@@ -135,6 +135,20 @@
     font-size: 12pt;
   }
 
+  .back-cover-footer {
+    font-size: 12pt;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .back-cover-footer p{
+    max-width: 50mm;
+  }
+  .back-cover-footer img{
+    max-width: 50mm;
+  }
+
   /* reset du numéro de page */
   #editorial {
     counter-reset: page 1;
@@ -199,6 +213,7 @@
     font-size: 24pt;
     letter-spacing: 0px;
     word-spacing: 0px;
+    line-height: 1.2;
   }
 
   h2 {

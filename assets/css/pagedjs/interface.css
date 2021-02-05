@@ -3,7 +3,7 @@
 /* Change the look */
 :root {
     --color-background: whitesmoke;
-    --color-pageSheet: #cfcfcf;
+    --color-pageSheet: #cfcfcf!important;
     --color-pageBox: violet;
     --color-paper: white;
     --color-marginBox: transparent;
