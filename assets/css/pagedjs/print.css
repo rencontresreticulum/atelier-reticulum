@@ -59,6 +59,7 @@
     font-family: "Lment";
     font-size: 4rem;
     font-weight: 400;
+    margin-top: 10mm;
   }
 
   .cover p {
@@ -108,7 +109,7 @@
   .cover-graphics {
     flex: 6;
     align-self: center;
-    margin: 16mm 0;
+    margin: 8mm 0;
   }
 
   .cover-graphics img {
@@ -257,6 +258,10 @@
 
   ul {
     padding-inline-start: 12px;
+  }
+
+  .article blockquote {
+    margin: 0.5rem 0 0.5rem;
   }
 
   .content-imp {
