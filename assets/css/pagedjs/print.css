@@ -69,7 +69,7 @@
 
   .cover {
     break-after: page;
-    height: 260mm;
+    /*height: 260mm;*/
     display: flex;
     flex-direction: column;
     align-content: space-between;
@@ -77,12 +77,13 @@
   }
 
   .cover-title {
-    flex: 1;
+    flex: 2;
   }
 
   .cover-footer {
-    display: flex;
-    align-items: baseline;
+    display: flex!important;
+    align-items: center;
+    flex: 1;
   }
 
   .cover-footer-left {
@@ -94,10 +95,9 @@
     font-weight: bold;
   }
 
-  .cover-footer-right {}
-
   .cover-footer-right img {
     max-width: 40mm;
+    display: inline-block!important;
   }
 
   .cover-footer-right img:nth-child(2) {
@@ -105,11 +105,22 @@
     margin-top: 4mm;
   }
 
+  .cover-graphics {
+    flex: 6;
+    align-self: center;
+    margin: 16mm 0;
+  }
+
+  .cover-graphics img {
+    max-width: 100%;
+    display: block!important;
+  }
+
   @page: nth(1) {
-    background: url("../../img/cover-diagramme.jpg") #ffffff;
+    /*background: url("../../img/cover-diagramme.jpg") #ffffff;
     background-size: 50%;
     background-repeat: no-repeat;
-    background-position: 70% 52%;
+    background-position: 70% 52%;*/
   }
 
   /* Page blanche au début*/
