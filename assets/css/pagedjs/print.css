@@ -11,6 +11,10 @@
     min-width: auto !important;
   }
 
+  div.pagedjs_pagebox{
+      box-shadow: 0 0 0 1px rgba(0,0,0,0.5)!important;
+  }
+
   #nexti {
     display: none
   }
@@ -144,10 +148,11 @@
   }
 
   .back-cover-footer p{
-    max-width: 50mm;
+    max-width: 55mm;
+    text-align: justify;
   }
   .back-cover-footer img{
-    max-width: 50mm;
+    max-width: 59mm;
   }
 
   /* reset du numéro de page */
@@ -271,6 +276,7 @@
 
   .oue {
     width: 100%;
+    max-width: 100%;
     margin-top: 0 !important;
   }
 
