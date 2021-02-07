@@ -2,8 +2,9 @@
 title: Crédits
 code: credits
 type: article
-next: false
 weight: 10
+prev: false
+next: false
 ---
 
 La création de cette revue a été entreprise dans le cadre de la troisième [rencontre Reticulum](http://reticulum.info), co-organisée par Florian Harmand et Arthur Perret ([contact](mailto:florian.harman@gmail.com,arthur.perret@u-bordeaux-montaigne.fr)).

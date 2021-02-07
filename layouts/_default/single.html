@@ -55,18 +55,20 @@
 				</div>
 			</main>
 			<div class="d-flex justify-content-between oue mb-5">
+				{{ if not (eq .Params.prev false)  }}
 				<div>
 					{{ if .NextInSection }}
 					<i class="fa fa-arrow-circle-left fa-lg" aria-hidden="true"></i>
 					<a href="{{ .NextInSection.RelPermalink }}"><b>Précédent : <br> {{ .NextInSection.Title }}</b></a>{{ end }}
 				</div>
-				<div>
+				{{ end }}
 				{{ if not (eq .Params.next false)  }}
+				<div>
 				{{ if .PrevInSection }}
 					<i class="fa fa-arrow-circle-right fa-lg" aria-hidden="true"></i>
 					<a href="{{ .PrevInSection.RelPermalink }}"><b>Suivant : <br> {{ .PrevInSection.Title }}</b></a>{{ end }}
-				{{ end }}
 				</div>
+				{{ end }}
 			</div>
 		</div>
   {{ partial "footer.html" . }}

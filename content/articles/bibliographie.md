@@ -3,6 +3,7 @@ title: Bibliographie
 type: article
 code: bibliographie
 weight: 9
+prev: false
 next: false
 ---
 
