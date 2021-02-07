@@ -1,16 +1,19 @@
 ---
 title: Crédits
+code: credits
+type: article
 next: false
+weight: 10
 ---
 
 La création de cette revue a été entreprise dans le cadre de la troisième [rencontre Reticulum](http://reticulum.info), co-organisée par Florian Harmand et Arthur Perret ([contact](mailto:florian.harman@gmail.com,arthur.perret@u-bordeaux-montaigne.fr)).
 
-### Gestion de projet
+**Gestion de projet**
 
 Thomas Graneri (Master DIIS)  
 Guillaume Brioudes (Master DHND)
 
-### Éditorial
+**Éditorial**
 
 Leeloo Arrondell (Master DHND)  
 Petuna Lysiane Assauke (Master DHND)  
@@ -27,14 +30,14 @@ Lucas Schlüter (Master DHND)
 Ines Tauran (Master DIIS)  
 Léa Vaudandaine (Master DIIS)
 
-### Direction artistique
+**Direction artistique**
 
 Sarah Affoyon (Master DIIS)  
 Éléa Bounaix (Master DIIS)  
 Chloé Vivien (Master DIIS)  
 Huan Yu (Master DIIS)
 
-### Support
+**Support**
 
 Maïna Albert (Master DIIS)  
 Ingrid Babu (Master DIIS)  

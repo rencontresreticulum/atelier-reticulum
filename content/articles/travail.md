@@ -3,6 +3,7 @@ title: Travailler en réseau en temps de Covid
 type: article
 code: travail
 weight: 8
+next: false
 ---
 
 ## La Covid-19, une crise à caractère systémique
