@@ -31,7 +31,7 @@
 
     .pagedjs_page {
         background-color: var(--color-paper);
-        box-shadow: 0 0 0 1px var(--color-pageSheet);
+        box-shadow: 0 0 0 1px var(--color-pageSheet)!important;
         margin: 0;
         flex-shrink: 0;
         flex-grow: 0;
