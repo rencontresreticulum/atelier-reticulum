@@ -18,7 +18,7 @@ Nous tenterons d'analyser à travers cet article, l'apprentissage à distance au
 
 ## La métamorphose des pratiques en Master
 
-Suite à la fermeture de l'université lors des confinements et la généralisation des cours à distance, les étudiants comme les professeurs ont dû s'adapter ; trouver de nouveaux outils, apprendre à les utiliser et mettre en place de nouvelles pratiques de travail. En ce sens, comment la pandémie a-t-elle métamorphosé les pratiques des étudiants ?
+Suite à la fermeture de l'université lors des confinements et la généralisation des cours à distance, les étudiants comme les professeurs ont dû s'adapter ; trouver de nouveaux outils, apprendre à les utiliser et mettre en place de nouvelles pratiques de travail. En ce sens, comment la pandémie a-t-elle métamorphosé les pratiques des étudiants ?
 
 ### 1. La mise en place d'outils réticulaires
 

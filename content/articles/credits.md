@@ -62,7 +62,7 @@ La revue est fabriquée avec les programmes open source suivants :
 - le thème [Xmin](https://xmin.yihui.org) pour Hugo, par Yihui Xie (licence MIT) ;
 - le *polyfill* [PagedJS](https://www.pagedjs.org) (licence MIT).
 
-Les polices suivantes sont utilisées dans la revue :
+Les polices suivantes sont utilisées dans la revue :
 
 - [Lment](https://velvetyne.fr/fonts/lment/), de Sébastien Hayez (licence OFL) ;
 - [Lato](https://fonts.google.com/specimen/Lato), de Łukasz Dziedzic (licence OFL) ;

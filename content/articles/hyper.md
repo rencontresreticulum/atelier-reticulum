@@ -5,13 +5,13 @@ code: hyper
 weight: 4
 ---
 
-> « Un hyperdocument n'est pas un document. »  (Bachimont, 2001)
+> « Un hyperdocument n'est pas un document. »  (Bachimont, 2001)
 
 Dans leur article _Hyperdocumentation : origin and evolution of a concept_, les chercheurs Arthur Perret et Olivier Le Deuff questionnent la genèse du terme « Hyper Documentation » figurant dans le grand _Traité de documentation_ (1934) du bibliographe belge créateur du _Mundaneum_, Paul Otlet. Ils décrivent comment le préfixe « hyper » semble apparaître pour la première fois en 1895 dans la traduction de _Principles of Sociology_ de Herbert Spencer par Jean Izoulet, dans la formule « hyper-organisme ». Ce préfixe se différencie de « super », qui transmet un sens de hiérarchie prononcé, car il véhicule une signification de transcendance. Le préfixe n'a donc pas une fonction augmentative ou intensive, mais spatiale, signifiant « au-delà », plutôt que « au-dessus » ou « plus de ». Ted Nelson, sociologue américain dont on aura à reparler, souligne comment « hyper » se réfère donc à la structure et non pas à la dimension.
 
 Un hyperdocument est donc un type de document autre, tout comme l'hyperdocumentation était une forme de documentation transcendée pour Otlet. La particularité de ce nouveau type de support, engendré par les nouvelles méthodes de captation, est sa tendance à dépasser notre compréhension. Hyper est pris dans le sens mathématique d'hyperespace, c'est pourquoi l'hyperdocument nous échappe, par le fait qu'il existe « dans un espace à n dimensions », comme l'affirment Laufer et Scavetta dans _Textes, Hypertexte et Hypermédia_. Il n'est donc pas accessible à nos sens en tant que tel, ce qui fait affirmer à Otlet que ce type de document ineffable nous pousse à développer une forme d'hyper-intelligence afin de pouvoir l'appréhender.
 
-> « Un hyperdocument est un contenu informatif constitué d'une nébuleuse de fragments dont le sens se construit à travers chacun des parcours que la lecture détermine. »  (Balpe, 1990)
+> « Un hyperdocument est un contenu informatif constitué d'une nébuleuse de fragments dont le sens se construit à travers chacun des parcours que la lecture détermine. »  (Balpe, 1990)
 
 « Nébuleuse de fragments », l'hyperdocument, ou le document numérique, est intrinsèquement et ontologiquement lié à la notion de réseau. À la fois cause et conséquence de la pensée et des pratiques réticulaires, ce type de support témoigne de toute la richesse et la complexité de ce modèle. Par sa dynamique basée sur l'interaction et l'invitation à une lecture non-linéaire, une plus grande place est accordée à « l'instance réceptrice », formule de Michel Meyer dans _La Rhétorique_, qui, à l'instar du lecteur barthésien, est donc libre de suivre d'innombrables chemins d'interprétation et de s'approprier d'une façon toujours nouvelle un contenu pris dans un réseau de significations presque inépuisable.
 
@@ -21,7 +21,7 @@ Une exploration de la notion clé d'hypertexte, unité de base de l'hyperdocumen
 
 C'est dans le travail encyclopédique que la notion d'hypertexte trouve ses origines les plus lointaines, dans la collection et l'archivage systématique de données. Plusieurs siècles avant l'invention même de l'informatique, on retrouve déjà ses premiers ancêtres dans des ouvrages dotés d'index, qui dirigeaient le lecteur vers différentes parties du texte, constituant en outil de consultation proposant un parcours alternatif par rapport à celui suivi lors d'une lecture linéaire traditionnelle. C'est en 1965 que Ted Nelson pose un mot sur l'idée, dans _Complex Information Processing : A File Structure for the Complex, the Changing, and the Indeterminate_, traduit ici :
 
-> « Permettez-moi d'introduire le mot « hypertexte » pour désigner un ensemble de documents, écrits ou illustrés, interconnectés d'une manière si complexe qu'il ne pourrait pas être présenté ou représenté sur papier. » (Nelson, 1965)
+> « Permettez-moi d'introduire le mot « hypertexte » pour désigner un ensemble de documents, écrits ou illustrés, interconnectés d'une manière si complexe qu'il ne pourrait pas être présenté ou représenté sur papier. » (Nelson, 1965)
 
 C'est Tim Berners-Lee, qui imagine donner une adresse aux documents – l'URL, _uniform resource locator_ – afin de concrétiser cette idée à la longue genèse, créant ainsi le _World Wide Web_.
 L'hypertexte y est défini comme un corpus non linéaire, conférant à l'utilisateur une liberté de mouvement et l'accès à la culture à travers des hyperdocuments.
@@ -30,7 +30,7 @@ Concrètement, un ensemble de données textuelles sont numérisées sur un suppo
 
 Structure de réseau sémantique, l'hypertexte permet de dépasser le seul texte. Il s'agit d'une nouvelle manière de présenter l'information numérique. L'expérience de l'utilisateur s'en trouve fluidifiée, puisque ce dernier devient libre d'explorer le web à sa guise.
 
-> « Le texte propose au lecteur un parcours fixe. L'hypertexte permet au lecteur, en reponse à ses demandes, de constituer progessivement à l'écran un assemblage fugace d'éléments textuels. » (Laufer, Scavetta, 1995)
+> « Le texte propose au lecteur un parcours fixe. L'hypertexte permet au lecteur, en reponse à ses demandes, de constituer progessivement à l'écran un assemblage fugace d'éléments textuels. » (Laufer, Scavetta, 1995)
 
 Les outils du web sémantique qui comportent des hyperliens, présents dans les données elles-mêmes, permettent de citer leurs données dans des programmes automatiques. La structure du Web est ainsi réticulaire : elle est organisée sous forme de réseau.
 
@@ -40,7 +40,7 @@ Mais la structure de l'hypertexte peut être étendue à des données multimédi
 
 ## L'extension de l'hypertexte : l'hypermédia
 
-> « L'hypermédia est un concept qui allie le multimédia et l'hypertexte. » (Cormerais, Milon, 2008)
+> « L'hypermédia est un concept qui allie le multimédia et l'hypertexte. » (Cormerais, Milon, 2008)
 
 Le terme hypermédia, ayant été forgé lui aussi par Ted Nelson, est souvent confondu avec celui d'hypertexte, mais il véhicule une notion différente de celui-ci, notamment une nouvelle étape dans l'intégration et manipulation des données numériques. En effet, l'information n'est plus seulement linguistique, mais peut emprunter divers supports et médias (images numérisées, animations, vidéo, audio, animations d'objets).
 Ayant pour fonction de rediriger ou d'ajouter des informations multimédias supplémentaires à un document de texte, l'hypermédia se configure donc comme une extension de l'hypertexte, permettant à l'utilisateur de consulter toute sorte de données, allant d'une image ou d'une vidéo jusqu'à l'ajout d'extraits sonores. L'hypermédia permet ainsi de nombreuses possibilités pour enrichir un corpus.
@@ -65,11 +65,11 @@ Poursuivant cette évolution technologique, l'hyperédition devient une notion �
 
 On peut de nos jours, et suivant notamment la réflexion du professeur Marcello Vitali Rosati, considérer l'éditorialisation non pas comme une simple méthode de travail mais comme une théorie philosophique, et ainsi envisager la documentation, et plus particulièrement l'hyperédition, comme une façon d'appréhender, comprendre et façonner le monde. L'éditorialisation désigne en effet l'ensemble des opérations de structuration, de mise en accessibilité et en visibilité de contenus, comprenant l'ensemble es dispositifs permettant la structuration et la circulation du savoir. L'hyperédition est donc une curation, une éditorialisation, comportant « un transfert d’informations restructurées pour être adaptées à l’environnement numérique » (Vitali Rosati) et notamment au Web et à sa nature réticulaire.
 
-> « Le processus d’édition est délimité dans le temps et dans l’espace tandis que le processus d’éditorialisation ne l’est pas. » (Vitali Rosati, 2014)
+> « Le processus d’édition est délimité dans le temps et dans l’espace tandis que le processus d’éditorialisation ne l’est pas. » (Vitali Rosati, 2014)
 
 Dans la societé contemporaine, exister comporte et signifie être éditorialisé, dans la mesure où la réalité des choses et leur importance sont considérées selon la façon dont elles sont documentées, et que _si_ elles le sont. En ce sens, l'éditorialisation est non seulement  « une production de visions du monde », mais  « un acte de production du réel » (Vitali Rosati).
 
-> « Être un individu doté de sociabilité, c'est être sur Facebook, Twitter ou LinkedIn; être un restaurant, c'est être trouvable sur Google, Apple ou Yelp. » (Brassard, 2020)
+> « Être un individu doté de sociabilité, c'est être sur Facebook, Twitter ou LinkedIn; être un restaurant, c'est être trouvable sur Google, Apple ou Yelp. » (Brassard, 2020)
 
 Dans cette situation, l'idée même de l'existence, du fait d'être, dépend de la documentation de la personne, de sa présence et visibilité dans un réseau. Si aucune trace de vous est trouvable, existez-vous vraiment? La bibliothécaire Suzanne Briet, à travers le fameux exemple de l'antilope, propose une réflexion sur la nature multiple du document, en affirmant que même un être vivant peut devenir document - comme l'antilope devient un document en tant qu'animal catalogué dans un zoo. L'attention est alors portée sur ce qui a fonctionné ou servi de document, et non pas ce qui l'a été physiquement, selon la définition canonique. En donnant une identité au document, et, inversement, le document construisant notre identité, la réalité sociale et l'idée même de réseau prennent une ampleur bien plus importante.
 

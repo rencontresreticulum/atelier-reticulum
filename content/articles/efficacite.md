@@ -5,7 +5,7 @@ code: efficacite
 weight: 6
 ---
 
-Le *workshop* objets connectés réalisé dans le cadre du master Design se présentait sous la forme d'un atelier d'une semaine, dirigé par le designer d'interaction Nicolas Gaudron. Par groupe de trois ou quatre, nous avions pour objectif de concevoir un projet sur la vaste thématique des objets connectés. Passant par des phases d'exploration, de création et de présentation d'un rendu, il s'agissait de produire un scénario d'usage mais aussi un prototype  fonctionnel. Pour ce prototypage rapide, nous avions besoin d'un ordinateur portable et de matériaux basiques et/ou de récupération : feutres, ciseaux, post-it, papier, carton, etc. Durant cet atelier, nous avons appris les rudiments du design d'interaction ainsi qu'une méthodologie nouvelle, favorisant une efficacité de mise en œuvre par une approche systémique.
+Le *workshop* objets connectés réalisé dans le cadre du master Design se présentait sous la forme d'un atelier d'une semaine, dirigé par le designer d'interaction Nicolas Gaudron. Par groupe de trois ou quatre, nous avions pour objectif de concevoir un projet sur la vaste thématique des objets connectés. Passant par des phases d'exploration, de création et de présentation d'un rendu, il s'agissait de produire un scénario d'usage mais aussi un prototype  fonctionnel. Pour ce prototypage rapide, nous avions besoin d'un ordinateur portable et de matériaux basiques et/ou de récupération : feutres, ciseaux, post-it, papier, carton, etc. Durant cet atelier, nous avons appris les rudiments du design d'interaction ainsi qu'une méthodologie nouvelle, favorisant une efficacité de mise en œuvre par une approche systémique.
 
 ## Efficacité et pertinence
 
