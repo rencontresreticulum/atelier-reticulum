@@ -37,7 +37,7 @@ L'activité créatrice se développe à partir de la relation entre les individu
 
 <figure class="hidden-on-print" id="331">
 <figcaption>#331</figcaption>
-<img src="/img/331.svg" />
+{{< diagramme-331 >}}
 </figure>
 
 <figure class="print-only" id="331">

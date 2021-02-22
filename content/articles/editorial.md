@@ -13,7 +13,7 @@ En janvier 2021, nous – étudiants du Master DIIS (design) et du Master DNHD (
 
 <figure class="hidden-on-print" id="111">
 <figcaption>#111</figcaption>
-<img src="/img/111.svg" />
+{{< diagramme-111 >}}
 </figure>
 
 <figure class="print-only" id="111">
@@ -29,7 +29,7 @@ Au fil des articles, le paradigme réticulaire est traité sous différents pris
 
 <figure class="hidden-on-print" id="112">
 <figcaption>#112</figcaption>
-<img src="/img/112.svg" />
+{{< diagramme-112 >}}
 </figure>
 
 <figure class="print-only" id="112">
