@@ -239,7 +239,8 @@ main {
 /* links */
 a, a:hover, a:visited {
 	text-decoration: underline;
-	color: inherit
+	color: inherit;
+	word-break: break-word;
 }
 
 /* code */
