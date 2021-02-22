@@ -34,7 +34,7 @@ Cependant, le travail en réseau ne s'effectue pas seulement pendant les enseign
 
 <figure class="hidden-on-print" id="411">
 <figcaption>#411</figcaption>
-<img src="/img/411.svg" />
+{{< diagramme-411 >}}
 </figure>
 
 <figure class="print-only" id="411">
