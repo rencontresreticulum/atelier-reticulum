@@ -13,7 +13,7 @@ En janvier 2021, nous – étudiants du Master DIIS (design) et du Master DNHD (
 
 <figure class="hidden-on-print" id="111">
 <figcaption>#111</figcaption>
-{{< diagramme-111 >}}
+<img src="/img/111.svg" />
 </figure>
 
 <figure class="print-only" id="111">
