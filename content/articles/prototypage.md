@@ -41,7 +41,7 @@ Les transmissions de connaissances inter-Ã©quipes ont offert un cadre qui a aidÃ
 
 <figure class="hidden-on-print" id="211">
 <figcaption>#211</figcaption>
-{{< diagramme-211 >}}
+<img src="/img/211.svg" />
 </figure>
 
 <figure class="print-only" id="211">

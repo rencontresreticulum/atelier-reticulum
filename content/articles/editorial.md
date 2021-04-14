@@ -29,7 +29,7 @@ Au fil des articles, le paradigme réticulaire est traité sous différents pris
 
 <figure class="hidden-on-print" id="112">
 <figcaption>#112</figcaption>
-{{< diagramme-112 >}}
+<img src="/img/112.svg" />
 </figure>
 
 <figure class="print-only" id="112">

@@ -23,7 +23,7 @@ L'existence d'une affinité thématique,le design de service pour les aidants fa
 
 <figure class="hidden-on-print" id="311">
 <figcaption>#311</figcaption>
-{{< diagramme-311 >}}
+<img src="/img/311.svg" />
 </figure>
 
 <figure class="print-only" id="311">
@@ -33,7 +33,7 @@ L'existence d'une affinité thématique,le design de service pour les aidants fa
 
 <figure class="hidden-on-print" id="312">
 <figcaption>#312</figcaption>
-{{< diagramme-312 >}}
+<img src="/img/312.svg" />
 </figure>
 
 <figure class="print-only" id="312">
@@ -55,7 +55,7 @@ D'un point de vue systémique et organisationnel, le travail collectif que nous 
 
 <figure class="hidden-on-print" id="313">
 <figcaption>#313</figcaption>
-{{< diagramme-313 >}}
+<img src="/img/313.svg" />
 </figure>
 
 <figure class="print-only" id="313">
@@ -73,7 +73,7 @@ Nous avons réalisé le schéma ci-dessous afin de tenter d'exprimer visuellemen
 
 <figure class="hidden-on-print" id="314">
 <figcaption>#314</figcaption>
-{{< diagramme-314 >}}
+<img src="/img/314.svg" />
 </figure>
 
 <figure class="print-only" id="314">
