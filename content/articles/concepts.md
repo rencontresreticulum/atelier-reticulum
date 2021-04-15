@@ -20,7 +20,7 @@ La pensée réticulaire permet de comprendre des situations complexes au sein d'
 
 <figure class="hidden-on-print" id="121">
 <figcaption>#121</figcaption>
-{{< diagramme-121 >}}
+<img alt="Pensée réticulaire" src="/img/121.svg" />
 </figure>
 
 ## Paradigme de réseau
@@ -39,7 +39,7 @@ La causalité circulaire constitue le cœur d'une vision systémique : toute st
 
 <figure class="hidden-on-print" id="122">
 <figcaption>#122</figcaption>
-{{< diagramme-122 >}}
+<img alt="Pensée systémique" src="/img/122.svg" />
 </figure>
 
 ## Architecture de l'information
@@ -58,7 +58,7 @@ De par sa logique d'organisation des contenus, l'architecture de l'information e
 
 <figure class="hidden-on-print" id="123">
 <figcaption>#123</figcaption>
-{{< diagramme-123 >}}
+<img alt="Architecture de l'information" src="/img/123.svg" />
 </figure>
 
 ## Hybridité
