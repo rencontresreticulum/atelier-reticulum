@@ -58,6 +58,12 @@
     font-weight: bold;
   }
 
+  /* Crédits */
+
+  #credits {
+    break-before: right;
+  }
+
   /* Gestion de la couverture */
   .cover h1 {
     font-family: "Lment";
@@ -136,7 +142,7 @@
 
   /* Gestion de la 4e de couverture*/
   .back-cover {
-    break-before: right;
+    break-before: left;
     font-size: 12pt;
   }
 
@@ -182,12 +188,20 @@
     display: none;
   }
 
+  .pagedjs_page:nth-last-child(3) div.pagedjs_margin-bottom-left-corner-holder .pagedjs_margin-content {
+    display: none;
+  }
+
   .pagedjs_page:nth-last-child(2) div.pagedjs_margin-bottom-left-corner-holder .pagedjs_margin-content {
     display: none;
   }
 
-  /* Supprime le content en header dans les dernière et avant-dernière pages */
+  /* Supprime le content en header dans les 3 dernière pages */
   .pagedjs_page:nth-last-child(1) div.pagedjs_margin-top-left {
+    display: none;
+  }
+
+  .pagedjs_page:nth-last-child(3) div.pagedjs_margin-top-left {
     display: none;
   }
 
