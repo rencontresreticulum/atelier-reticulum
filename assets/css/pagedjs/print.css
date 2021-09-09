@@ -69,7 +69,7 @@
     font-family: "Lment";
     font-size: 4rem;
     font-weight: 400;
-    margin-top: 10mm;
+    margin-top: 5mm;
   }
 
   .cover p {
@@ -123,8 +123,9 @@
   }
 
   .cover-graphics img {
-    max-width: 100%;
+    max-width: 74%;
     display: block!important;
+    margin: 0 auto;
   }
 
   @page: nth(1) {
